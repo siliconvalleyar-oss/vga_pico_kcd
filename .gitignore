@@ -1,0 +1,24 @@
+# KiCad lock files
+~*.kicad_pcb.lck
+~*.kicad_pro.lck
+~*.kicad_sch.lck
+~*.kicad_sym.lck
+
+# KiCad auto-save / history
+.history/
+*.kicad_pcb.bak
+*.kicad_pro.bak
+*.kicad_sch.bak
+*-backups/
+
+# Temp / work
+tmp/
+gerbers/
+*.lck
+
+# Local user settings
+*.kicad_prl
+
+# OS
+.DS_Store
+Thumbs.db

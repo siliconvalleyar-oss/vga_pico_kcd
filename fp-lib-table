@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "RaspberryPI PicoW") (type "KiCad") (uri "${KIPRJMOD}/RPi_Pico.pretty") (options "") (descr "RaspberryPi PicoW"))
+	(lib (name "Raspberry_pico2w") (type "KiCad") (uri "/mnt/disk/kicad/library/Raspberry_pico2w.pretty") (options "") (descr ""))
+)

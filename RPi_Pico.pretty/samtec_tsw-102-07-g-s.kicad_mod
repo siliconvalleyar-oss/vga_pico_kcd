@@ -1,0 +1,349 @@
+(footprint "samtec_tsw-102-07-g-s"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -2.0828 1.79 270)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d1c8722c-35cd-4017-8c4f-50d370d82286")
+		(effects
+			(font
+				(size 0.8 0.5)
+				(thickness 0.125)
+				(bold yes)
+			)
+			(justify left)
+		)
+	)
+	(property "Value" "TSW-102-07-G-S"
+		(at 0 2.27 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d5a9967c-0608-430c-a168-95a0c575b33f")
+		(effects
+			(font
+				(size 0.8 0.5)
+				(thickness 0.125)
+				(bold yes)
+			)
+		)
+	)
+	(property "Datasheet" "file:///C:\\rpi-pdb\\parts\\Connectors\\Pin_Headers\\SAMTEC_TSW-102-07-G-S\\datasheets"
+		(at 2.54 -1.27 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7d9c23f9-ca85-4b46-b76c-801e3aa12e61")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Pin Header, 01x02W, 2.54mm, PTH, Male"
+		(at 2.54 -1.27 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7652f2ea-b93b-4528-a716-3d8df0e1786f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "part_uid" "RP-01JV5X-LY21H5"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8bbbdcf5-c3d0-42a5-8379-a28a6f19d6cb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "status" "OK"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b52ad029-fbde-435b-ab87-7d66d037de69")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "manufacturer" "Samtec"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8dd5e721-3bdb-4157-88c8-8f9b66e183d5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "manufacturer_pn" "TSW-102-07-G-S"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "809a054f-d957-48e3-9d94-58b7897680fc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "packaging" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f60bac51-fa3e-44a8-bf00-db975666be9d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "packaging_qty" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dcb3a816-2f05-41ee-bfdf-a7e8b845da55")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "lcsc_pn" "C7402729"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cc65917d-55d6-45b2-a1a6-ccd216c537b0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "z_height_max" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "98560419-8fcf-4e58-add3-917e79eddbb9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "size" "5.08x2.54x10.92mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3c195bd7-1bff-434c-8289-92a3b1a5daa0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "package" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d229b6cf-f225-4dd5-819b-b07c3ce108a7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "z_height_nom" "8.38mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8679c2a3-0a04-41bd-a052-f6931a8e4fa0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property ki_fp_filters "RPI_COMPILED:samtec_tsw-102-07-g-s")
+	(sheetname "/")
+	(sheetfile "RPI-RP2040-MINIMAL_R3-S1.kicad_sch")
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -2.615 1.345)
+		(end 2.615 -1.345)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "e5ac5ff9-78db-43ef-903a-d5719c28dc65")
+	)
+	(fp_poly
+		(pts
+			(xy -2.54 0.8128) (xy -2.54 1.27) (xy -2.0828 1.27)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "504d7d47-fcd6-448b-a97b-76e18cc5c7c0")
+	)
+	(fp_rect
+		(start -2.54 -1.27)
+		(end 2.54 1.27)
+		(stroke
+			(width 0.01)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "df10a2bd-2ddb-4c95-ba28-03a7de6b61d3")
+	)
+	(fp_circle
+		(center -1.27 0)
+		(end -0.77 0)
+		(stroke
+			(width 0.01)
+			(type default)
+		)
+		(fill no)
+		(layer "B.Fab")
+		(uuid "7a37309b-b081-4da8-9a54-d362e49687f3")
+	)
+	(fp_circle
+		(center 1.27 0)
+		(end 1.77 0)
+		(stroke
+			(width 0.01)
+			(type default)
+		)
+		(fill no)
+		(layer "B.Fab")
+		(uuid "26ab4f85-ca87-4b0b-8851-ab0a59d72457")
+	)
+	(fp_rect
+		(start -2.54 1.27)
+		(end 2.54 -1.27)
+		(stroke
+			(width 0.01)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "dcc5e312-c262-4e50-982b-6c716e27ded1")
+	)
+	(fp_circle
+		(center -1.27 0)
+		(end -0.77 0)
+		(stroke
+			(width 0.01)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "048acdf3-0ec2-493d-8750-6a868a00e331")
+	)
+	(fp_circle
+		(center 1.27 0)
+		(end 1.77 0)
+		(stroke
+			(width 0.01)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "a0dcbc02-1e61-4eec-a6c6-efa9394e6f7d")
+	)
+	(fp_poly
+		(pts
+			(xy -2.54 0.6096) (xy -2.54 1.27) (xy -1.8796 1.27)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "059a7785-976c-48db-9577-7f14cef6a5b2")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b45f4d24-1cd3-4f4c-9296-6f59f79cffb2")
+		(effects
+			(font
+				(size 0.8 0.5)
+				(thickness 0.01)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at -1.27 0)
+		(size 1.6 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f68aa049-b96e-4a47-b95a-570e2105ac50")
+	)
+	(pad "2" thru_hole circle
+		(at 1.27 0)
+		(size 1.6 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6f22e36a-4123-4caa-bda5-20b93fc20f8a")
+	)
+	(embedded_fonts no)
+	(model "kicad-embed://samtec_tsw-102-07-g-s.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 90)
+		)
+	)
+)
