@@ -154,7 +154,6 @@
 			(at -2.7178 -0.1524 0)
 			(layer "F.SilkS")
 			(uuid "472d9ce1-f180-45bd-a0e5-5c7dcd149a40")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -162,6 +161,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "499"
 			(at 0 1.65 0)
@@ -302,7 +302,6 @@
 			(at -3.5052 -0.127 0)
 			(layer "F.SilkS")
 			(uuid "5d42b5e4-c958-4263-95e2-8ef3a6bc3a41")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -310,6 +309,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "8.06k"
 			(at 0 1.65 0)
@@ -450,7 +450,6 @@
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "4e84a80d-fb30-4204-ae6e-3e754de269df")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -458,6 +457,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "4.02k"
 			(at 0 1.65 0)
@@ -598,7 +598,6 @@
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "0efdd0cc-73e6-4e70-925b-27018c33f98f")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -606,6 +605,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "2k"
 			(at 0 1.65 0)
@@ -746,7 +746,6 @@
 			(at -2.9464 -0.3429 0)
 			(layer "F.SilkS")
 			(uuid "5c058be5-2ecb-4af5-9e10-cc2978b31b1f")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -754,6 +753,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "1k"
 			(at 0 1.65 0)
@@ -894,7 +894,6 @@
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "eded96ca-1f65-4c66-b1cf-3a92e507aff4")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -902,6 +901,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "499"
 			(at 0 1.65 0)
@@ -1042,7 +1042,6 @@
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "bf1f2e0f-ee63-4cd9-b41b-7a78cab94b22")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -1050,6 +1049,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "8.06k"
 			(at 0 1.65 0)
@@ -1190,7 +1190,6 @@
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "6dd1a868-6504-4200-b827-c9a39d200858")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -1198,6 +1197,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "1k"
 			(at 0 1.65 0)
@@ -1338,7 +1338,6 @@
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "e53e619e-b459-49bf-a0f7-acaa834bf5c3")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -1346,6 +1345,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "2k"
 			(at 0 1.65 0)
@@ -1486,7 +1486,6 @@
 			(at -0.07 2.785 0)
 			(layer "F.SilkS")
 			(uuid "661ee488-f5c2-4da4-b773-66b080ac794a")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -1494,6 +1493,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "SW_Push"
 			(at 0 2.55 0)
@@ -1811,7 +1811,6 @@
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "3632626c-9615-44fb-b917-1bbdb7a6dfaf")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -1819,6 +1818,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "1k"
 			(at 0 1.65 0)
@@ -1959,7 +1959,6 @@
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "090e5a97-58c4-4fc1-bf4b-599530d0aa25")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -1967,6 +1966,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "2k"
 			(at 0 1.65 0)
@@ -2107,7 +2107,6 @@
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "714f8e23-2af0-4b20-9140-73ea3fb9a519")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -2115,6 +2114,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "1k"
 			(at 0 1.65 0)
@@ -2255,7 +2255,6 @@
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "f146df57-4062-48b5-ac20-d10016a3eb22")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -2263,6 +2262,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "1k"
 			(at 0 1.65 0)
@@ -2403,7 +2403,6 @@
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "d33e9582-45e0-4936-91fc-747bce9609da")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -2411,6 +2410,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "1.8K"
 			(at 0 1.65 0)
@@ -2551,7 +2551,6 @@
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "091cbe0d-c923-458d-8806-cdab5d1b8339")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -2559,6 +2558,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "220"
 			(at 0 1.65 180)
@@ -2699,7 +2699,6 @@
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "00eaa85b-937a-48f6-8edd-4c08150e33a4")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -2707,6 +2706,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "220"
 			(at 0 1.65 180)
@@ -2847,7 +2847,6 @@
 			(at -2.3825 0.1225 0)
 			(layer "F.SilkS")
 			(uuid "a01285e8-06e2-4690-b5a9-121cb7b72043")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -2855,6 +2854,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "47u"
 			(at 0 1.65 0)
@@ -3053,7 +3053,6 @@
 			(at -2.1725 0.195 0)
 			(layer "F.SilkS")
 			(uuid "5722244b-a603-4f73-af87-1f0e28ee29c6")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -3061,6 +3060,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "47u"
 			(at 0 1.65 90)
@@ -3259,7 +3259,6 @@
 			(at 0 -1.68 0)
 			(layer "F.SilkS")
 			(uuid "b4ef650e-78b3-4dad-b4c7-003a5437628d")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -3267,6 +3266,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "1u"
 			(at 0 1.68 90)
@@ -3407,7 +3407,6 @@
 			(at 0 -1.68 0)
 			(layer "F.SilkS")
 			(uuid "17858c0e-939c-4d30-81e9-ce48b7e042bb")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -3415,6 +3414,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "100n"
 			(at 0 1.68 90)
@@ -3555,7 +3555,6 @@
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "4f1647bb-dc0f-4ace-bab0-762d68501f98")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -3563,6 +3562,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "1.8K"
 			(at 0 1.65 0)
@@ -3703,7 +3703,6 @@
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "c9894e06-c388-4860-901c-5d7d77bde256")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -3711,6 +3710,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "100"
 			(at 0 1.65 90)
@@ -3851,7 +3851,6 @@
 			(at 0 -1.68 0)
 			(layer "F.SilkS")
 			(uuid "8f108a69-cb40-4eb0-8642-7f78cc0e9f2e")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -3859,6 +3858,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "100n"
 			(at 0 1.68 180)
@@ -3999,7 +3999,6 @@
 			(at 0 -1.68 0)
 			(layer "F.SilkS")
 			(uuid "cd52be5c-2d0f-4f69-ac94-cbc974779fb0")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -4007,6 +4006,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "100n"
 			(at 0 1.68 180)
@@ -4147,7 +4147,6 @@
 			(at -0.0925 0.055 0)
 			(layer "F.SilkS")
 			(uuid "0bc2061a-e2d2-42ec-a362-9e894a962949")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -4155,6 +4154,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "NC7WZ16P6X"
 			(at 0 2 180)
@@ -4398,7 +4398,6 @@
 			(at 0 -2.54 0)
 			(layer "F.SilkS")
 			(uuid "abd89e38-00cf-4238-b297-d8e2da20eedc")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -4406,6 +4405,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "SW_Push"
 			(at 0 2.55 0)
@@ -4723,7 +4723,6 @@
 			(at -1.3125 -2.765 0)
 			(layer "F.SilkS")
 			(uuid "755d5c19-efad-411d-b9fe-94cfecbdd362")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -4731,6 +4730,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "TLV70033_SOT23-5"
 			(at 0 2.9 90)
@@ -4966,7 +4966,6 @@
 			(at 0 -2.54 0)
 			(layer "F.SilkS")
 			(uuid "9fa83b60-6b84-400e-9303-bf75cb370306")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -4974,6 +4973,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "SW_Push"
 			(at 0 2.55 0)
@@ -5291,7 +5291,6 @@
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "e9cf626f-8e82-43e8-9e33-b994a87e01fd")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -5299,6 +5298,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "4.02k"
 			(at 0 1.65 0)
@@ -5439,7 +5439,6 @@
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "beaf7baf-5e2a-414d-b41b-1e15129fa0f5")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -5447,6 +5446,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "8.06k"
 			(at 0 1.65 0)
@@ -5587,7 +5587,6 @@
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "654d2d26-b106-4127-8158-0884fbda5331")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -5595,6 +5594,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "1k"
 			(at 0 1.65 0)
@@ -5735,7 +5735,6 @@
 			(at 0 -2.54 0)
 			(layer "F.SilkS")
 			(uuid "3490cf30-ffbc-4503-998b-722210ca4cad")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -5743,6 +5742,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "SW_Push"
 			(at 0 2.55 0)
@@ -6060,7 +6060,6 @@
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "1d8c045d-ca7b-4fcb-9de6-79c9e4349acf")
-		(justify left bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -6068,6 +6067,7 @@
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
 		(property "Value" "100"
 			(at 0 1.65 0)
@@ -6202,13 +6202,13 @@
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005efaedfa")
 		(at 145.1296 61.8732 -90)
-		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
-		(tags "capacitor")
-		(property "Reference" "C1"
+		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.go		(property "Reference" "C1"
 			(at 0 -1.68 0)
 			(layer "F.SilkS")
 			(uuid "6ef113c6-4644-4733-a90b-ea25bd041d0a")
-		(justify left bottom)
+			(justify left bottom)
+		)
+ft bottom)
 			(effects
 				(font
 					(name "Arial")
@@ -6351,21 +6351,13 @@
 		(uuid "00000000-0000-0000-0000-00005efbeb17")
 		(at 164.84 103.5546)
 		(descr "Mounting Hole 2.7mm, no annular, M2.5")
-		(tags "mounting hole 2.7mm no annular m2.5")
-		(property "Reference" "H3"
+		(tags "mounting hole 2.7mm no annular m2.5"		(property "Reference" "H3"
 			(at -3.8 0 0)
 			(layer "F.SilkS")
-			(hide yes)
 			(uuid "c0dfeca0-89d9-4f3e-be2d-3cf9962b3ba2")
-		(justify left bottom)
-			(effects
-				(font
-					(name "Arial")
-					(size 0.8 0.8)
-					(thickness 0.12)
-				)
-			)
+			(justify left bottom)
 		)
+)
 		(property "Value" "MountingHole"
 			(at 0 3.7 0)
 			(layer "F.Fab")
@@ -6459,21 +6451,21 @@
 		(at 96.514 103.5546)
 		(descr "Mounting Hole 2.7mm, no annular, M2.5")
 		(tags "mounting hole 2.7mm no annular m2.5")
-		(property "Reference" "H4"
+		(proper		(property "Reference" "REF"
 			(at 3.9 0 0)
 			(layer "F.SilkS")
-			(hide yes)
 			(uuid "03669d4a-3385-4181-a7ec-206151610749")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "MountingHole"
+		)
+ty "Value" "MountingHole"
 			(at 0 3.7 0)
 			(layer "F.Fab")
 			(uuid "0748f65b-8860-41a2-9250-0af94536c2b5")
@@ -6566,21 +6558,21 @@
 		(at 164.548 51.51)
 		(descr "Mounting Hole 2.7mm, no annular, M2.5")
 		(tags "mounting hole 2.7mm no annular m2.5")
-		(property "Reference" "H1"
+		(property "Referen		(property "Reference" "REF"
 			(at -3.7 0 0)
 			(layer "F.SilkS")
-			(hide yes)
 			(uuid "6de744cd-4f97-432c-95e2-69c2bbce9727")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "MountingHole"
+		)
+"MountingHole"
 			(at 0 3.7 0)
 			(layer "F.Fab")
 			(uuid "3e6f2e47-7bf1-4759-9a87-6c3b2d56c573")
@@ -6673,20 +6665,21 @@
 		(at 161.4 71.195 -90)
 		(descr "3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)")
 		(tags "3.5mm audio cui horizontal jack stereo")
-		(property "Reference" "J2"
+		(property "Refe		(property "Reference" "REF"
 			(at 0.1 9.7 0)
 			(layer "F.SilkS")
 			(uuid "1cc3d1e1-7e35-4c18-8030-5ae35077dfab")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "AudioJack3"
+		)
+e" "AudioJack3"
 			(at 0 10.35 270)
 			(layer "F.Fab")
 			(uuid "1ff5059d-2111-469d-abda-952ab59864bc")
@@ -7012,20 +7005,21 @@
 		(at 110.3335 62.051)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R26"
+		(property "Re		(property "Reference" "REF"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "f2fd2549-89df-4e1e-87d6-e0f0a4b00ae0")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "499"
+		)
+lue" "499"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "07d7a903-e631-40b0-8afe-70186e1b1f9a")
@@ -7160,21 +7154,21 @@
 		(at 96.5 51.51)
 		(descr "Mounting Hole 2.7mm, no annular, M2.5")
 		(tags "mounting hole 2.7mm no annular m2.5")
-		(property "Reference" "H2"
+		(property "Reference" "H		(property "Reference" "REF"
 			(at 3.8 0 0)
 			(layer "F.SilkS")
-			(hide yes)
 			(uuid "ceba1f8a-f265-4e36-8410-25af31d6b73d")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "MountingHole"
+		)
+ingHole"
 			(at 0 3.7 0)
 			(layer "F.Fab")
 			(uuid "cc439fcb-c2a8-4573-903e-7262ebd7f75a")
@@ -7267,20 +7261,21 @@
 		(at 150.4128 103.4072 90)
 		(descr "Through hole straight pin header, 2x04, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x04 2.54mm double row")
-		(property "Reference" "J7"
+		(property "Reference"		(property "Reference" "REF"
 			(at 1.27 -2.33 0)
 			(layer "F.SilkS")
 			(uuid "172ed782-278e-455c-affa-fa3b3a1f11a6")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "Conn_02x03_Odd_Even"
+		)
+nn_02x03_Odd_Even"
 			(at 1.27 9.95 90)
 			(layer "F.Fab")
 			(uuid "366dd660-4142-479a-ac42-6b9ceac6b54c")
@@ -7613,20 +7608,21 @@
 		(at 146.4504 66.3944 -90)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
-		(property "Reference" "C19"
+		(property "Referenc		(property "Reference" "REF"
 			(at 0 -1.68 0)
 			(layer "F.SilkS")
 			(uuid "5f8c5e1a-c2ca-4e43-b924-ccd0eaae8eb5")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "10u"
+		)
+10u"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "377b493a-8484-4940-86a6-f172bb9d3247")
@@ -7761,20 +7757,21 @@
 		(at 107.69 67.004)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R10"
+		(property "Refere		(property "Reference" "REF"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "a846957c-2ea5-437a-8a4a-9f260ed55b1b")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "47"
+		)
+ "47"
 			(at -0.1505 2.54 0)
 			(layer "F.Fab")
 			(uuid "d4242875-3fe5-4738-b4ff-a1370b920dba")
@@ -7910,20 +7907,20 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R9"
-			(at 0 -1.65 0)
+			(a		(property "Reference" "REF"
 			(layer "F.SilkS")
 			(uuid "b88d66c4-2e24-4960-8e87-e7fbc83bfd5b")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "DNF"
-			(at 0 1.65 0)
+		)
+ 1.65 0)
 			(layer "F.Fab")
 			(uuid "3d685dd6-5789-46e6-b4a5-6ec67730cf51")
 			(effects
@@ -8058,20 +8055,21 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R11"
+				(property "Reference" "REF"
 			(at 0 2.3622 0)
 			(layer "F.SilkS")
 			(uuid "8a2de080-c7c8-478d-b139-83e16cfce748")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "47"
-			(at 0 1.65 0)
+		)
+0 1.65 0)
 			(layer "F.Fab")
 			(uuid "5179f0bc-8989-423c-9ea0-abd0ceea38d2")
 			(effects
@@ -8206,20 +8204,21 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R23"
+		(property "Reference" "REF"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "89456373-692c-4aa4-93a4-5ff6103f6a29")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "10k"
-			(at 0 1.65 0)
+		)
+at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "7fbb8501-3071-4c38-a575-93a5bc2ab5e6")
 			(effects
@@ -8353,21 +8352,21 @@
 		(at 144.7232 81.228 -90)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R24"
+		(property "Reference" "R24		(property "Reference" "REF"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "f8036e42-7259-4f7c-b35d-de5f59248b42")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "10k"
-			(at 0 1.65 90)
+		)
+	(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "274dcb77-bfc7-469a-be6f-69a8889cfec0")
 			(effects
@@ -8501,20 +8500,21 @@
 		(at 114.802 67.6009)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R34"
+		(property "Reference" "R		(property "Reference" "REF"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "d66f824e-de0a-4fb4-bb6a-98459b84ec9d")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "4.02k"
+		)
+"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "51883324-2b5d-41db-b36b-8a899151dea9")
@@ -8649,20 +8649,21 @@
 		(at 87.1414 70.165 90)
 		(descr "15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
 		(tags "15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 25mm mounting-hole-offset 25mm")
-		(property "Reference" "J4"
+		(property "Reference"		(property "Reference" "REF"
 			(at 16.38 15.1425 0)
 			(layer "F.SilkS")
 			(uuid "3c2b4b0c-0075-4452-9d76-fb7e033b8274")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "L77HDE15SD1CH4F"
+		)
+7HDE15SD1CH4F"
 			(at -0.01 -7.45 270)
 			(layer "F.Fab")
 			(uuid "a08da9a3-1710-4ab7-850f-45bd362cfa6d")
@@ -9281,20 +9282,21 @@
 		(at 136.9762 72.5412 -90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
-		(property "Reference" "C13"
+		(property "Referenc		(property "Reference" "REF"
 			(at 0 -1.43 0)
 			(layer "F.SilkS")
 			(uuid "73083b34-0685-499a-9435-7403500e7904")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "1u"
+		)
+1u"
 			(at 0 1.43 270)
 			(layer "F.Fab")
 			(uuid "39a1176e-7cd3-4f21-8ace-fedb9b06dc96")
@@ -9635,13 +9637,12 @@
 		(layer "F.Cu")
 		(uuid "03fe0962-6c45-4368-b46a-f528425ab0dd")
 		(at 159.3934 49.7066)
-		(property "Reference" "C6"
+		(property "Refer		(property "Reference" "REF"
 			(at 0 1.7 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "988f0b83-97bf-4bf7-9a1e-61eb3b740c20")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
@@ -9649,8 +9650,10 @@
 					(bold yes)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "10u"
+		)
+" "10u"
 			(at 0 1 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10004,20 +10007,20 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R5"
-			(at 0 -1.65 0)
+			(		(property "Reference" "REF"
 			(layer "F.SilkS")
 			(uuid "ee78c4ea-f41d-4d18-9630-845345873ece")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "1k"
-			(at 0 1.65 90)
+		)
+ 1.65 90)
 			(layer "F.Fab")
 			(uuid "dfcb06c5-1d82-486b-9b51-4a77229a58cc")
 			(effects
@@ -10386,19 +10389,21 @@
 		(descr "USB Mini-B 5-pin SMD connector, http://downloads.lumberg.com/datenblaetter/en/2486_01.pdf")
 		(tags "USB USB_B USB_Mini connector")
 		(property "Reference" "J1"
+			(property "Reference" "REF"
 			(at -1.8 -1.5 0)
 			(layer "F.SilkS")
 			(uuid "df795c14-1613-46c9-9ea7-3a6d744e78f6")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "10103594-0001LF"
+		)
+0001LF"
 			(at 0 7.5 180)
 			(layer "F.Fab")
 			(uuid "3c796ff4-1901-4bbe-8fdf-7a483d0fe5b4")
@@ -11049,13 +11054,12 @@
 		(layer "F.Cu")
 		(uuid "204574b5-0f65-42ed-ac8c-2f257c52043f")
 		(at 154.5506 50.39)
-		(property "Reference" "J8"
+		(property "Reference" "J8		(property "Reference" "REF"
 			(at -2.0828 1.79 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "efebe564-8dc5-454c-bcff-1a8a22ff8101")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
@@ -11064,8 +11068,10 @@
 				)
 				(justify left)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "TSW-102-07-G-S"
+		)
+2-07-G-S"
 			(at 0 2.27 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11388,20 +11394,20 @@
 		(at 131.439 60.9588 -90)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R13"
+		(property "Reference" "		(property "Reference" "REF"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "621c7ed8-a763-4772-b226-8a2673fcd17a")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "27"
+		)
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "13ebddd2-5f4a-4e95-9ee8-e0b1ae008fe5")
@@ -11768,13 +11774,12 @@
 		(layer "F.Cu")
 		(uuid "257a98a2-bfa3-4644-8e8c-44be035083f3")
 		(at 104.1848 52.6276 180)
-		(property "Reference" "J5"
+		(property "Reference		(property "Reference" "REF"
 			(at -2.0828 1.79 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "61aa0035-314f-495c-a7cc-85e417abcc1d")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
@@ -11783,8 +11788,10 @@
 				)
 				(justify left)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "TSW-102-07-G-S"
+		)
+SW-102-07-G-S"
 			(at 0 2.27 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12107,20 +12114,21 @@
 		(at 158.5662 56.1328 -90)
 		(descr "SMD capacitor, aluminum electrolytic, Panasonic C6, 6.3x5.9mm")
 		(tags "capacitor electrolytic")
-		(property "Reference" "C26"
+		(property "Referen		(property "Reference" "REF"
 			(at 0 -4.35 0)
 			(layer "F.SilkS")
 			(uuid "01cf0920-98a9-4e73-9055-7feae50c5c5c")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "C_Polarized"
+		)
+"C_Polarized"
 			(at 0 4.35 90)
 			(layer "F.Fab")
 			(uuid "1f3997e9-fda7-4f0c-bad8-92cf47682fef")
@@ -12545,20 +12553,20 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C5"
-			(at 0 -1.43 0)
+			(at		(property "Reference" "REF"
 			(layer "F.SilkS")
 			(uuid "7c232c7a-e1ce-4a1d-832d-f29ae19444ae")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "15p"
-			(at 0 1.43 270)
+		)
+1.43 270)
 			(layer "F.Fab")
 			(uuid "4d28dabe-f5a1-417f-b49d-8242a796d7ff")
 			(effects
@@ -12899,12 +12907,12 @@
 		(uuid "2ef1ac31-885c-44c5-8929-b4d6229341ef")
 		(at 124.327 70.0376 90)
 		(property "Reference" "C25"
+					(property "Reference" "REF"
 			(at 0 1.7 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "e45db13f-3bcf-4919-8995-5d7f98dedd94")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
@@ -12912,9 +12920,10 @@
 					(bold yes)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "10u"
-			(at 0 1 90)
+		)
+0 1 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13267,20 +13276,21 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R19"
+			(property "Reference" "REF"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "480d174b-4100-490a-8925-86deeee1f6d4")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "2k2"
-			(at 0 1.65 90)
+		)
+t 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "ecfae7af-3da5-4890-ad9d-7417c05af3e3")
 			(effects
@@ -13414,21 +13424,21 @@
 		(at 165.9068 58.6709 90)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R43"
+		(property "Reference" "R43"		(property "Reference" "REF"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "d56027d1-a5d9-46e9-9b64-ceb37ad1f037")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "2k2"
-			(at 0 1.65 90)
+		)
+(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "f414f1a0-08db-4de5-8e8b-57d2f74bf1f4")
 			(effects
@@ -13562,20 +13572,20 @@
 		(at 151.505 61.2128)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
-		(property "Reference" "C21"
+		(property "Reference" "C2		(property "Reference" "REF"
 			(at 0 -1.68 0)
 			(layer "F.SilkS")
 			(uuid "0e56ab94-b9c4-43fb-81c0-524e92055389")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "100n"
+		)
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "bb107798-e1cb-496a-ab19-250ba0a7c373")
@@ -13918,20 +13928,21 @@
 		(at 146.9584 50.7726)
 		(descr "Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "L1"
+		(property "Reference" 		(property "Reference" "REF"
 			(at 0 -2.63 0)
 			(layer "F.SilkS")
 			(uuid "ea29b87c-8cac-4438-9773-98e2a043bd9b")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "100mH"
+		)
+mH"
 			(at 0 2.63 0)
 			(layer "F.Fab")
 			(uuid "ffdc0850-2b6f-47c1-bcbb-e23dd3092fcb")
@@ -14068,20 +14079,21 @@
 		(at 133.3694 73.9128 180)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R12"
+		(property "Reference		(property "Reference" "REF"
 			(at 0 -1.43 0)
 			(layer "F.SilkS")
 			(uuid "812edbea-bf4d-4cc5-844c-117b238d42ac")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "1k"
+		)
+k"
 			(at 0 1.43 180)
 			(layer "F.Fab")
 			(uuid "1fd66fa6-d64c-49ae-8e71-316dbca4270b")
@@ -14450,20 +14462,21 @@
 		(at 164.2304 78.1038)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
-		(property "Reference" "C23"
+		(property "Referen		(property "Reference" "REF"
 			(at 0 -1.68 0)
 			(layer "F.SilkS")
 			(uuid "d0435078-de25-4028-91b8-0ed0ecb53db5")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "100n"
+		)
+"100n"
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "79bd1371-cedd-4481-ac2a-37fae1179f40")
@@ -14807,19 +14820,20 @@
 		(descr "Winbond 8-pad XSON 4x4x0.45mm, package code XG, pitch 0.8mm, EP 2.3x3.0mm (W25Q64JV datasheet 10.6)")
 		(tags "XSON8 XG W25Q64JV USON8 WSON8")
 		(property "Reference" "U7"
-			(at 0 -3.2 0)
+			(a		(property "Reference" "REF"
 			(layer "F.SilkS")
 			(uuid "577bd776-21c5-45ef-8fa8-3f9e785a1e6b")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "W25Q128JVSIQ"
+		)
+
 			(at 0 3.2 0)
 			(layer "F.Fab")
 			(uuid "c96fafe7-74bb-49b2-b9e5-b4ca88bcd64e")
@@ -15275,19 +15289,21 @@
 		(descr "Through hole straight pin header, 2x09, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x09 2.54mm double row")
 		(property "Reference" "J6"
+				(property "Reference" "REF"
 			(at 1.27 -2.38 0)
 			(layer "F.SilkS")
 			(uuid "b47a4196-bcca-4bb5-a9b0-174cab3fa632")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "Conn_01x18_Pin"
+		)
+_Pin"
 			(at 1.27 22.7 90)
 			(layer "F.Fab")
 			(uuid "74045612-1cb7-416d-b39f-47361bbbef35")
@@ -15703,21 +15719,21 @@
 		(at 161.8936 97.1284)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R44"
+		(property "Reference" "R44"		(property "Reference" "REF"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "f0e33882-9234-4acf-ae6b-2e876f667fad")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "2k2"
-			(at 0 1.65 0)
+		)
+(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "c2c2d981-fffd-4c59-9a05-0690812801d1")
 			(effects
@@ -15851,21 +15867,21 @@
 		(at 145.6122 94.155 -90)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R18"
+		(property "Reference" "R1		(property "Reference" "REF"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "f6f6936f-140f-4409-88f0-d6f20a7991cb")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "2k2"
-			(at 0 1.65 90)
+		)
+		(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "0f9cd7b5-6616-481b-b275-14e4b7fd31ab")
 			(effects
@@ -15999,20 +16015,21 @@
 		(at 136.5698 60.4508 90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
-		(property "Reference" "C11"
+		(property "Reference" "		(property "Reference" "REF"
 			(at 0 -1.43 0)
 			(layer "F.SilkS")
 			(uuid "7cc62d5a-57f7-4b66-9e41-25a9215a8c5c")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "100n"
+		)
+"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "34cab21d-23ab-448a-b92e-59d89cd0bbbe")
@@ -16355,20 +16372,21 @@
 		(at 126.0796 75.9346 90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
-		(property "Reference" "C3"
+		(property "Reference		(property "Reference" "REF"
 			(at 0 -1.43 0)
 			(layer "F.SilkS")
 			(uuid "a63f11a6-39c6-492c-be80-1fa877997a52")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "15p"
+		)
+5p"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "bfd99a39-d87b-4898-9210-1e7097ff0d78")
@@ -16711,20 +16729,21 @@
 		(at 115.4624 56.6916 90)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "LED")
-		(property "Reference" "D1"
+		(property "Refere		(property "Reference" "REF"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "e18e0da1-46c0-44f8-a465-e7a62d3ce2c1")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "LED"
+		)
+ "LED"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "6f5b00d1-87da-4896-a888-394e22ad1afc")
@@ -16924,20 +16943,20 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R14"
-			(at 0 -1.65 0)
+			(a		(property "Reference" "REF"
 			(layer "F.SilkS")
 			(uuid "da12a6cf-2373-430d-9cb8-90254e9c6c85")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "27"
-			(at 0 1.65 90)
+		)
+.65 90)
 			(layer "F.Fab")
 			(uuid "cc7e7dcb-0e3e-4157-9f53-f3cdc5cbc666")
 			(effects
@@ -17306,20 +17325,21 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R42"
+					(property "Reference" "REF"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "ebdbebb7-2f2a-4b46-8174-04c481a15da5")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "2k2"
-			(at 0 1.65 90)
+		)
+0 1.65 90)
 			(layer "F.Fab")
 			(uuid "c4e1a28f-4960-47f5-ada8-9d5d782da243")
 			(effects
@@ -17454,19 +17474,21 @@
 		(descr "TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
 		(tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
 		(property "Reference" "U4"
+			(property "Reference" "REF"
 			(at 0 -4.5 0)
 			(layer "F.SilkS")
 			(uuid "80aa8cb5-46f3-41e1-bc7e-e6ede6bf912f")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "NCP1117ST33T3G"
+		)
+33T3G"
 			(at 0 4.5 0)
 			(layer "F.Fab")
 			(uuid "5a5a16a7-ab8c-4903-a782-13cbba594f10")
@@ -18020,21 +18042,21 @@
 		(at 115.5132 60.4527 90)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R15"
+		(property "Reference" "R15		(property "Reference" "REF"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "5d6e7cd2-e08e-40bf-babd-89668010f475")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "1.8K"
-			(at 0 1.65 90)
+		)
+		(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "d03f8727-7dfb-4e32-b052-9abb7b2c52ef")
 			(effects
@@ -18168,20 +18190,20 @@
 		(at 145.1042 85.4504 180)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R16"
+		(property "Reference" "R		(property "Reference" "REF"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "fb2155e0-72d6-4cfc-83aa-700d38ce76b6")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "2k2"
+		)
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "9262d5e5-76b7-4a0b-98e0-aefb9d22cffe")
@@ -18314,13 +18336,12 @@
 		(layer "F.Cu")
 		(uuid "9aa971b5-ea55-4d5e-b5ec-cddfb76c71ef")
 		(at 129.7372 75.9448)
-		(property "Reference" "X1"
+		(property "Reference"		(property "Reference" "REF"
 			(at 0 2.2 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "63685911-9663-4b27-b316-655a76048b6f")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
@@ -18328,8 +18349,10 @@
 					(bold yes)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "12MHz"
+		)
+MHz"
 			(at 0 1 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18700,20 +18723,21 @@
 		(at 125.089 103.7246)
 		(descr "https://katalog.we-online.com/em/datasheet/434133025816.pdf")
 		(tags "tactile switch Wurth Wuerth")
-		(property "Reference" "SW5"
+		(property "Referenc		(property "Reference" "REF"
 			(at 0.15 -2.6 0)
 			(layer "F.SilkS")
 			(uuid "df35849b-b168-478e-a65e-53e14ffee42c")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "SW_boot"
+		)
+SW_boot"
 			(at 0 2.55 0)
 			(layer "F.Fab")
 			(uuid "4c26e444-9038-4391-9601-74047b29371b")
@@ -19029,20 +19053,21 @@
 		(at 157.1946 63.321 90)
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
-		(property "Reference" "U10"
+		(property "Refere		(property "Reference" "REF"
 			(at 0 -2.38 0)
 			(layer "F.SilkS")
 			(uuid "538f134d-aa6c-4241-8560-ea3ccd268edf")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "ER_OLEDM0.91_1x-I2C"
+		)
+ "ER_OLEDM0.91_1x-I2C"
 			(at 0 10 90)
 			(layer "F.Fab")
 			(uuid "1b139948-27cb-4cf6-8138-b6c0e8e8bf68")
@@ -19282,20 +19307,21 @@
 		(at 142.9452 70.2146 -90)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
-		(property "Reference" "C16"
+		(property "Refe		(property "Reference" "REF"
 			(at 0 -1.68 0)
 			(layer "F.SilkS")
 			(uuid "31b773c6-8fa1-4e99-919b-d7924f7ff511")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "100n"
+		)
+e" "100n"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "95320c2f-7a7c-4393-925f-1fbdb6f870cb")
@@ -19638,20 +19664,21 @@
 		(at 115.0814 51.6116)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
-		(property "Reference" "C17"
+		(property "Re		(property "Reference" "REF"
 			(at 0 -1.43 0)
 			(layer "F.SilkS")
 			(uuid "a26b3ffa-5089-422e-9ce0-c24f3fc8e362")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "1u"
+		)
+lue" "1u"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "9c14421f-894e-493e-a6e6-fd485448c52b")
@@ -19993,20 +20020,21 @@
 		(uuid "be8ac714-8f0e-4453-b310-745aaee4ad81")
 		(at 159.073 87.7588 -90)
 		(descr "MICRO_SD_SOCKET")
-		(property "Reference" "J10"
+		(property "		(property "Reference" "REF"
 			(at -8.27711 3.72596 0)
 			(layer "F.SilkS")
 			(uuid "a1df057d-065c-488f-b52d-21c48235ab58")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "Micro_SD_Card"
+		)
+Value" "Micro_SD_Card"
 			(at 8.02629 -2.52538 90)
 			(layer "F.Fab")
 			(uuid "d8cbe422-d5fc-4d23-b971-c8cb35254cc5")
@@ -20287,20 +20315,21 @@
 		(at 160.4185 77.9514)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R45"
+		(property		(property "Reference" "REF"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "e31eaa5d-1a20-4342-b0dd-1a5c02a64fb4")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "2k2"
+		)
+ "Value" "2k2"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "5923bb56-ef46-43aa-9f81-71c230a2993f")
@@ -20436,12 +20465,11 @@
 		(descr "Raspberry Pi Pico versatile common (Pico & Pico W) footprint for surface-mount or through-hole hand soldering, supports Raspberry Pi Pico 2, default socketed model has height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf")
 		(tags "module usb pcb antenna")
 		(property "Reference" "U2"
-			(at 11.7475 24.765 0)
+			(		(property "Reference" "REF"
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "563e1c3c-7ddc-46c9-8982-b1e3ef953659")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
@@ -20449,9 +20477,10 @@
 				)
 				(justify left)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "PicoW"
-			(at 0 27.94 0)
+		)
+t 0 27.94 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "5d53cb70-f918-4d33-a524-18353ab4fea1")
@@ -23445,12 +23474,12 @@
 		(uuid "d0f9ab6a-5abc-4629-9571-00ceb0b18026")
 		(at 131.6204 68.0864)
 		(property "Reference" "U6"
+			(property "Reference" "REF"
 			(at -3.5 -4.1 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "3bdcdc7e-6abc-4b80-a25d-a499133ee361")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
@@ -23459,9 +23488,10 @@
 				)
 				(justify left bottom)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "RP2040"
-			(at 0 1 0)
+		)
+		(at 0 1 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -24689,21 +24719,21 @@
 		(at 143.9002 103.3514)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
-		(property "Reference" "C22"
+		(property "Reference" "C22		(property "Reference" "REF"
 			(at 0 -1.68 0)
 			(layer "F.SilkS")
 			(uuid "39236946-a043-4647-96de-d92614b3e697")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "100n"
-			(at 0 1.68 0)
+		)
+		(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "a2f320ad-9a0a-4608-9f33-cc021f4b2b7f")
 			(effects
@@ -25045,20 +25075,21 @@
 		(at 125.8256 58.1394 180)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
-		(property "Reference" "C24"
+		(property "Reference" "C		(property "Reference" "REF"
 			(at 0 -1.43 0)
 			(layer "F.SilkS")
 			(uuid "f3736827-070c-4769-91a3-f838a93ec21e")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "100n"
+		)
+
 			(at 0 1.43 180)
 			(layer "F.Fab")
 			(uuid "01946539-d1ac-4217-ae57-5a614b30ba75")
@@ -25401,20 +25432,21 @@
 		(at 143.2246 61.9748 -90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
-		(property "Reference" "C10"
+		(property "Reference" 		(property "Reference" "REF"
 			(at 0 -1.43 0)
 			(layer "F.SilkS")
 			(uuid "5386622d-b655-4d0b-884a-f0f563e3c42d")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "100n"
+		)
+n"
 			(at 0 1.43 270)
 			(layer "F.Fab")
 			(uuid "0bdb6130-d156-4638-9a9e-5a06b54829c8")
@@ -25757,20 +25789,21 @@
 		(at 136.7476 76.8084 -90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
-		(property "Reference" "C9"
+		(property "Referenc		(property "Reference" "REF"
 			(at 0 -1.43 0)
 			(layer "F.SilkS")
 			(uuid "c72b75ad-9d0b-4797-93f5-c99802b17716")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "10u"
+		)
+10u"
 			(at 0 1.43 270)
 			(layer "F.Fab")
 			(uuid "e54c9fd0-ca81-4c75-a06d-621a79944fe3")
@@ -26126,20 +26159,21 @@
 		(at 145.5868 90.1164 90)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R17"
+		(property "Refere		(property "Reference" "REF"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "ad6e9661-a14b-492d-bb47-93c0d05f6010")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "2k2"
+		)
+ "2k2"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "d5937777-5505-4b23-90c0-50c159b5d7ed")
@@ -26274,20 +26308,21 @@
 		(at 129.4324 102.5913 -90)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R6"
+		(property "Ref		(property "Reference" "REF"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "0c1e7334-5c4f-4751-b7a8-a6920f7180b1")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "10k"
+		)
+ue" "10k"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "4a1404d5-74c9-4ecd-8e8f-40b82ecf2ed1")
@@ -26655,12 +26690,11 @@
 		(uuid "00000000-0000-0000-0000-00005efaa0f6")
 		(at 158.7682 87.9888 90)
 		(descr "MICRO_SD_SOCKET")
-		(property "Reference" "J3"
+		(property "		(property "Reference" "REF"
 			(at -8.27711 -3.72596 0)
 			(layer "B.SilkS")
 			(uuid "3fa93251-9326-4a19-9ec6-4aaf0cf3705d")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
@@ -26668,8 +26702,10 @@
 				)
 				(justify mirror)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "Micro_SD_Card"
+		)
+Value" "Micro_SD_Card"
 			(at 8.02629 2.52538 90)
 			(layer "B.Fab")
 			(uuid "0f5f8504-acbd-420d-88b1-3ff5bef77a7e")
@@ -26949,12 +26985,11 @@
 		(at 128.518 82.3202 180)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
-		(property "Reference" "C18"
+		(property		(property "Reference" "REF"
 			(at 0 1.68 0)
 			(layer "B.SilkS")
 			(uuid "58eb886b-5226-4026-8109-491cbf65def1")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
@@ -26962,8 +26997,10 @@
 				)
 				(justify mirror)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "100n"
+		)
+ "Value" "100n"
 			(at 0 -1.68 0)
 			(layer "B.Fab")
 			(uuid "9d0c7bfb-8bed-40d4-9086-505fe3246b54")
@@ -27326,12 +27363,11 @@
 		(at 126.1812 66.6738 -90)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
-		(property "Reference" "C20"
+		(proper		(property "Reference" "REF"
 			(at 0 1.68 0)
 			(layer "B.SilkS")
 			(uuid "93a5c88f-2485-463c-a5b3-ddd3fdf7643d")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
@@ -27339,8 +27375,10 @@
 				)
 				(justify mirror)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "100n"
+		)
+ty "Value" "100n"
 			(at 0 -1.68 90)
 			(layer "B.Fab")
 			(uuid "52e910af-16c5-43fe-91ac-31147d8bddbb")
@@ -27703,12 +27741,11 @@
 		(at 135.8586 64.4386)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
-		(property "Reference" "C12"
+		(prop		(property "Reference" "REF"
 			(at 0 1.68 0)
 			(layer "B.SilkS")
 			(uuid "acff4347-ca08-41af-a0fb-9e447e6ec0cb")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
@@ -27716,8 +27753,10 @@
 				)
 				(justify mirror)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "100n"
+		)
+erty "Value" "100n"
 			(at 0 -1.68 0)
 			(layer "B.Fab")
 			(uuid "2abba222-459a-49d5-9d68-1263e7321921")
@@ -28080,12 +28119,11 @@
 		(at 104.907 87.2555 -90)
 		(descr "TSSOP, 20 Pin (JEDEC MO-153 Var AC https://www.jedec.org/document_search?search_api_views_fulltext=MO-153)")
 		(tags "TSSOP SO")
-		(property "Reference" "U9"
+		(p		(property "Reference" "REF"
 			(at 0 4.2 0)
 			(layer "B.SilkS")
 			(uuid "a9dc5d15-5245-467b-82f4-e4659af38f22")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
@@ -28093,8 +28131,10 @@
 				)
 				(justify mirror)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "TXS0108"
+		)
+roperty "Value" "TXS0108"
 			(at 0 -4.2 90)
 			(layer "B.Fab")
 			(uuid "8a423c98-762b-417d-b050-fc449fdfdcd7")
@@ -28537,13 +28577,12 @@
 		(layer "B.Cu")
 		(uuid "fc5f4db4-be8c-42c7-936c-203320787d36")
 		(at 129.7304 60.16 180)
-		(property "Reference" "U5"
+				(property "Reference" "U5"
 			(at -2.413 3.302 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "c74cd747-98b7-48b0-8226-1328b6a516fc")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
@@ -28552,8 +28591,10 @@
 				)
 				(justify left mirror)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "W25Q128JVSIQ"
+		)
+(property "Value" "W25Q128JVSIQ"
 			(at 0 -1 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -29036,8 +29077,7 @@
 			(at 0 4.2 0)
 			(layer "B.SilkS")
 			(uuid "1e2574a5-6b9d-43bd-a6fa-825d876e6b04")
-		(justify left bottom)
-			(effects
+(effects
 				(font
 					(name "Arial")
 					(size 0.8 0.8)
@@ -29045,6 +29085,8 @@
 				)
 				(justify mirror)
 			)
+			(justify left bottom)
+		)
 		)
 		(property "Value" "TXS0108"
 			(at 0 -4.2 90)
@@ -29709,8 +29751,8 @@
 				(face "Arial")
 				(size 1 1)
 				(thickness 0.15)
-			)
-			(justify left bottom)
+				(justify left bottom)
+		)
 		)
 		(render_cache "BOOT\n" 0
 			(polygon
