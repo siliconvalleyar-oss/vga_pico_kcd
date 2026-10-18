@@ -167,7 +167,6 @@
 			(uuid "9968c5f2-d81f-470f-9b68-1ff60ba80ab9")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -180,7 +179,6 @@
 			(uuid "ec2f6534-a0de-4c1e-ae91-65c2f26292c3")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -192,7 +190,6 @@
 			(uuid "bb455628-0d65-4098-9758-990164eaa275")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -203,7 +200,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -257,7 +254,6 @@
 			(uuid "2ced11e6-80ce-4917-81da-660514c50af2")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -318,7 +314,6 @@
 			(uuid "ac9e8a52-c7b1-4ea5-996b-c6bcf10839c0")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -331,7 +326,6 @@
 			(uuid "c6ae2fc4-59e4-40e8-8b8a-ccb9a80ba11f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -343,7 +337,6 @@
 			(uuid "ac5a9d27-950d-4187-89a7-e6b811019360")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -354,7 +347,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -408,7 +401,6 @@
 			(uuid "c964308f-91ea-47bb-94d3-cd626f28f11d")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -469,7 +461,6 @@
 			(uuid "f0bdcbfa-a150-4451-8394-8dda754fdbb7")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -482,7 +473,6 @@
 			(uuid "97596e3b-c5aa-40c7-98ac-55d64597e903")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -494,7 +484,6 @@
 			(uuid "8115df77-ace4-4917-be34-84450ee69866")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -505,7 +494,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -559,7 +548,6 @@
 			(uuid "31486d9f-ac8d-4c63-813d-5c9fff1bd9b1")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -620,7 +608,6 @@
 			(uuid "263ecb41-863b-46ae-928c-d3756b4cf52b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -633,7 +620,6 @@
 			(uuid "a5072f41-4235-4506-b6d5-1289a096b79a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -645,7 +631,6 @@
 			(uuid "2b0308d7-9060-4f85-8134-89117b700181")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -656,7 +641,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -710,7 +695,6 @@
 			(uuid "af74bf42-d5e4-4cd4-b40c-a212797aa65e")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -771,7 +755,6 @@
 			(uuid "a32e3e4f-461c-4530-b73c-9c4e4747e8e8")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -784,7 +767,6 @@
 			(uuid "3c8da721-d264-4e4b-8824-d423a845128f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -796,7 +778,6 @@
 			(uuid "c1c8d5d3-50ac-4129-99ac-bee9eb8329a7")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -807,7 +788,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -861,7 +842,6 @@
 			(uuid "ccc5096d-135b-46a1-b949-a14b8b6981cc")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -922,7 +902,6 @@
 			(uuid "c4750cb7-2225-45d6-a225-87fedf1fab09")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -935,7 +914,6 @@
 			(uuid "7c0dc992-9f08-4f6f-9750-79de217e32fd")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -947,7 +925,6 @@
 			(uuid "9463f32a-6279-4723-b8f1-fab734b9cc79")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -958,7 +935,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -1012,7 +989,6 @@
 			(uuid "3e059a03-98bc-46d2-af48-271147b63c2d")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -1073,7 +1049,6 @@
 			(uuid "67ff5287-893f-494c-b37c-9d6807174435")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -1086,7 +1061,6 @@
 			(uuid "be2316bb-05ab-4632-9fe5-1b794936ef83")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -1098,7 +1072,6 @@
 			(uuid "698ea474-f82c-4580-840c-3f9330dbec01")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -1109,7 +1082,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -1163,7 +1136,6 @@
 			(uuid "43430b4c-59eb-4519-8ab7-485d4ac36657")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -1224,7 +1196,6 @@
 			(uuid "799fdd2d-9d10-4c83-9fdd-09417f4915b5")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -1237,7 +1208,6 @@
 			(uuid "fe2fd3a9-47ea-4334-adb6-c3d25d726285")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -1249,7 +1219,6 @@
 			(uuid "e3c17f48-0033-4d9e-95a9-0a072768ac96")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -1260,7 +1229,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -1314,7 +1283,6 @@
 			(uuid "94ede324-f558-492a-86fe-d7e774b8887c")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -1375,7 +1343,6 @@
 			(uuid "8e7329fd-3a75-4718-ba55-8833abb663d1")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -1388,7 +1355,6 @@
 			(uuid "b4191cd8-6e28-499b-bebe-d65f2360cfa7")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -1400,7 +1366,6 @@
 			(uuid "463ea43f-1f5e-4d77-a60c-57966cceca66")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -1411,7 +1376,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -1465,7 +1430,6 @@
 			(uuid "41525dd1-69ad-48a8-9cd1-e5a0949bbb1e")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -1526,7 +1490,6 @@
 			(uuid "c205ff37-d9a9-4802-a2ec-2a987ec0d36a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -1539,7 +1502,6 @@
 			(uuid "21296fb7-f5e2-478b-9a0b-a060b68b3ec3")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -1551,7 +1513,6 @@
 			(uuid "b1503c2d-628f-4480-b562-b393bb647ec5")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -1561,7 +1522,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -1775,7 +1736,6 @@
 			(uuid "43bb611a-ac51-4ee1-a341-ed9c477ead2e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -1854,7 +1814,6 @@
 			(uuid "972ffae8-cafe-4f49-96e0-f0cad17fe382")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -1867,7 +1826,6 @@
 			(uuid "99c27b0f-c897-4a2a-aeb9-dbbe00096262")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -1879,7 +1837,6 @@
 			(uuid "54edf55e-6aaa-455f-bd65-e03543572886")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -1890,7 +1847,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -1944,7 +1901,6 @@
 			(uuid "8d1ab285-db42-4dff-8556-82e59d0dfa90")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -2005,7 +1961,6 @@
 			(uuid "4d9964ea-e6ba-4243-a518-f4cfebde1ac0")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -2018,7 +1973,6 @@
 			(uuid "6074a21b-dd25-41ed-9383-221ab16bc939")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -2030,7 +1984,6 @@
 			(uuid "aee471fb-5104-444a-b027-2b543baf477b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -2041,7 +1994,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -2095,7 +2048,6 @@
 			(uuid "04e88839-5f6a-45e8-bf54-5f9caca003f3")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -2156,7 +2108,6 @@
 			(uuid "9dfde98c-fe99-4e4b-af49-c603167bcb1f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -2169,7 +2120,6 @@
 			(uuid "546e2856-9055-4616-8a28-14694d04dbe8")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -2181,7 +2131,6 @@
 			(uuid "e23833f7-0726-4fce-aa78-344023313f4f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -2192,7 +2141,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -2246,7 +2195,6 @@
 			(uuid "98e4a966-33de-47b5-852f-65634959a1fb")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -2307,7 +2255,6 @@
 			(uuid "9089ac9f-b750-4942-9f6f-6589422845c4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -2320,7 +2267,6 @@
 			(uuid "9ccaf5a5-7d8e-45c1-9025-e6a21e88bdee")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -2332,7 +2278,6 @@
 			(uuid "7ea596f6-187c-4669-ad49-7f46fcc7e663")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -2343,7 +2288,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -2397,7 +2342,6 @@
 			(uuid "eceea1fb-77fe-49b5-b8f8-12546d9fb3ac")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -2458,7 +2402,6 @@
 			(uuid "2246e071-c906-4db1-80b7-4c65135f5ff7")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -2471,7 +2414,6 @@
 			(uuid "7ba1e15e-7a72-471f-9454-435203dc24ba")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -2483,7 +2425,6 @@
 			(uuid "a26b270e-8420-4d39-aae2-59aa10f0c216")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -2494,7 +2435,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -2548,7 +2489,6 @@
 			(uuid "bcb21255-312d-4517-b5cf-34150d706b57")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -2609,7 +2549,6 @@
 			(uuid "0cea5fc3-3998-4f50-a03d-f56d04929379")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -2622,7 +2561,6 @@
 			(uuid "a10ed262-5647-450c-a438-cb3967653452")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -2634,7 +2572,6 @@
 			(uuid "efb4e47b-c1b1-4c49-9132-2139986a6d8f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -2645,7 +2582,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -2699,7 +2636,6 @@
 			(uuid "2f4f60da-2360-4e06-9755-5bf5e95ef2e3")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -2760,7 +2696,6 @@
 			(uuid "2e3b9a3a-06b4-4df7-bf37-e1637097b1f3")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -2773,7 +2708,6 @@
 			(uuid "7ece6be5-756e-4e41-89f9-1de893854bea")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -2785,7 +2719,6 @@
 			(uuid "4ea8e9c4-118d-40ae-a1fb-f3853a0adbe8")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -2796,7 +2729,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -2850,7 +2783,6 @@
 			(uuid "8527b353-c664-4b43-9a34-db26d7024bb4")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -2911,7 +2843,6 @@
 			(uuid "4f219fe6-1ae1-4bfa-b9a8-bb64c7618919")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -2924,7 +2855,6 @@
 			(uuid "2111f7b6-6b50-4c9d-9274-4e9e7b50c049")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -2936,7 +2866,6 @@
 			(uuid "5a535526-2e9d-4813-8488-a95e44bab434")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -2947,7 +2876,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -3059,7 +2988,6 @@
 			(uuid "c7ca37c6-8ac0-4ea3-9310-34010d356d9f")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -3120,7 +3048,6 @@
 			(uuid "296c15bb-280b-4806-bfaf-6542692ee870")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -3133,7 +3060,6 @@
 			(uuid "f26673a3-c3d8-4117-837d-7821dee9d1bc")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -3145,7 +3071,6 @@
 			(uuid "8525c88a-1c47-4e68-b1c5-b3e728e43343")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -3156,7 +3081,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -3268,7 +3193,6 @@
 			(uuid "1abcd7c5-8a15-471f-b6f4-bdf2db73a967")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -3329,7 +3253,6 @@
 			(uuid "635a54c9-7928-4b4a-8419-95fe8bbe2834")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -3342,7 +3265,6 @@
 			(uuid "6e359c7c-a4b0-4cc4-b40e-ef9e27998361")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -3354,7 +3276,6 @@
 			(uuid "4d10a5e5-dbb4-4355-86fb-fb8ce9889618")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -3365,7 +3286,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -3419,7 +3340,6 @@
 			(uuid "cccc5174-ba80-4e9c-b11c-c20a6e8c08fe")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -3480,7 +3400,6 @@
 			(uuid "d4c12e71-b02d-4eac-824b-a9642a2d1c41")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -3493,7 +3412,6 @@
 			(uuid "f544dd17-1861-42d1-8a45-c7cb89d94021")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -3505,7 +3423,6 @@
 			(uuid "9a4d6bdd-6132-4ae6-aee2-82739b3c0b16")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -3516,7 +3433,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -3570,7 +3487,6 @@
 			(uuid "089f3392-d7ad-4284-9947-d805e0e8ce68")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -3631,7 +3547,6 @@
 			(uuid "b3137a23-115c-4094-ab59-7dae67aa2c11")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -3644,7 +3559,6 @@
 			(uuid "1f5bcf6b-a4ff-4fa9-ab1c-1607a397df14")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -3656,7 +3570,6 @@
 			(uuid "95ada26d-4181-4769-b0b8-e8051faddf52")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -3667,7 +3580,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -3721,7 +3634,6 @@
 			(uuid "6deb927e-3382-4d22-98ca-797a7e56cdae")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -3782,7 +3694,6 @@
 			(uuid "4639b876-afd6-4867-9e35-ee0f30484519")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -3795,7 +3706,6 @@
 			(uuid "5f18b458-3bd5-424e-94d1-05500c9fde0c")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -3807,7 +3717,6 @@
 			(uuid "98d460bd-e5bc-45cb-9f1c-8aedbb7ee781")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -3818,7 +3727,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -3872,7 +3781,6 @@
 			(uuid "1ee3e93a-af63-4b0f-8d8d-07530e70618e")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -3933,7 +3841,6 @@
 			(uuid "3bf931a1-4f7e-4707-8604-8f795678e4f5")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -3946,7 +3853,6 @@
 			(uuid "40eabeb6-0347-4269-848f-21c71ab46648")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -3958,7 +3864,6 @@
 			(uuid "dff326b6-4e08-4827-b64f-71a3f9069c70")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -3969,7 +3874,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -4023,7 +3928,6 @@
 			(uuid "671aa65a-5b97-499d-adc7-b168069d974f")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -4084,7 +3988,6 @@
 			(uuid "b0d37920-e529-41d7-bc46-569163a9c725")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -4097,7 +4000,6 @@
 			(uuid "34b2c8bf-bc51-4eff-9d54-813a890503c0")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -4109,7 +4011,6 @@
 			(uuid "55a96276-526e-44bd-b4ab-f8c0399201d3")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -4120,7 +4021,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -4174,7 +4075,6 @@
 			(uuid "36d30fe5-3797-4d5a-835b-0292a8ee711c")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -4235,7 +4135,6 @@
 			(uuid "60ad9bed-32cb-492c-b0ea-25348f4c3d0c")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -4248,7 +4147,6 @@
 			(uuid "d59f4a56-bdc4-443d-8bb5-8f67db5cd703")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -4260,7 +4158,6 @@
 			(uuid "b1296ed1-99c3-4745-9189-2401533661b7")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -4270,7 +4167,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2" "3" "6" "5" "4")
 			)
 		)
@@ -4392,7 +4289,6 @@
 			(uuid "2c1aaea2-1297-4cda-852b-7a69b298ea09")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.075)
 				)
@@ -4489,7 +4385,6 @@
 			(uuid "32614287-9bbb-4180-8a9e-cffc22b9d502")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -4502,7 +4397,6 @@
 			(uuid "147500f9-86ca-4b1f-a0bc-37cdd220d2ca")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -4514,7 +4408,6 @@
 			(uuid "ca7b6166-e1d1-4c5b-9e12-1638989f45a7")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -4524,7 +4417,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -4738,7 +4631,6 @@
 			(uuid "73c74ef8-f2fb-4bf7-b88c-f4092f6b58e0")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -4817,7 +4709,6 @@
 			(uuid "13488137-f6b5-4fb6-86ee-94411e8d909d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -4830,7 +4721,6 @@
 			(uuid "e6444978-715b-4084-ad6b-7a0b6e21c7f7")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -4842,7 +4732,6 @@
 			(uuid "e5cb0846-7af1-419a-99b3-fe827eb85ea3")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -4853,7 +4742,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "3" "2" "4" "5")
 			)
 		)
@@ -4975,7 +4864,6 @@
 			(uuid "807dedf5-64ff-4f3b-94fb-4e43e7f8673a")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.075)
 				)
@@ -5063,7 +4951,6 @@
 			(uuid "71d43bc0-663c-4d7d-a800-3e7644cb97fd")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -5076,7 +4963,6 @@
 			(uuid "f9faa170-028e-4f2d-8e9f-1538c83cda34")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -5088,7 +4974,6 @@
 			(uuid "a7bcb05a-7882-4622-b0d7-d57f94d1387e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -5098,7 +4983,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -5312,7 +5197,6 @@
 			(uuid "aaee43e5-3ff7-4193-909e-c40976ba483d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -5391,7 +5275,6 @@
 			(uuid "0e3a1eb5-7c39-4e68-8495-76a1dbd1f80e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -5404,7 +5287,6 @@
 			(uuid "5c25aafe-2fc2-47e3-9c98-7056e3059043")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -5416,7 +5298,6 @@
 			(uuid "8151176b-c077-4463-b318-54ca085a313e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -5427,7 +5308,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -5481,7 +5362,6 @@
 			(uuid "1c3256ee-59b0-4c72-9920-22f393c74a5d")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -5542,7 +5422,6 @@
 			(uuid "326fd6b4-9265-4ae0-80a6-afd4a7622465")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -5555,7 +5434,6 @@
 			(uuid "dd90db2b-80c1-4339-9cfa-8098a4c96f54")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -5567,7 +5445,6 @@
 			(uuid "ddee6197-b0af-49ee-ac70-7a30749e5a37")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -5578,7 +5455,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -5632,7 +5509,6 @@
 			(uuid "d8262323-d8ad-48ff-b985-08b15aec0812")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -5693,7 +5569,6 @@
 			(uuid "929315ae-c9d5-48d5-b50a-0b58a011222b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -5706,7 +5581,6 @@
 			(uuid "3e4bf2a8-274b-4dc5-8fc1-e7ea6f476746")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -5718,7 +5592,6 @@
 			(uuid "51e89cc1-fdbc-4b9f-8d4a-ac5859afbcd4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -5729,7 +5602,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -5783,7 +5656,6 @@
 			(uuid "f43b7ac7-56c5-4ed2-b236-78c65238dd1a")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -5844,7 +5716,6 @@
 			(uuid "a2c67447-5fac-426c-896d-f746ac0313fb")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -5857,7 +5728,6 @@
 			(uuid "7a3b8abb-a3af-4776-ac29-9736c714a608")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -5869,7 +5739,6 @@
 			(uuid "ec8e15c2-cd89-4d63-969d-8c44762cb4dc")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -5879,7 +5748,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -6093,7 +5962,6 @@
 			(uuid "6b2bc084-175b-48e5-8ae6-76c480bea199")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -6172,7 +6040,6 @@
 			(uuid "f314cf94-dc2e-42a7-9046-778260106fe5")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -6185,7 +6052,6 @@
 			(uuid "2518348e-fd39-41c1-829e-a26efcd77f03")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -6197,7 +6063,6 @@
 			(uuid "67198cb2-a8f5-4294-858e-b7d34e568c3f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -6208,7 +6073,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -6262,7 +6127,6 @@
 			(uuid "8bb3d9f0-5bc9-4fad-829c-92ede4c1a479")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -6323,7 +6187,6 @@
 			(uuid "853f0293-bc57-4801-a833-7116792abc15")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -6336,7 +6199,6 @@
 			(uuid "3f4df6f1-d6f5-4ed7-8e93-543660fdfc5f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -6348,7 +6210,6 @@
 			(uuid "b14f37e8-3333-49ff-b00e-c797a80a98b3")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -6359,7 +6220,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -6413,7 +6274,6 @@
 			(uuid "64f6310c-04ae-4fa9-8ed7-058c02684d01")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -6475,7 +6335,6 @@
 			(uuid "2dcc76b3-80b4-43ae-befd-91c2bb1ff993")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -6488,7 +6347,6 @@
 			(uuid "21a4a0dc-592b-492e-b365-2834fb4f5118")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -6500,7 +6358,6 @@
 			(uuid "da73a940-f609-4c82-aaf7-23234819dd90")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -6511,7 +6368,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins)
 			)
 		)
@@ -6545,7 +6402,6 @@
 			(uuid "5e302126-38fc-4756-ba9f-e6107d0d8a4f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -6585,7 +6441,6 @@
 			(uuid "0748f65b-8860-41a2-9250-0af94536c2b5")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -6598,7 +6453,6 @@
 			(uuid "7d7fd65b-3ee3-419b-8dfb-85f7f10a5ae3")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -6610,7 +6464,6 @@
 			(uuid "abee6ca7-6e4b-45dd-9745-b9b2dcfd5db6")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -6621,7 +6474,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins)
 			)
 		)
@@ -6655,7 +6508,6 @@
 			(uuid "7dae5bf9-67d8-4e3a-87db-e3b7102de6e9")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -6695,7 +6547,6 @@
 			(uuid "3e6f2e47-7bf1-4759-9a87-6c3b2d56c573")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -6708,7 +6559,6 @@
 			(uuid "003a92cf-ca3a-4c42-8e7f-cac869ab621a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -6720,7 +6570,6 @@
 			(uuid "5b05788f-5b86-4aea-ac05-bbf1ee91aa96")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -6731,7 +6580,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins)
 			)
 		)
@@ -6765,7 +6614,6 @@
 			(uuid "6254c31a-d3a6-4925-832c-6a5bd677c2db")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -6804,7 +6652,6 @@
 			(uuid "1ff5059d-2111-469d-abda-952ab59864bc")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -6817,7 +6664,6 @@
 			(uuid "1c56c18d-8271-4a34-ace3-cabfc2adebfa")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -6829,7 +6675,6 @@
 			(uuid "25d4de1f-e38a-4340-8114-3375289548c9")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -6840,7 +6685,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "3" "2")
 			)
 		)
@@ -7062,7 +6907,6 @@
 			(uuid "e8a906fa-1076-4f23-8a73-cfed3fb557a4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -7146,7 +6990,6 @@
 			(uuid "07d7a903-e631-40b0-8afe-70186e1b1f9a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -7159,7 +7002,6 @@
 			(uuid "1b6af0da-b726-42f3-9198-17ab5053fa1b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -7171,7 +7013,6 @@
 			(uuid "51432611-d460-4677-8108-4a710dcf9201")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -7182,7 +7023,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -7236,7 +7077,6 @@
 			(uuid "98b071eb-d50c-438a-a63b-e0ff30a65534")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -7298,7 +7138,6 @@
 			(uuid "cc439fcb-c2a8-4573-903e-7262ebd7f75a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -7311,7 +7150,6 @@
 			(uuid "6bdfb26f-21b9-42a7-98fa-e6bc4b22d89b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -7323,7 +7161,6 @@
 			(uuid "ce532ac9-d52d-45c3-b86a-5687cdbc91cd")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -7334,7 +7171,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins)
 			)
 		)
@@ -7368,7 +7205,6 @@
 			(uuid "ab9b7fba-d378-4efc-aabf-ac43b684eeec")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -7407,7 +7243,6 @@
 			(uuid "366dd660-4142-479a-ac42-6b9ceac6b54c")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -7420,7 +7255,6 @@
 			(uuid "25172b31-b582-4148-b6ff-9cd878a9f805")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -7432,7 +7266,6 @@
 			(uuid "b4880d02-9db1-4806-9e36-d5403104a663")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -7443,7 +7276,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "3" "5" "7" "2" "4" "6" "8")
 			)
 		)
@@ -7625,7 +7458,6 @@
 			(uuid "383dc781-dec6-48c0-8274-52469e94e129")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -7756,7 +7588,6 @@
 			(uuid "377b493a-8484-4940-86a6-f172bb9d3247")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -7769,7 +7600,6 @@
 			(uuid "7377a5e8-ddd5-4e2d-81c3-016f8154bcfa")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -7781,7 +7611,6 @@
 			(uuid "79908712-564f-4a36-b675-cc7b234eb47c")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -7792,7 +7621,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -7846,7 +7675,6 @@
 			(uuid "91543cbb-b87d-4562-a950-828b8acc985b")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -7907,7 +7735,6 @@
 			(uuid "d4242875-3fe5-4738-b4ff-a1370b920dba")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -7920,7 +7747,6 @@
 			(uuid "711d0149-ae14-4090-9c42-e0a8986887aa")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -7932,7 +7758,6 @@
 			(uuid "63671643-9d97-4b31-b22c-e3ef0e03eac0")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -7943,7 +7768,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -7997,7 +7822,6 @@
 			(uuid "27d51bf9-20ae-4af3-a011-7c9618ffde39")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -8058,7 +7882,6 @@
 			(uuid "5179f0bc-8989-423c-9ea0-abd0ceea38d2")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -8071,7 +7894,6 @@
 			(uuid "4cec5263-74cc-4875-a78e-6aa6f16c2e06")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -8083,7 +7905,6 @@
 			(uuid "3d8bc793-0ee1-41ec-a753-4df977fbc7e8")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -8094,7 +7915,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -8148,7 +7969,6 @@
 			(uuid "c7247a8a-4832-4c5f-8ca2-a619f5b7fa40")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -8209,7 +8029,6 @@
 			(uuid "51883324-2b5d-41db-b36b-8a899151dea9")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -8222,7 +8041,6 @@
 			(uuid "9af4144a-36a8-4994-841f-71c994469518")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -8234,7 +8052,6 @@
 			(uuid "fb748833-df4d-42f4-8149-390ac7883e63")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -8245,7 +8062,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -8299,7 +8116,6 @@
 			(uuid "ae1dae4a-90fd-4d06-bd21-da27bc08de7d")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -8360,7 +8176,6 @@
 			(uuid "a08da9a3-1710-4ab7-850f-45bd362cfa6d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -8373,7 +8188,6 @@
 			(uuid "620777cb-578a-479a-bb86-a47bfb1b0299")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -8385,7 +8199,6 @@
 			(uuid "c91ad85c-9e80-41af-a998-73aa1bf01852")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -8396,7 +8209,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "6" "1" "7" "2" "8" "3" "9" "4" "10" "5" "0" "11" "12" "13" "14"
 					"15"
 				)
@@ -8782,7 +8595,6 @@
 			(uuid "e1064f9c-071e-4526-9b03-fe5065d77fdd")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -8998,7 +8810,6 @@
 			(uuid "0fdd3284-9641-4d5f-9501-890516981ac6")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -9011,7 +8822,6 @@
 			(uuid "bdd8d92c-8f22-48be-8f2f-a172176afa3d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
@@ -9024,7 +8834,6 @@
 			(uuid "1e066101-ca12-4007-bc51-087d415589b0")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
@@ -9035,7 +8844,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "13" "14" "15"
 					"16" "17" "18" "19" "20" "41" "42" "43" "40" "39" "38" "37" "36" "35"
 					"34" "33" "32" "31" "30" "29" "28" "27" "26" "25" "24" "23" "22" "21"
@@ -10301,7 +10110,6 @@
 			(uuid "37f37914-e8e7-48b3-9784-24b435a1454c")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -10314,7 +10122,6 @@
 			(uuid "fa6ae850-49d8-40fe-813e-2b51d9e45766")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -10326,7 +10133,6 @@
 			(uuid "d29b7e20-5368-45ff-b3e8-4ff7313bdfc2")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -11712,7 +11518,7 @@
 		(zone
 			(layer "Edge.Cuts")
 			(uuid "cd409fb6-e6b0-4009-8c9f-bf0cca8ae85a")
-			(face "Arial")
+			(name "Board Keep Out USB Cable")
 			(hatch edge 0.5)
 			(connect_pads
 				(clearance 0)
@@ -11743,7 +11549,7 @@
 		(zone
 			(layer "F.CrtYd")
 			(uuid "f337f87b-1b3d-4426-8069-55d3a072df01")
-			(face "Arial")
+			(name "USB Cable Keep Out")
 			(hatch full 0.5)
 			(connect_pads
 				(clearance 0)
@@ -11980,7 +11786,6 @@
 			(uuid "39a1176e-7cd3-4f21-8ace-fedb9b06dc96")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -11993,7 +11798,6 @@
 			(uuid "63e1346a-ee87-4f85-bd6e-913f25df46f2")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -12005,7 +11809,6 @@
 			(uuid "5115c970-05d6-4e22-a46f-4687011d6424")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -12018,7 +11821,6 @@
 			(uuid "46cd58e1-7d80-4ead-96ba-57df5d656bb1")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12032,7 +11834,6 @@
 			(uuid "5e6c0bbb-8cbb-4e8c-b349-0c16de6ca77d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12046,7 +11847,6 @@
 			(uuid "ab3c681d-e00a-458c-a827-00921a46b1af")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12060,7 +11860,6 @@
 			(uuid "333212f9-034a-41ab-b346-48d9b8fb0afe")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12074,7 +11873,6 @@
 			(uuid "8d42dac3-73d7-4cab-9092-4c26312192d9")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12088,7 +11886,6 @@
 			(uuid "90b7bc29-d2b1-4c44-8059-3f04e0d431ef")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12102,7 +11899,6 @@
 			(uuid "6beefddd-21b6-4366-8295-05b4e8531a72")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12116,7 +11912,6 @@
 			(uuid "ce6c4161-277c-4125-8a93-be2385b648ac")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12130,7 +11925,6 @@
 			(uuid "2392050b-0a20-48c5-8778-70854a77ab96")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12144,7 +11938,6 @@
 			(uuid "d550e9b7-b1ff-4143-8c78-ecadc61eb187")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12158,7 +11951,6 @@
 			(uuid "4ffb8ef9-56c7-4a05-8e19-4688d0b54ce0")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12172,7 +11964,6 @@
 			(uuid "8019e416-17a8-43af-bd3c-756faa8f427f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12186,7 +11977,6 @@
 			(uuid "17f6c919-9f37-466d-9a4a-c7425e1a35f5")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12200,7 +11990,6 @@
 			(uuid "661d440c-b988-4b7d-9fbf-e1ecff1a340a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12214,7 +12003,6 @@
 			(uuid "4c59a5c4-4fd7-484e-aebe-1fe648d8c864")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12228,7 +12016,6 @@
 			(uuid "86c45457-15e0-46f9-811e-edcf67875dbb")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12240,7 +12027,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -12294,7 +12081,6 @@
 			(uuid "99ebcf89-d9bd-4e97-a949-161c473b88a5")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -12357,7 +12143,6 @@
 			(uuid "7837bc33-038c-434f-8e72-c0edf867fad5")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.8 0.5)
 					(thickness 0.01)
 					(bold yes)
@@ -12372,7 +12157,6 @@
 			(uuid "01c0b62a-8fc8-483e-9357-2439de03ddef")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12386,7 +12170,6 @@
 			(uuid "81c360a6-d4ff-4bbe-9caa-7c5ee1bd7d1f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12400,7 +12183,6 @@
 			(uuid "4e6a93b4-ef23-45cd-a1d4-cfd5338f78de")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12414,7 +12196,6 @@
 			(uuid "cd4b4d7a-7e2b-407b-b691-117456b8df70")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12428,7 +12209,6 @@
 			(uuid "0fc9facb-fc50-4a15-a9eb-d935cf783050")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12442,7 +12222,6 @@
 			(uuid "984f23a0-9d82-4d3c-85dc-de4399af54f8")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12456,7 +12235,6 @@
 			(uuid "291918dc-0cdf-4fff-b938-7ea5d6e028a4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12470,7 +12248,6 @@
 			(uuid "42db4688-4e4b-43df-a8c5-37c4231b1492")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12484,7 +12261,6 @@
 			(uuid "06a2d605-e323-4c3e-b794-0237ff53a80b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12498,7 +12274,6 @@
 			(uuid "fb6ce8d6-2beb-45b5-9f04-019fee3958c6")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12512,7 +12287,6 @@
 			(uuid "85eea8e9-ab31-4853-8289-8051a905dfbf")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12526,7 +12300,6 @@
 			(uuid "e8ddb75a-421a-4ab0-9e3b-3fb7d4944c62")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12540,7 +12313,6 @@
 			(uuid "dfc12bc0-9857-4b9f-9a06-63fa78169578")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12554,7 +12326,6 @@
 			(uuid "bc02e7ab-6268-4244-889e-9444e9ac9abb")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12568,7 +12339,6 @@
 			(uuid "42fb8f45-1568-49df-9084-db520271f1cd")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12582,7 +12352,6 @@
 			(uuid "6ceddba6-5718-432b-8b79-e8bd12cc5922")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12596,7 +12365,6 @@
 			(uuid "b4592153-aeb4-4fca-885d-cd068c6ef7dc")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12610,7 +12378,6 @@
 			(uuid "011e701d-8d53-46e9-aafe-5ffe5e993125")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12624,7 +12391,6 @@
 			(uuid "9350e8e8-97ce-4834-b2f9-cb2594ad1458")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12636,7 +12402,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -12682,7 +12448,6 @@
 			(uuid "9b67a375-38ff-4a25-b137-2874b5123c17")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.8 0.5)
 					(thickness 0.01)
 				)
@@ -12741,7 +12506,6 @@
 			(uuid "1af4cafc-15f5-40ba-973b-5e53abc7cd48")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12754,7 +12518,6 @@
 			(uuid "500df1e5-2758-43da-b15b-8e17260e4be3")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -12766,7 +12529,6 @@
 			(uuid "ee644e65-6d76-4fe0-ae4b-00a8ed94ec86")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -12779,7 +12541,6 @@
 			(uuid "22339dad-d1d6-414e-93a7-8d226803ed8b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12793,7 +12554,6 @@
 			(uuid "6786f52b-1610-4ee9-8166-2ab08f867ec8")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12807,7 +12567,6 @@
 			(uuid "a5d38371-2580-4ae5-b24f-fd5caa73a754")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12821,7 +12580,6 @@
 			(uuid "3c3a2f84-9dbe-477c-af8a-5f5bfe85b20b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12835,7 +12593,6 @@
 			(uuid "352e2414-11b5-41f0-b479-fb59536d55bf")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12849,7 +12606,6 @@
 			(uuid "970c67bb-f713-45f7-914f-cfec3f5b35b1")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12863,7 +12619,6 @@
 			(uuid "2a9d5310-53bf-4d79-80c6-e5f919f87e6d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12877,7 +12632,6 @@
 			(uuid "7eab24b5-dfe5-48d9-99a1-a02f102c85f7")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12891,7 +12645,6 @@
 			(uuid "c0187411-3c15-4aab-8fc6-289cde27b1fc")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12905,7 +12658,6 @@
 			(uuid "30d512c3-b491-4b1e-8313-c8ffd0b091e4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12919,7 +12671,6 @@
 			(uuid "52594e9c-d94d-482b-b530-069253a8a494")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12933,7 +12684,6 @@
 			(uuid "df3a8fdc-434d-4456-991b-934bfced1d96")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12947,7 +12697,6 @@
 			(uuid "2ba99041-c456-4bd7-9056-52b5aab89c20")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12961,7 +12710,6 @@
 			(uuid "9319478f-8836-435d-ba02-ab19d7d8f5da")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12975,7 +12723,6 @@
 			(uuid "19546eb3-c19d-4022-aa33-2b5125ad2979")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -12989,7 +12736,6 @@
 			(uuid "3f2367cc-f623-4ecc-b678-536e09afeb0f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13003,7 +12749,6 @@
 			(uuid "a2beb86d-ec41-422c-9540-a2a6d409ffd8")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13017,7 +12762,6 @@
 			(uuid "b1bbc8a3-2a58-42dc-af3b-89c410982876")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13029,7 +12773,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -13083,7 +12827,6 @@
 			(uuid "157934eb-b3be-486f-a621-5ef8b17a504a")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -13144,7 +12887,6 @@
 			(uuid "3c796ff4-1901-4bbe-8fdf-7a483d0fe5b4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13157,7 +12899,6 @@
 			(uuid "2bed0c7c-c8e2-469e-9674-759928dc164f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -13169,7 +12910,6 @@
 			(uuid "0cc52324-725e-454e-88d0-9af7c1586f00")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -13182,7 +12922,6 @@
 			(uuid "43cb1858-2023-4b3e-ad3e-0c430b8f00d5")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13196,7 +12935,6 @@
 			(uuid "b8214e4d-346f-46ab-b64b-6831dc9f615e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13210,7 +12948,6 @@
 			(uuid "d6c494e6-3cad-4677-bf17-75f892e79f7d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13224,7 +12961,6 @@
 			(uuid "f4ef9d36-9034-49f3-b86a-98560e72a868")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13238,7 +12974,6 @@
 			(uuid "2bfabdbd-41c6-4279-9019-96327fef772b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13252,7 +12987,6 @@
 			(uuid "91fc182c-cdcf-4e27-9a99-401a35504b45")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13266,7 +13000,6 @@
 			(uuid "a23c8a25-c95a-49eb-9d7e-7bd65b723cb4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13280,7 +13013,6 @@
 			(uuid "79a39a29-4cbf-43a7-98b7-7822961c1339")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13294,7 +13026,6 @@
 			(uuid "36517b86-eddf-45d7-b6b0-f23f227acf52")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13308,7 +13039,6 @@
 			(uuid "6362ec1b-d611-42c6-ae08-068c89140fae")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13322,7 +13052,6 @@
 			(uuid "11450044-9982-4057-a0b9-9333b672d9e0")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13334,7 +13063,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "6" "9" "7" "10" "8" "11" "1" "2" "3" "4" "5")
 			)
 		)
@@ -13686,7 +13415,6 @@
 			(uuid "8208dc00-58ca-4571-a2dc-acecc0b1981a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13824,7 +13552,6 @@
 			(uuid "13ebddd2-5f4a-4e95-9ee8-e0b1ae008fe5")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13837,7 +13564,6 @@
 			(uuid "0bdcce04-ece9-41c3-9fb8-2998ad3ceb53")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -13849,7 +13575,6 @@
 			(uuid "7d9f3ba9-272b-41e2-b667-497787eaa188")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -13862,7 +13587,6 @@
 			(uuid "ed964118-39ad-440d-87ea-43747ebb01e9")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13876,7 +13600,6 @@
 			(uuid "8c54aead-c4c2-4fd2-9141-e0716b2f065d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13890,7 +13613,6 @@
 			(uuid "86c2eab0-3fc0-4a8b-be67-6b24606dbdbf")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13904,7 +13626,6 @@
 			(uuid "54a9ade1-bb95-4744-961d-42d2dd838e71")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13918,7 +13639,6 @@
 			(uuid "e00413ee-45ba-4808-aa6b-c0846eeb8e32")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13932,7 +13652,6 @@
 			(uuid "741f1f62-eaea-40fc-9d54-899e2a82d342")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13946,7 +13665,6 @@
 			(uuid "0ab4418c-58d5-41a8-858b-8048e6934df5")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13960,7 +13678,6 @@
 			(uuid "1552820f-f8c7-458c-83db-584abb39c2af")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13974,7 +13691,6 @@
 			(uuid "be618c80-f492-45fa-8e54-bd20ad04d087")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -13988,7 +13704,6 @@
 			(uuid "df4f6780-d6c2-453e-9abe-f9977b2b9901")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -14002,7 +13717,6 @@
 			(uuid "28993ece-dc20-42bb-9ee0-153652fa0e57")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -14016,7 +13730,6 @@
 			(uuid "1a192499-3b48-44b0-9c26-bd936bffc916")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -14030,7 +13743,6 @@
 			(uuid "15cdfd5c-753b-4bbf-b73c-3b3d24743932")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -14044,7 +13756,6 @@
 			(uuid "50ddfd21-4570-4077-88e8-5c7cdc6fe511")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -14058,7 +13769,6 @@
 			(uuid "8702b68c-d225-4221-93e6-0aa28195cff9")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -14072,7 +13782,6 @@
 			(uuid "d18a354f-ac3a-40c8-a763-df041d361786")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -14086,7 +13795,6 @@
 			(uuid "55ac7cb6-92f3-4092-8ec2-413df42d0bf6")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -14100,7 +13808,6 @@
 			(uuid "5b1cdc63-b8fe-43bc-8ef5-62f1e5a0b690")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -14112,7 +13819,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -14166,7 +13873,6 @@
 			(uuid "64bf0acd-3f41-4c5d-a3c9-2a518b0814cc")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -14230,7 +13936,6 @@
 			(uuid "8c890e9b-13da-402d-b42f-e50c208d2072")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.8 0.5)
 					(thickness 0.125)
 					(bold yes)
@@ -14245,7 +13950,6 @@
 			(uuid "ee82eb3d-d8fc-4c53-9752-21efce990bdd")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -14259,7 +13963,6 @@
 			(uuid "59424c07-3901-479d-aca9-09541bfb324e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -14273,7 +13976,6 @@
 			(uuid "f39fcef1-a6c3-4bd3-be31-a9a11278d426")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -14287,7 +13989,6 @@
 			(uuid "280887b5-b912-4a61-872a-22a599de5751")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -14301,7 +14002,6 @@
 			(uuid "fca9c650-2d0c-4644-982a-d9d8f6c9c192")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -14315,7 +14015,6 @@
 			(uuid "4aa088dd-b181-4aed-b433-4b39ed18690e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -14329,7 +14028,6 @@
 			(uuid "0bbbbef0-3ee0-403f-9164-f8f99c531444")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -14343,7 +14041,6 @@
 			(uuid "3eb47454-8e7a-46e8-8107-d43df571e287")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -14357,7 +14054,6 @@
 			(uuid "6e6788ee-6196-4808-9208-6c2c19f50d59")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -14371,7 +14067,6 @@
 			(uuid "26a93bf1-79db-4dea-8495-c2d4662c78b7")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -14385,7 +14080,6 @@
 			(uuid "9276b8e0-7634-47df-b76a-811bd6bf72c4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -14397,7 +14091,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -14511,7 +14205,6 @@
 			(uuid "189f6013-ff99-4718-b751-a2c9d858ddf2")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.8 0.5)
 					(thickness 0.01)
 				)
@@ -14576,7 +14269,6 @@
 			(uuid "1f3997e9-fda7-4f0c-bad8-92cf47682fef")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -14589,7 +14281,6 @@
 			(uuid "4a796be5-e2dd-4ee5-a50a-ea92019bc620")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -14601,7 +14292,6 @@
 			(uuid "650b78e3-0f03-4212-b4f4-0e782c19348b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -14612,7 +14302,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -14955,7 +14645,6 @@
 			(uuid "d9415add-5161-4100-a6d1-2f451c1d4953")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15016,7 +14705,6 @@
 			(uuid "4d28dabe-f5a1-417f-b49d-8242a796d7ff")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15029,7 +14717,6 @@
 			(uuid "b04d7b50-c947-4fb2-b251-c9a5b907e8af")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -15041,7 +14728,6 @@
 			(uuid "e3301422-ac26-4829-bb1b-03172d0b0140")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -15054,7 +14740,6 @@
 			(uuid "0bafa4d5-42c6-4d6d-8228-a0d812218893")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15068,7 +14753,6 @@
 			(uuid "bea3954d-b758-41da-a561-7c360c20c58b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15082,7 +14766,6 @@
 			(uuid "a0c42450-8793-4ad8-b448-e43e31321cca")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15096,7 +14779,6 @@
 			(uuid "05b40891-7ffe-45f4-8fd8-a1bf45673add")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15110,7 +14792,6 @@
 			(uuid "ecc25298-d3b0-4d42-bae9-89ab8297f146")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15124,7 +14805,6 @@
 			(uuid "03564860-aabe-4d02-ada9-4289e2ad07e3")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15138,7 +14818,6 @@
 			(uuid "03c47b72-6d72-487a-b728-037d29b0ce7f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15152,7 +14831,6 @@
 			(uuid "906a4676-423e-4f41-8c88-1ec1ff290847")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15166,7 +14844,6 @@
 			(uuid "5428334c-96d4-4dfa-b187-16d020a545bc")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15180,7 +14857,6 @@
 			(uuid "488f799f-a5e9-46c3-8d6f-e85960ac8594")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15194,7 +14870,6 @@
 			(uuid "257e56cb-1619-407e-88f4-71b755bb8102")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15208,7 +14883,6 @@
 			(uuid "2a9f0b45-fd01-43df-9d1e-5773fdcbb4e0")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15222,7 +14896,6 @@
 			(uuid "ff56bf07-dcbf-467b-abb7-ec30825f4881")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15236,7 +14909,6 @@
 			(uuid "1802c8ee-a88c-4c9d-a3c3-8a70b52d7821")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15250,7 +14922,6 @@
 			(uuid "60b1dbb7-09e3-47b6-b733-d1b6406d066a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15264,7 +14935,6 @@
 			(uuid "4f73e9b1-493d-469e-b46f-144bfb16864e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15276,7 +14946,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -15330,7 +15000,6 @@
 			(uuid "795281c8-c483-4ef2-adb0-11823c717ba2")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -15393,7 +15062,6 @@
 			(uuid "02b530aa-734e-4b6c-94be-c00be4969589")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.8 0.5)
 					(thickness 0.01)
 					(bold yes)
@@ -15408,7 +15076,6 @@
 			(uuid "75912329-a7e8-4583-86fd-429d56673eb4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15422,7 +15089,6 @@
 			(uuid "cde17b3c-738b-4afa-90dd-4dc70be14d82")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15436,7 +15102,6 @@
 			(uuid "f7698765-3321-4489-80a1-8ab53d579062")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15450,7 +15115,6 @@
 			(uuid "72a1ed57-bdaf-40b1-b8f2-a8e471adb4dd")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15464,7 +15128,6 @@
 			(uuid "dc7aa5bc-aba2-44b4-beb2-ab42f43c111e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15478,7 +15141,6 @@
 			(uuid "a4e61e01-272e-45ee-a22c-7b1f20352c42")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15492,7 +15154,6 @@
 			(uuid "268119e6-49f4-4a02-8102-e72d34d20ddc")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15506,7 +15167,6 @@
 			(uuid "75f0af76-7ab4-4ca0-acb8-5d93a20ac853")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15520,7 +15180,6 @@
 			(uuid "9a7d2e35-78d1-409a-a310-68bec6eaa3d2")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15534,7 +15193,6 @@
 			(uuid "d42fd4a1-bb6c-4596-9a1e-1c5f5634cd8f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15548,7 +15206,6 @@
 			(uuid "d6929185-0694-4123-8e04-bd18cc51a796")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15562,7 +15219,6 @@
 			(uuid "5c4e55ee-b839-4a09-b951-f2772b07bda5")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15576,7 +15232,6 @@
 			(uuid "9600450b-2f12-4ae2-b6c2-3542e16f7c0a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15590,7 +15245,6 @@
 			(uuid "721cfdf6-a652-420a-82a7-ce93ca87a136")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15604,7 +15258,6 @@
 			(uuid "4a7a0d9b-4bcc-47ba-8b4e-0b4b1064d1ff")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15618,7 +15271,6 @@
 			(uuid "a2533663-e1f9-423a-92e9-74ade39e8a5c")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15632,7 +15284,6 @@
 			(uuid "00191ae6-6140-4869-bcc4-93820316b471")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15646,7 +15297,6 @@
 			(uuid "83e911d2-4818-44b7-8fd2-539c1c322c10")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15660,7 +15310,6 @@
 			(uuid "dbf06e81-b41a-41b4-a88b-8b9fa8a31886")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15672,7 +15321,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -15718,7 +15367,6 @@
 			(uuid "f7d8e3e7-4869-4d03-a625-078268838bb4")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.8 0.5)
 					(thickness 0.01)
 				)
@@ -15777,7 +15425,6 @@
 			(uuid "ecfae7af-3da5-4890-ad9d-7417c05af3e3")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15790,7 +15437,6 @@
 			(uuid "b628b551-b2d3-4ee6-a907-c2b8197b4479")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -15802,7 +15448,6 @@
 			(uuid "98793a11-a30a-41cf-b619-33ed7fa39cad")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -15813,7 +15458,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -15867,7 +15512,6 @@
 			(uuid "c87d88d8-b936-4ff1-8528-607a4723373a")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -15928,7 +15572,6 @@
 			(uuid "f414f1a0-08db-4de5-8e8b-57d2f74bf1f4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -15941,7 +15584,6 @@
 			(uuid "176c455d-b77a-4e45-847a-9127a7346654")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -15953,7 +15595,6 @@
 			(uuid "fc04c0c2-5241-449c-b9c2-8e7f8c8bc2d5")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -15964,7 +15605,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -16018,7 +15659,6 @@
 			(uuid "123b90a1-9f15-4323-93a5-98a1e470cd84")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -16079,7 +15719,6 @@
 			(uuid "bb107798-e1cb-496a-ab19-250ba0a7c373")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16092,7 +15731,6 @@
 			(uuid "52962525-3f48-4889-9df0-498f3eedb2d1")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -16104,7 +15742,6 @@
 			(uuid "5564b927-e9d2-45db-ad61-a9d11f0432bf")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -16117,7 +15754,6 @@
 			(uuid "65fdc5c1-919d-4b23-89ef-304c39f0e6ec")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16131,7 +15767,6 @@
 			(uuid "5e393f50-cdbc-4d97-858c-8fa8ae433dc7")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16145,7 +15780,6 @@
 			(uuid "01a29dc9-209b-40f5-bc16-e245e714ef8e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16159,7 +15793,6 @@
 			(uuid "3d9ef1bf-0754-4d97-90f0-91c650da1d49")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16173,7 +15806,6 @@
 			(uuid "a45be355-13dc-4ff2-b434-b8b0e018fed7")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16187,7 +15819,6 @@
 			(uuid "2b0e5561-a54d-441a-a219-11d8698501a0")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16201,7 +15832,6 @@
 			(uuid "9cd0033c-faaa-4362-8fb8-e581d626a1d9")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16215,7 +15845,6 @@
 			(uuid "fe163741-9fd0-4656-9ec9-a009f2e8bb29")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16229,7 +15858,6 @@
 			(uuid "202df7f9-0d3c-4306-b359-12da9d4162ca")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16243,7 +15871,6 @@
 			(uuid "5a7fd8c9-6b9b-483d-a6f7-0506bad83d8e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16257,7 +15884,6 @@
 			(uuid "ad4667be-8f05-469c-82a3-269dff767766")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16271,7 +15897,6 @@
 			(uuid "9234d172-34f6-4282-8df3-8a72519dac0b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16285,7 +15910,6 @@
 			(uuid "5aae1c97-86cb-43a9-b32c-72b20b593481")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16299,7 +15923,6 @@
 			(uuid "563a8bf1-39a7-4459-996f-7ff8dfb5a530")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16313,7 +15936,6 @@
 			(uuid "ef2ede5d-8a42-4d5b-87e2-9a6f6765a021")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16327,7 +15949,6 @@
 			(uuid "9b65e7fe-6de2-4f49-a5ac-c8acf4bfb8f9")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16339,7 +15960,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -16393,7 +16014,6 @@
 			(uuid "0d78ef52-25ad-4656-900c-f4beba751b09")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -16454,7 +16074,6 @@
 			(uuid "1fd66fa6-d64c-49ae-8e71-316dbca4270b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16467,7 +16086,6 @@
 			(uuid "96699888-d2a4-4a7c-b885-499297452d1c")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -16479,7 +16097,6 @@
 			(uuid "9d1b5c90-b8f3-4619-92a5-43a671859f3e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -16492,7 +16109,6 @@
 			(uuid "160b32d3-cae2-486d-8676-52d4531149a8")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16506,7 +16122,6 @@
 			(uuid "e096d028-bd4a-4d5e-9753-a7829ab51049")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16520,7 +16135,6 @@
 			(uuid "92d202a1-1a7c-4239-b724-8a5e95f5d3ed")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16534,7 +16148,6 @@
 			(uuid "d6392ab9-dc3e-4d26-be20-4a30b9db3be9")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16548,7 +16161,6 @@
 			(uuid "806fb9b0-b53d-4db4-a9d4-83edc9d44dbf")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16562,7 +16174,6 @@
 			(uuid "bb62c2b0-0f00-4bd4-a473-1c8eb84a865b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16576,7 +16187,6 @@
 			(uuid "d98b1070-d8f3-4d40-a256-ba0566f0dfc2")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16590,7 +16200,6 @@
 			(uuid "2bac39c4-42c6-4ed0-8247-f43b5839469c")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16604,7 +16213,6 @@
 			(uuid "d05c7087-9aac-45ef-a83f-cf524b7a43c0")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16618,7 +16226,6 @@
 			(uuid "de028923-ac6e-45ff-905a-39b34672c3de")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16632,7 +16239,6 @@
 			(uuid "5d27b8fd-df5a-4403-a55e-bc28d0781c62")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16646,7 +16252,6 @@
 			(uuid "2bc0c2cb-e276-4366-bc1e-8721009607e3")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16660,7 +16265,6 @@
 			(uuid "078b7d0a-e646-4080-a224-b11b93628dd4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16674,7 +16278,6 @@
 			(uuid "be4c168d-bb46-4075-a942-3605e284df21")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16688,7 +16291,6 @@
 			(uuid "0b495a83-4b5b-458f-9334-a674795f3e72")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16702,7 +16304,6 @@
 			(uuid "4de373b3-366e-4a55-b468-2c5b4dd33b10")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16716,7 +16317,6 @@
 			(uuid "251e22e0-c4ca-4f0f-81ea-22021ccaa9aa")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16730,7 +16330,6 @@
 			(uuid "6944b768-e80c-45e2-8d9d-1f377906948b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16742,7 +16341,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -16796,7 +16395,6 @@
 			(uuid "8cfa1083-f9cf-4041-8d48-aed5950056fd")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -16857,7 +16455,6 @@
 			(uuid "79bd1371-cedd-4481-ac2a-37fae1179f40")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16870,7 +16467,6 @@
 			(uuid "fb0b27c2-3067-4329-9f2c-30cfaad188a4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -16882,7 +16478,6 @@
 			(uuid "c9ee5851-9255-4a36-a4aa-c54fb74901c0")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -16895,7 +16490,6 @@
 			(uuid "ebaf5932-fd26-48bf-87f5-32980b41b923")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16909,7 +16503,6 @@
 			(uuid "e3fdb943-b74a-4654-b8cf-77fcc28bb31c")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16923,7 +16516,6 @@
 			(uuid "e219a64a-03f5-4111-839b-89343d18cab6")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16937,7 +16529,6 @@
 			(uuid "a4d6b610-bdac-4ce0-bce3-6e0b14e4f146")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16951,7 +16542,6 @@
 			(uuid "a23f95f2-3324-49a0-a8a8-573ae7149d74")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16965,7 +16555,6 @@
 			(uuid "5d316bcb-52d1-4e57-821d-edc0d9291a8f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16979,7 +16568,6 @@
 			(uuid "95282fad-5f42-4c18-bc52-d96598cf08c4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -16993,7 +16581,6 @@
 			(uuid "930d5a5d-639b-46d4-b8e1-daa14245a92a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17007,7 +16594,6 @@
 			(uuid "0e4070bc-5328-4a61-aa8f-71f452dbbbc7")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17021,7 +16607,6 @@
 			(uuid "1693254d-1c25-4b56-99cc-2bee4de1a76d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17035,7 +16620,6 @@
 			(uuid "4302309f-43bf-4747-a190-730903a30f86")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17049,7 +16633,6 @@
 			(uuid "958dd608-f5a0-4dfc-b701-79b236f97e77")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17063,7 +16646,6 @@
 			(uuid "6e6e6edb-d42d-4991-93c1-27133c1a116c")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17077,7 +16659,6 @@
 			(uuid "72da4413-7711-4e2c-b7fc-facf222a96ab")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17091,7 +16672,6 @@
 			(uuid "454b55e9-a4cd-4940-b4d8-8ee0b0c304dc")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17105,7 +16685,6 @@
 			(uuid "b78fd7e1-0c78-4879-9429-f442f75c7414")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17117,7 +16696,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -17171,7 +16750,6 @@
 			(uuid "28b12d13-ec19-42cb-9730-e8292897a5a5")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -17232,7 +16810,6 @@
 			(uuid "c96fafe7-74bb-49b2-b9e5-b4ca88bcd64e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17245,7 +16822,6 @@
 			(uuid "2ac7c324-c375-4705-88e8-240b9f87d949")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
@@ -17258,7 +16834,6 @@
 			(uuid "feaad622-6bab-45f4-b1f9-237f2e7199a9")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
@@ -17272,7 +16847,6 @@
 			(uuid "a273880b-4fbd-4747-b720-440c02156e89")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17286,7 +16860,6 @@
 			(uuid "275fd410-321a-4a2e-85a1-6b176323fa84")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17300,7 +16873,6 @@
 			(uuid "6006b2c2-95a7-4b70-ab9f-7332696b4da8")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17314,7 +16886,6 @@
 			(uuid "0ea0a324-e225-4ca2-a802-697ab4f16ea2")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17328,7 +16899,6 @@
 			(uuid "e6890101-f66a-406f-9071-6a0b7038909c")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17342,7 +16912,6 @@
 			(uuid "272745fe-b89c-4e58-a65e-661b2ac7d839")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17356,7 +16925,6 @@
 			(uuid "2a0dd26f-9064-440a-81c8-f0ca756a8df4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17370,7 +16938,6 @@
 			(uuid "9110fe9e-6f97-49c0-822e-f294d4bb0917")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17384,7 +16951,6 @@
 			(uuid "b97ff360-edce-4c7f-bbab-ce71d67ba170")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17398,7 +16964,6 @@
 			(uuid "dbcb218d-7698-4bfe-adda-e5bb1cbd1070")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17412,7 +16977,6 @@
 			(uuid "67210d24-7389-413e-990c-87101e6a6e05")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17426,7 +16990,6 @@
 			(uuid "6100c75d-4366-40ef-ab73-ff5402e6a619")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17440,7 +17003,6 @@
 			(uuid "5e2de1d1-c2e7-4b6a-8b53-90723926532a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17452,7 +17014,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "8" "4" "1" "6" "5" "2" "3" "7")
 			)
 		)
@@ -17556,7 +17118,6 @@
 			(uuid "95e3182c-87dd-4257-85b0-42c38ddb1e56")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.8 0.8)
 					(thickness 0.12)
 				)
@@ -17716,7 +17277,6 @@
 			(uuid "74045612-1cb7-416d-b39f-47361bbbef35")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -17729,7 +17289,6 @@
 			(uuid "e2f99fe4-e3fd-4c4e-9cfc-51eb056161b4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -17741,7 +17300,6 @@
 			(uuid "780610e2-731f-42a8-a976-e8020006a79a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -17752,7 +17310,7 @@
 		(sheetfile "logic_convert.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "13" "14" "15"
 					"16" "17" "18"
 				)
@@ -17907,7 +17465,6 @@
 			(uuid "35f60575-7311-4d72-a033-1e5acd729f78")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18148,7 +17705,6 @@
 			(uuid "c2c2d981-fffd-4c59-9a05-0690812801d1")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18161,7 +17717,6 @@
 			(uuid "c7b5fd92-513a-4d98-b250-265cafce4d2a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -18173,7 +17728,6 @@
 			(uuid "3ee5e15c-d338-4253-b822-1e1b8d1e3f62")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -18184,7 +17738,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -18238,7 +17792,6 @@
 			(uuid "f1164478-c568-4ef6-a677-3e22c5803f26")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -18299,7 +17852,6 @@
 			(uuid "0f9cd7b5-6616-481b-b275-14e4b7fd31ab")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18312,7 +17864,6 @@
 			(uuid "e9941357-ebc6-424b-844e-d73b606ac75e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -18324,7 +17875,6 @@
 			(uuid "6d433e85-3ea1-41cb-9f0b-2cec79d0e7bf")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -18335,7 +17885,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -18389,7 +17939,6 @@
 			(uuid "b948ac70-fe7d-42c4-a105-5da885c745d1")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -18450,7 +17999,6 @@
 			(uuid "34cab21d-23ab-448a-b92e-59d89cd0bbbe")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18463,7 +18011,6 @@
 			(uuid "48bdb2ed-7b7c-4d00-a2b2-70cd3f7e1d8e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -18475,7 +18022,6 @@
 			(uuid "505f8bbe-ccdc-4dd5-bad6-593f5cb73a69")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -18488,7 +18034,6 @@
 			(uuid "14bad969-fee4-4a0c-bf77-02e7807887b6")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18502,7 +18047,6 @@
 			(uuid "a7d290f6-356f-4187-93bf-a1c17b3517f7")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18516,7 +18060,6 @@
 			(uuid "4f3f7fe4-6e3a-419a-a7c7-e76fc6fb8b12")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18530,7 +18073,6 @@
 			(uuid "12b8b5b1-54ed-471c-b858-a5f816fa8342")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18544,7 +18086,6 @@
 			(uuid "a438466e-cbdb-44be-b8d8-1151c243cb96")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18558,7 +18099,6 @@
 			(uuid "ccf98f8c-ef62-44bb-af7f-57c2184c9ddc")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18572,7 +18112,6 @@
 			(uuid "f476ef16-5d28-4ce2-b578-1053fbf11b4e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18586,7 +18125,6 @@
 			(uuid "2a1455d7-0998-42c4-9917-63c91622c7c9")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18600,7 +18138,6 @@
 			(uuid "5eeaf60f-e1f7-4246-bac6-8076ce9d1ed1")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18614,7 +18151,6 @@
 			(uuid "66840beb-53c0-44ce-9f4f-b44fde04f373")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18628,7 +18164,6 @@
 			(uuid "6b898dac-71e4-4ade-b23e-f94471e890f2")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18642,7 +18177,6 @@
 			(uuid "fae63fcc-e200-482c-87af-ce6b2785a300")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18656,7 +18190,6 @@
 			(uuid "834e0b2a-8604-4842-a779-feb3810511c8")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18670,7 +18203,6 @@
 			(uuid "09592982-f884-4d38-8499-586f8e1b84e6")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18684,7 +18216,6 @@
 			(uuid "a96b88ec-185e-4a2c-a1c0-2659fc6f665f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18698,7 +18229,6 @@
 			(uuid "574092a0-1fe6-4dc5-baa3-b7d6a366952f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18710,7 +18240,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -18764,7 +18294,6 @@
 			(uuid "6639104d-755f-49c0-8134-c78fdf41c065")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -18825,7 +18354,6 @@
 			(uuid "bfd99a39-d87b-4898-9210-1e7097ff0d78")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18838,7 +18366,6 @@
 			(uuid "f050b7e8-a953-4457-bc1c-d0b86e544d00")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -18850,7 +18377,6 @@
 			(uuid "de9f6c91-f4aa-40e4-8a16-15d3dd5e3a66")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -18863,7 +18389,6 @@
 			(uuid "9007292e-2435-45b8-8480-86069af7f27a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18877,7 +18402,6 @@
 			(uuid "8fec863c-7fea-4a96-9cf8-5bca24044c8e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18891,7 +18415,6 @@
 			(uuid "f59b6be4-f6ca-42d1-94d3-320996e06628")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18905,7 +18428,6 @@
 			(uuid "8d5d49ca-268b-46c3-bf9c-07fb1922becc")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18919,7 +18441,6 @@
 			(uuid "5d9616fc-a1e1-402c-a8be-fdec0ec9ea1e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18933,7 +18454,6 @@
 			(uuid "ccee1027-19eb-4e7c-a6e8-3ef142267dae")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18947,7 +18467,6 @@
 			(uuid "f5f5a67f-0f4b-41ee-ae5b-2111028b9278")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18961,7 +18480,6 @@
 			(uuid "c8004b07-48b4-44d4-b919-c7d2f1f1a35a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18975,7 +18493,6 @@
 			(uuid "e863cc3f-6aa4-4ba4-90fe-30b1beae82c5")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -18989,7 +18506,6 @@
 			(uuid "fc9d04c5-9601-4a12-9a30-2d641080a23a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19003,7 +18519,6 @@
 			(uuid "71d46481-1d30-4bb3-9316-78dd0616e259")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19017,7 +18532,6 @@
 			(uuid "01e4a947-2042-4aac-87b2-7b87a21a668f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19031,7 +18545,6 @@
 			(uuid "9f5fb1e6-2677-42c4-b9ec-6b307afdf9c4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19045,7 +18558,6 @@
 			(uuid "1fcdc7ec-065b-4aa5-9a97-f15196b0791b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19059,7 +18571,6 @@
 			(uuid "8a853c75-8fba-4a6e-88fc-9ecce5eb04cc")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19073,7 +18584,6 @@
 			(uuid "ffd46c45-5c35-492f-8c7c-8f202558be08")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19085,7 +18595,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -19139,7 +18649,6 @@
 			(uuid "62266114-f42a-4cc9-9cbd-f524db16d9d9")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -19200,7 +18709,6 @@
 			(uuid "6f5b00d1-87da-4896-a888-394e22ad1afc")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19213,7 +18721,6 @@
 			(uuid "0ecab0e2-d21f-479e-b0d7-55211c254930")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -19225,7 +18732,6 @@
 			(uuid "f3986d82-54f4-4d85-b4da-c1bea7569835")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -19238,7 +18744,6 @@
 			(uuid "747e3edd-a067-46c7-9240-75c7f76cf113")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19250,7 +18755,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -19353,7 +18858,6 @@
 			(uuid "6da05f6e-8c0d-470e-b665-7953ad239492")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -19416,7 +18920,6 @@
 			(uuid "cc7e7dcb-0e3e-4157-9f53-f3cdc5cbc666")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19429,7 +18932,6 @@
 			(uuid "7ad2a3a7-73b8-498a-9522-00479f8dc6f3")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -19441,7 +18943,6 @@
 			(uuid "35ea64c3-ed79-4e98-b14a-cc438a847dc9")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -19454,7 +18955,6 @@
 			(uuid "34cdbfa4-588a-491c-ad65-d3b7aa65c911")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19468,7 +18968,6 @@
 			(uuid "2e32e815-2ab5-469f-a21c-2dd11bf94919")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19482,7 +18981,6 @@
 			(uuid "7c5fe9ab-24e5-4d30-9c31-49992ff231ec")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19496,7 +18994,6 @@
 			(uuid "3d49f8ac-fa0c-4af3-9c2b-c6e58d74bd78")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19510,7 +19007,6 @@
 			(uuid "833a5dff-92a8-4235-b248-303ce985fa3a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19524,7 +19020,6 @@
 			(uuid "d084168b-e3c5-4545-8fb5-5e944028e9aa")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19538,7 +19033,6 @@
 			(uuid "a4dcba44-b412-4e13-bd29-4bd5b67e4bf8")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19552,7 +19046,6 @@
 			(uuid "ad0224ad-0d9b-4aaa-98c6-f70e7bf2e409")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19566,7 +19059,6 @@
 			(uuid "21bb64da-9ae9-4e98-a2db-7ba9483f9f06")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19580,7 +19072,6 @@
 			(uuid "8bd5d704-33ff-49ff-9a53-00537145eee2")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19594,7 +19085,6 @@
 			(uuid "1829de65-e043-4698-93d7-9826cd3fcd59")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19608,7 +19098,6 @@
 			(uuid "e1757b51-e2f4-4694-aa1c-9a773bc809d3")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19622,7 +19111,6 @@
 			(uuid "2e13a893-1ba2-4c3f-bc3f-86ac88f00ca4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19636,7 +19124,6 @@
 			(uuid "c0dc7d52-4a54-44be-a67f-3bf21ce21c56")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19650,7 +19137,6 @@
 			(uuid "3ad6bf2a-b0fe-4923-8811-e139f01d120d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19664,7 +19150,6 @@
 			(uuid "2edd2e47-94be-4166-903b-8e885db2c87b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19678,7 +19163,6 @@
 			(uuid "670e1f94-aa13-4817-a6b6-721470b12d14")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19692,7 +19176,6 @@
 			(uuid "3defe936-c067-433d-bf2a-1feb72b0486a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19704,7 +19187,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -19758,7 +19241,6 @@
 			(uuid "20a47e92-2c92-4bb5-8407-735faef9af07")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -19819,7 +19301,6 @@
 			(uuid "c4e1a28f-4960-47f5-ada8-9d5d782da243")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19832,7 +19313,6 @@
 			(uuid "430795dd-e9f6-45b0-ba76-71f99d4f4bb2")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -19844,7 +19324,6 @@
 			(uuid "d50e47bb-df29-42fd-9735-18ea923bd480")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -19855,7 +19334,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -19909,7 +19388,6 @@
 			(uuid "d4232c09-7b78-489d-851f-d348b627a82f")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -19970,7 +19448,6 @@
 			(uuid "5a5a16a7-ab8c-4903-a782-13cbba594f10")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -19983,7 +19460,6 @@
 			(uuid "4b38f68b-ab63-4e01-a8f8-3e18afc3a7bd")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -19995,7 +19471,6 @@
 			(uuid "287b9c5f-da6f-47e2-9a6b-4b32742feb43")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -20008,7 +19483,6 @@
 			(uuid "78d67c5b-bcd5-4083-8cc2-349a49553028")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20022,7 +19496,6 @@
 			(uuid "e200bf66-1339-413a-a954-1e2d1ed1fb95")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20036,7 +19509,6 @@
 			(uuid "e9272c35-1845-4f1c-8f78-0cae51fb4981")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20050,7 +19522,6 @@
 			(uuid "f5da6b5d-e12a-46ba-900d-2bb8aae7ef08")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20064,7 +19535,6 @@
 			(uuid "82cebfe3-3481-48b1-9b8b-78cfab28d2c0")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20078,7 +19548,6 @@
 			(uuid "d858dc49-ae83-41a4-bb89-bd2aa1d39f5f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20092,7 +19561,6 @@
 			(uuid "9732f5cf-d345-4616-8c6b-ce0b0b7ac39d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20106,7 +19574,6 @@
 			(uuid "389b9ae5-dfc9-4de0-817b-b69162e82b77")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20120,7 +19587,6 @@
 			(uuid "5d76ef71-ab03-4777-9591-b7730fa7fce4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20134,7 +19600,6 @@
 			(uuid "155815a8-49d0-4dda-b173-735c93506004")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20148,7 +19613,6 @@
 			(uuid "ce3b5990-56d8-4caa-bacb-ead9c59f6fd3")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20162,7 +19626,6 @@
 			(uuid "3438feca-b8a0-45a0-ac6a-3781270486b8")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20176,7 +19639,6 @@
 			(uuid "270a33ee-1cb0-46b5-b976-18ac47fec710")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20188,7 +19650,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "3" "1" "4" "2")
 			)
 		)
@@ -20440,7 +19902,6 @@
 			(uuid "d5263706-b315-4690-87f1-80bf08012485")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20553,7 +20014,6 @@
 			(uuid "d03f8727-7dfb-4e32-b052-9abb7b2c52ef")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20566,7 +20026,6 @@
 			(uuid "05c126ba-1a76-41ec-981e-567bbadf2d5c")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -20578,7 +20037,6 @@
 			(uuid "e5547fe4-c70b-4799-a6c8-f0df2bd6a2ef")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -20589,7 +20047,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -20643,7 +20101,6 @@
 			(uuid "f56a5e7f-4dd8-4971-b211-371f8f2b5d59")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -20704,7 +20161,6 @@
 			(uuid "9262d5e5-76b7-4a0b-98e0-aefb9d22cffe")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20717,7 +20173,6 @@
 			(uuid "8aa4ad74-d968-43d4-a0c7-d37b07a6234f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -20729,7 +20184,6 @@
 			(uuid "3e70ea1a-1040-41de-bba2-0a578e419599")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -20740,7 +20194,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -20794,7 +20248,6 @@
 			(uuid "4de1bd4e-8d64-45b0-b57e-6f17485d98a3")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -20857,7 +20310,6 @@
 			(uuid "51df932d-1956-4ece-8645-4ee024456c4b")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.8 0.5)
 					(thickness 0.01)
 					(bold yes)
@@ -20872,7 +20324,6 @@
 			(uuid "f41770df-6590-435d-bcc8-aba37cb54d28")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20886,7 +20337,6 @@
 			(uuid "a9b22490-4c0f-4613-95de-5290a5843d63")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20900,7 +20350,6 @@
 			(uuid "5425f82d-a93d-4c51-bd0c-0893b22da702")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20914,7 +20363,6 @@
 			(uuid "4f9d2636-b34d-4908-a4f7-ff3c2d0c8e69")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20928,7 +20376,6 @@
 			(uuid "70dd6fe2-8575-4c21-8fd7-d4c935117e40")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20942,7 +20389,6 @@
 			(uuid "fcadcf37-1e4b-4fc4-ae07-ae8c6999e1d3")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20956,7 +20402,6 @@
 			(uuid "06e620ca-c913-42ee-9e8b-123bd5b7560c")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20970,7 +20415,6 @@
 			(uuid "4deee6da-cb28-46b4-a672-ec18b3caa0d9")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20984,7 +20428,6 @@
 			(uuid "5a0e8e7e-b2f2-4a96-862c-ac2ef7166ce6")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -20998,7 +20441,6 @@
 			(uuid "cdb584fb-22e6-4995-ba2f-ae2779d94326")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21012,7 +20454,6 @@
 			(uuid "25229ddc-b34f-4330-8bbe-f9c1b16be104")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21026,7 +20467,6 @@
 			(uuid "60db7afd-79c7-4e06-960e-4d7391ef101f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21040,7 +20480,6 @@
 			(uuid "f23cf41c-d353-4b31-91de-aa7be1160858")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21054,7 +20493,6 @@
 			(uuid "b36f236e-fa24-4f80-8b06-6320ee53f6c7")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21068,7 +20506,6 @@
 			(uuid "49ec445b-f9d5-4d22-ae10-9c354fbc8fdc")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21082,7 +20519,6 @@
 			(uuid "be7b00ee-eb27-462c-b826-1295353bbcf9")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21096,7 +20532,6 @@
 			(uuid "227ea2e6-7e64-489a-96e9-ff9c9483f824")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21110,7 +20545,6 @@
 			(uuid "b6b685cd-6d95-438a-80ca-84e41180e41a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21122,7 +20556,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2" "4" "3")
 			)
 		)
@@ -21179,7 +20613,6 @@
 			(uuid "d6e58bfe-78cb-402e-9969-c5ac6aeea31d")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.8 0.5)
 					(thickness 0.01)
 				)
@@ -21258,7 +20691,6 @@
 			(uuid "4c26e444-9038-4391-9601-74047b29371b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21272,7 +20704,6 @@
 			(uuid "a8f12457-1d14-475a-95f3-422882230f50")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
@@ -21286,7 +20717,6 @@
 			(uuid "b6aae38a-61e9-4124-9ca9-dbe0449f5780")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
@@ -21297,7 +20727,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -21511,7 +20941,6 @@
 			(uuid "22cd74bc-221e-42f9-ac8a-cf1a80a21291")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21590,7 +21019,6 @@
 			(uuid "1b139948-27cb-4cf6-8138-b6c0e8e8bf68")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21603,7 +21031,6 @@
 			(uuid "bef8e2dc-394d-40ca-9519-c4139c1c91e5")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -21615,7 +21042,6 @@
 			(uuid "2dbc088b-7ae5-4db7-81f7-7c827970efcd")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -21626,7 +21052,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "3" "4" "2" "1")
 			)
 		)
@@ -21759,7 +21185,6 @@
 			(uuid "a4c44903-136f-4f85-862f-997488a23b3f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21846,7 +21271,6 @@
 			(uuid "95320c2f-7a7c-4393-925f-1fbdb6f870cb")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21859,7 +21283,6 @@
 			(uuid "91b00d46-5de6-40b7-929f-e5e523ef1e66")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -21871,7 +21294,6 @@
 			(uuid "f1a2eec8-c131-461b-9171-bdc3ce03cb1c")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -21884,7 +21306,6 @@
 			(uuid "1e8c351a-eec5-43b3-8bfc-a6831de18a42")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21898,7 +21319,6 @@
 			(uuid "327ba3fd-b01b-4d6f-b5dd-baf87f930f33")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21912,7 +21332,6 @@
 			(uuid "4b37c600-704c-49eb-8d72-0a2f2afdfbd9")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21926,7 +21345,6 @@
 			(uuid "8deac989-11cc-4122-a1fb-8b3cdbbae16f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21940,7 +21358,6 @@
 			(uuid "bdc8a6a7-8559-4943-a123-e12a8eb43b1f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21954,7 +21371,6 @@
 			(uuid "5661b707-5589-4575-b959-f0e7e0208b3c")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21968,7 +21384,6 @@
 			(uuid "93638bfb-8d0d-43f2-a85b-b21f8314120d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21982,7 +21397,6 @@
 			(uuid "67473765-99ab-4ab7-b92c-bcdb6c243803")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -21996,7 +21410,6 @@
 			(uuid "3ebbf0ef-33aa-4518-a145-f5d5754a199d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22010,7 +21423,6 @@
 			(uuid "6dff51e1-366e-40df-aab4-f710ca110d0c")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22024,7 +21436,6 @@
 			(uuid "93d85be8-4230-48d6-852b-0979e56989cb")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22038,7 +21449,6 @@
 			(uuid "35263b10-f338-4e01-8f38-e8418efdf2ec")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22052,7 +21462,6 @@
 			(uuid "a6e70968-6be8-4e92-ae68-360ac7ff9702")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22066,7 +21475,6 @@
 			(uuid "644a8a72-d6f9-4ed6-925f-9c753897777b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22080,7 +21488,6 @@
 			(uuid "f29fdab2-c9b4-403a-8634-bef3846a2736")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22094,7 +21501,6 @@
 			(uuid "1d5a8a5b-9387-4021-bc3e-1e396284361e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22106,7 +21512,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -22160,7 +21566,6 @@
 			(uuid "6777d2dd-5d0f-4fae-8560-b0a96e4af259")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -22221,7 +21626,6 @@
 			(uuid "9c14421f-894e-493e-a6e6-fd485448c52b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22234,7 +21638,6 @@
 			(uuid "0c39e306-e662-42c2-a3a2-0a7246eb79ec")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -22246,7 +21649,6 @@
 			(uuid "bc129ebb-7499-4e14-bc94-8ffd504cc749")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -22259,7 +21661,6 @@
 			(uuid "95cabfaf-ef6f-4140-bb81-0e337f8b5ce1")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22273,7 +21674,6 @@
 			(uuid "d51f38d3-61cc-4b8b-82c6-2e1b9b66f635")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22287,7 +21687,6 @@
 			(uuid "5bfe3e60-81dd-4f26-a453-3d4c5db7ffd5")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22301,7 +21700,6 @@
 			(uuid "c6c67ff8-520c-4241-af23-26cbc6122a39")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22315,7 +21713,6 @@
 			(uuid "df6a43db-d862-4354-a491-e4cfa8422151")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22329,7 +21726,6 @@
 			(uuid "37417a06-3c9e-4c74-93dc-97fc01e95d01")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22343,7 +21739,6 @@
 			(uuid "0549666d-be09-4449-ae77-b4052a41bf6d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22357,7 +21752,6 @@
 			(uuid "5b1b62de-1d8c-4868-8478-3c7e1808529f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22371,7 +21765,6 @@
 			(uuid "7a12301e-4d15-4348-beac-2d401b034e93")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22385,7 +21778,6 @@
 			(uuid "8ddc29ec-9450-4c7d-8f23-97eb58d0473a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22399,7 +21791,6 @@
 			(uuid "289e91a1-51cc-4835-8aa1-d3e33fad86b7")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22413,7 +21804,6 @@
 			(uuid "8816a216-dacb-449d-996e-7978b21da743")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22427,7 +21817,6 @@
 			(uuid "9e09ebbd-602a-4017-a363-37e9282707d3")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22441,7 +21830,6 @@
 			(uuid "e00d046a-8235-4eb1-a85a-a14fe99302ea")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22455,7 +21843,6 @@
 			(uuid "f2d652db-8825-41f0-b3bb-2ddaa4be01d9")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22469,7 +21856,6 @@
 			(uuid "bfe8028a-9555-4c59-993d-41f8b5281940")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22481,7 +21867,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -22535,7 +21921,6 @@
 			(uuid "a6dc5f5e-0630-40af-b2b6-7e59a019fa6d")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -22595,7 +21980,6 @@
 			(uuid "d8cbe422-d5fc-4d23-b971-c8cb35254cc5")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.000157 1.000157)
 					(thickness 0.15)
 				)
@@ -22608,7 +21992,6 @@
 			(uuid "870ee1b2-b9a3-49e5-bf95-6a9967706610")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 				(justify mirror)
@@ -22621,7 +22004,6 @@
 			(uuid "0cf21f9b-900e-4f15-aa43-0047fe60fa91")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 				(justify mirror)
@@ -22633,7 +22015,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2" "3" "4" "5" "6" "7" "8" "SH")
 			)
 		)
@@ -22891,7 +22273,6 @@
 			(uuid "5923bb56-ef46-43aa-9f81-71c230a2993f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -22904,7 +22285,6 @@
 			(uuid "cc03360d-dce4-4708-866a-61646202f80d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -22916,7 +22296,6 @@
 			(uuid "cef4ba44-8a5a-481d-9c65-f0039c9fe446")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -22927,7 +22306,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -22981,7 +22360,6 @@
 			(uuid "335aa083-c7f7-45e1-9751-d10a0d2e40e1")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -23045,7 +22423,6 @@
 			(uuid "1ce20e26-7a2e-4ef8-bbb1-10264517332b")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.8 0.5)
 					(thickness 0.01)
 					(bold yes)
@@ -23060,7 +22437,6 @@
 			(uuid "03fdb85c-0210-45f4-965d-28676ca7216f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -23074,7 +22450,6 @@
 			(uuid "96e1f788-1e9f-4b30-9c6e-49ddaadefbca")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -23088,7 +22463,6 @@
 			(uuid "3e0e2fa7-2882-43ea-8d35-7f2829742876")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -23102,7 +22476,6 @@
 			(uuid "a79deb06-7286-40d3-afe5-dd18fa014c18")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -23116,7 +22489,6 @@
 			(uuid "66f84955-633b-40ca-879d-0f05ec4fde97")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -23130,7 +22502,6 @@
 			(uuid "3c2260b3-ec6c-45a1-89bf-5f40a8530d16")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -23144,7 +22515,6 @@
 			(uuid "ac7158f0-13f0-4ed7-9553-c08e11441ba0")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -23158,7 +22528,6 @@
 			(uuid "da0e34f1-0b2f-4136-a758-aa4783c81e42")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -23172,7 +22541,6 @@
 			(uuid "e5af06f9-6ee7-4587-8032-87ca66994a14")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -23186,7 +22554,6 @@
 			(uuid "b872ac59-5acf-4162-a3b2-b39378c808fb")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -23200,7 +22567,6 @@
 			(uuid "bb32c38a-62ec-480e-b58f-b462ee24d781")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -23214,7 +22580,6 @@
 			(uuid "f11b6de4-1f1d-4331-9f78-1ca18c493021")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -23228,7 +22593,6 @@
 			(uuid "2a7ea45d-054f-432c-bcd4-6516de6a1bc9")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -23240,7 +22604,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "13" "14" "57"
 					"56" "15" "55" "16" "54" "17" "53" "18" "52" "19" "51" "20" "50" "21"
 					"49" "22" "48" "23" "47" "24" "46" "25" "45" "26" "44" "27" "43" "28"
@@ -23628,7 +22992,6 @@
 			(uuid "95a07883-14b6-4fc8-b654-1d8ebdb25c26")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.8 0.5)
 					(thickness 0.01)
 				)
@@ -24299,7 +23662,6 @@
 			(uuid "a2f320ad-9a0a-4608-9f33-cc021f4b2b7f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24312,7 +23674,6 @@
 			(uuid "da039030-dd74-448b-91f9-0eb8a45f34f7")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -24324,7 +23685,6 @@
 			(uuid "b54675b8-f708-40cb-a2de-42d3ccad4bb2")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -24337,7 +23697,6 @@
 			(uuid "c2ad4dc5-30eb-4dbb-a30c-3207e07c2a12")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24351,7 +23710,6 @@
 			(uuid "97a08d3b-c49a-4350-9dc0-dbb0aeb65c4e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24365,7 +23723,6 @@
 			(uuid "4809c8fb-6e55-4c4e-819f-d9f89fe37a5a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24379,7 +23736,6 @@
 			(uuid "286c2f62-1b42-43cb-aaaf-3bd9116908e3")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24393,7 +23749,6 @@
 			(uuid "a6482ca2-31cd-4648-a774-a319df4091bc")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24407,7 +23762,6 @@
 			(uuid "0f4eb4e5-e53a-4d08-8143-dcdaad518a0e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24421,7 +23775,6 @@
 			(uuid "32532fc3-d8c4-4553-a662-f3f8a31b4597")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24435,7 +23788,6 @@
 			(uuid "d5f57c4c-4fb1-4c77-9e19-c970a482d616")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24449,7 +23801,6 @@
 			(uuid "31130c63-4e0d-4d0f-a393-b926b3a29450")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24463,7 +23814,6 @@
 			(uuid "59b248cc-6c0e-4e2b-96f2-4575eb958e3e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24477,7 +23827,6 @@
 			(uuid "c04db1c4-1ef5-4d3e-98f4-59c14434ff6f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24491,7 +23840,6 @@
 			(uuid "5b8e1d9b-d772-4a49-a228-b8c2dd99a002")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24505,7 +23853,6 @@
 			(uuid "e4fa15f6-4c40-4834-adc8-1851c5f6a6e2")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24519,7 +23866,6 @@
 			(uuid "12e1261a-0601-482a-8167-5ae97a28caef")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24533,7 +23879,6 @@
 			(uuid "cf0b9bf0-1d6e-4c79-8741-1324e4d51f9d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24547,7 +23892,6 @@
 			(uuid "eb408094-b820-41f3-8bdc-a7c25d2a8563")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24559,7 +23903,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -24613,7 +23957,6 @@
 			(uuid "a0fba674-b944-4445-aa6e-b2e05eb7786d")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -24674,7 +24017,6 @@
 			(uuid "01946539-d1ac-4217-ae57-5a614b30ba75")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24687,7 +24029,6 @@
 			(uuid "816382cd-ce5f-4a61-9360-9acf73694daf")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -24699,7 +24040,6 @@
 			(uuid "94353b7f-33fe-4ecc-9c41-fa151df6ef09")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -24712,7 +24052,6 @@
 			(uuid "e99023c2-4c7b-4d82-8db5-ab1fba8ae597")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24726,7 +24065,6 @@
 			(uuid "9ae0baef-fa14-4661-9410-1ca20866f757")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24740,7 +24078,6 @@
 			(uuid "4af0c2c4-7d87-4088-9327-4abcf4d38126")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24754,7 +24091,6 @@
 			(uuid "6df69a5a-31b4-4cd6-9e98-517bc236c152")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24768,7 +24104,6 @@
 			(uuid "431a9e87-a0e8-4c5c-9ab8-bb89efd1b103")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24782,7 +24117,6 @@
 			(uuid "faf2a2d1-1908-4aeb-bd19-955e06cdf5fe")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24796,7 +24130,6 @@
 			(uuid "9b5da1c9-fb76-4de5-9ed7-a46284084b5c")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24810,7 +24143,6 @@
 			(uuid "1955df30-baae-4807-9e65-2d52c5bf28df")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24824,7 +24156,6 @@
 			(uuid "086a6732-61e1-4f2d-a132-5196a5545faf")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24838,7 +24169,6 @@
 			(uuid "d4922fb5-bc67-4439-bc3e-3785677ce8cb")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24852,7 +24182,6 @@
 			(uuid "777d9983-81a9-46d3-8a47-7d982d6d1a1d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24866,7 +24195,6 @@
 			(uuid "0472f7a3-d5fb-4fc3-8f26-ef9d28679647")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24880,7 +24208,6 @@
 			(uuid "cd4f950e-f113-4548-a3b8-f4f739b163f3")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24894,7 +24221,6 @@
 			(uuid "b0f2c8e5-c84c-466c-b376-79b33cd6b799")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24908,7 +24234,6 @@
 			(uuid "42f89323-aa3f-4129-96a1-a2abeefb1ea8")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24922,7 +24247,6 @@
 			(uuid "82fe9520-cf32-488f-9067-c93a838e64d3")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -24934,7 +24258,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -24988,7 +24312,6 @@
 			(uuid "c696de2b-3872-433b-a730-0c516e2d54cf")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -25049,7 +24372,6 @@
 			(uuid "0bdb6130-d156-4638-9a9e-5a06b54829c8")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25062,7 +24384,6 @@
 			(uuid "22d72826-6068-463b-8260-1cff964c0f84")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -25074,7 +24395,6 @@
 			(uuid "bd56e8f0-415f-49aa-b8cb-17cec1e4e3be")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -25087,7 +24407,6 @@
 			(uuid "8c99fe59-7456-4ca1-b678-e9de0598c652")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25101,7 +24420,6 @@
 			(uuid "04e27048-d235-4155-b0c3-9af163cc9b54")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25115,7 +24433,6 @@
 			(uuid "3c1110b3-8342-4638-aa3b-b9b85beba770")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25129,7 +24446,6 @@
 			(uuid "b055fa1f-f70d-4d54-8244-dea805eb528e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25143,7 +24459,6 @@
 			(uuid "b2b30b13-89da-4e14-aa9d-f300ecd352ea")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25157,7 +24472,6 @@
 			(uuid "b70632a7-6114-4e32-9433-a762dbc1b1a4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25171,7 +24485,6 @@
 			(uuid "b6539c3b-25b7-4887-a014-78db0d31c593")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25185,7 +24498,6 @@
 			(uuid "c81dd2cc-22a4-4465-884e-f156be4a8c15")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25199,7 +24511,6 @@
 			(uuid "ec08f5b9-e54b-4f5c-b4be-30319284f77a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25213,7 +24524,6 @@
 			(uuid "a27b28b3-cad8-4fc4-bf81-2cb0d477da2f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25227,7 +24537,6 @@
 			(uuid "de37ede4-808e-4898-86cd-8336f9758e8d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25241,7 +24550,6 @@
 			(uuid "9b3ef01c-74e7-4353-b834-da259b1e726f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25255,7 +24563,6 @@
 			(uuid "88a3f7a0-c329-4910-8eba-e03999534a77")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25269,7 +24576,6 @@
 			(uuid "1c26f732-db4f-4f7d-a8fa-e57e00ae6974")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25283,7 +24589,6 @@
 			(uuid "a4a4bc23-c49c-4ceb-a1bb-35cd25292041")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25297,7 +24602,6 @@
 			(uuid "734eee9b-7e34-4f94-98cd-2c2ec4b1d4f4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25309,7 +24613,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -25363,7 +24667,6 @@
 			(uuid "49e304ad-6e85-4cd0-84a4-a5645dd4dedb")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -25426,7 +24729,6 @@
 			(uuid "e54c9fd0-ca81-4c75-a06d-621a79944fe3")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.8 0.5)
 					(thickness 0.01)
 					(bold yes)
@@ -25441,7 +24743,6 @@
 			(uuid "4f9a3691-e137-4173-8cc6-befd61a1ee5f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25455,7 +24756,6 @@
 			(uuid "3d3171d8-6745-400d-8cae-c370d59fed5c")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25469,7 +24769,6 @@
 			(uuid "359fcf3c-c8c6-490f-b5ca-5e5e6bdc7a5a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25483,7 +24782,6 @@
 			(uuid "61848c92-c607-4665-8652-3bd345b342ac")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25497,7 +24795,6 @@
 			(uuid "4ed0a2cf-9b5f-48d2-8add-5f16d9a1e704")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25511,7 +24808,6 @@
 			(uuid "708a978e-1995-41e0-ac94-52413d972c98")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25525,7 +24821,6 @@
 			(uuid "c79511a9-63fd-4763-9526-c582358bdf98")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25539,7 +24834,6 @@
 			(uuid "44739cf3-ad06-474d-ae0e-2b9c343aaf3b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25553,7 +24847,6 @@
 			(uuid "db494569-3c41-4231-834e-569d676d32b1")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25567,7 +24860,6 @@
 			(uuid "6eed0787-f95b-4d8f-806f-c9875652613e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25581,7 +24873,6 @@
 			(uuid "30f6d0f3-7a38-4de7-b214-8361adb373d7")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25595,7 +24886,6 @@
 			(uuid "abf505ab-a09d-4b32-b6e8-6f6fabb8799b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25609,7 +24899,6 @@
 			(uuid "75fb93d9-b49e-4dd2-bff8-4841dca7f0d0")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25623,7 +24912,6 @@
 			(uuid "eb9af901-e91f-4b56-8505-44d881845924")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25637,7 +24925,6 @@
 			(uuid "561dceda-44f7-4279-b4f9-5a5716fe94a5")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25651,7 +24938,6 @@
 			(uuid "075f2768-91c1-4321-b73b-0a14006dd378")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25665,7 +24951,6 @@
 			(uuid "3b9b323e-4997-46d1-82f3-047447d85d4e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25679,7 +24964,6 @@
 			(uuid "933cce6e-db67-4513-846a-4780c70b2d1e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25693,7 +24977,6 @@
 			(uuid "f70753a5-8361-40ff-aadd-4176215f9c78")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25705,7 +24988,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -25751,7 +25034,6 @@
 			(uuid "ffaabfb6-1a46-4394-a807-47e1c85e82f4")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.8 0.5)
 					(thickness 0.01)
 				)
@@ -25810,7 +25092,6 @@
 			(uuid "d5937777-5505-4b23-90c0-50c159b5d7ed")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25823,7 +25104,6 @@
 			(uuid "162616f6-ff09-469b-9764-303c9040165a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -25835,7 +25115,6 @@
 			(uuid "61057aad-ac35-44ed-bd23-cab5a943df6d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -25846,7 +25125,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -25900,7 +25179,6 @@
 			(uuid "c5e2efbe-83e2-48c8-b242-f21b585a6319")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -25961,7 +25239,6 @@
 			(uuid "4a1404d5-74c9-4ecd-8e8f-40b82ecf2ed1")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -25974,7 +25251,6 @@
 			(uuid "1e8f1a62-1e75-431b-bf12-de49dc807519")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -25986,7 +25262,6 @@
 			(uuid "878bb6f3-e1ae-4d38-880c-408c49e13d31")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -25999,7 +25274,6 @@
 			(uuid "41dbb94f-18d3-48af-9e1c-ee9fed64b94b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26013,7 +25287,6 @@
 			(uuid "bb72499b-0ed6-4009-9283-e4d53f585d85")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26027,7 +25300,6 @@
 			(uuid "cc6e29d6-da13-42c9-90b0-baad0330df26")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26041,7 +25313,6 @@
 			(uuid "0df274da-74a3-4be5-8e43-b50117fdc4a8")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26055,7 +25326,6 @@
 			(uuid "81d1d7e1-cbf8-47c4-86fa-e30de7b5261e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26069,7 +25339,6 @@
 			(uuid "0b720549-c6a6-498f-a2a8-0428f37ce184")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26083,7 +25352,6 @@
 			(uuid "417853f4-edec-411c-85ec-c524237e406a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26097,7 +25365,6 @@
 			(uuid "579428d2-f9a4-4c7c-a2cf-275d69f42cbf")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26111,7 +25378,6 @@
 			(uuid "19cacabe-c2d2-489c-8b9a-705f43dc4a74")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26125,7 +25391,6 @@
 			(uuid "fcdf32c1-1a3b-47df-94bb-7a2c8e01aa5a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26139,7 +25404,6 @@
 			(uuid "b9b840e4-2194-43ea-a180-768eae3e3e9f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26153,7 +25417,6 @@
 			(uuid "b510a21d-478b-48af-b41d-92e74b6c9387")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26167,7 +25430,6 @@
 			(uuid "5660de0e-95a7-4c44-a5c3-c4df55cf7533")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26181,7 +25443,6 @@
 			(uuid "6b4794f1-aed1-41a7-83e8-f8724a59eca6")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26195,7 +25456,6 @@
 			(uuid "8dc6b65f-98b7-4ad2-8005-94ed8bf1b0c8")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26209,7 +25469,6 @@
 			(uuid "1e3bd434-27ca-4353-90f1-c53afa55824d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26223,7 +25482,6 @@
 			(uuid "f3bb0abe-fcb3-4c6d-91d2-ec10d1119b91")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26237,7 +25495,6 @@
 			(uuid "fdc21ea1-37ac-4e6e-ba75-54b1493b33e4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26249,7 +25506,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -26303,7 +25560,6 @@
 			(uuid "70784806-8b33-493e-aa46-ab1433a715db")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -26367,7 +25623,6 @@
 			(uuid "847f1795-c498-4916-8586-b497d04dd6ea")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.8 0.5)
 					(thickness 0.01)
 					(bold yes)
@@ -26382,7 +25637,6 @@
 			(uuid "50a6e3dd-ef5b-4e71-8bb6-d45cc82e7a36")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26396,7 +25650,6 @@
 			(uuid "b5a62c84-2e93-46a1-9a89-82acba4b2452")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26410,7 +25663,6 @@
 			(uuid "1285ca92-2098-46cb-9b7c-b17d30d2a38d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26424,7 +25676,6 @@
 			(uuid "ae931c6d-f8a1-475b-9949-141c98670f6d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26438,7 +25689,6 @@
 			(uuid "d8d9c7b3-64a1-416c-a484-098c4ed5ab9e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26452,7 +25702,6 @@
 			(uuid "8e2ca012-2746-48a7-a55c-313e76aadea0")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26466,7 +25715,6 @@
 			(uuid "273bdf42-ba50-4f66-8984-f8d5e38eb612")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26480,7 +25728,6 @@
 			(uuid "d6f3550f-7da8-4053-800c-f91c62021d73")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26494,7 +25741,6 @@
 			(uuid "2975f3c6-61b0-4287-8ab5-cb472decf418")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26508,7 +25754,6 @@
 			(uuid "af779563-80e0-4732-a758-ba1a20bb614d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26522,7 +25767,6 @@
 			(uuid "7cd98131-6954-4516-8709-17e282a12569")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26536,7 +25780,6 @@
 			(uuid "4a478d54-be4a-4661-8454-ac6d1bc4eb63")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26550,7 +25793,6 @@
 			(uuid "63187232-122a-46f2-b5dc-9288df2835d6")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26564,7 +25806,6 @@
 			(uuid "0fcd8288-022f-432e-805e-55234232b526")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26578,7 +25819,6 @@
 			(uuid "20b51129-0744-4afd-ae2a-4f93575715f4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -26590,7 +25830,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "8" "4" "1" "6" "5" "2" "3" "7")
 			)
 		)
@@ -26741,7 +25981,6 @@
 			(uuid "a0846027-d83b-4d58-b812-6f64eb6ac771")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.8 0.5)
 					(thickness 0.01)
 				)
@@ -26856,7 +26095,6 @@
 			(uuid "0f5f8504-acbd-420d-88b1-3ff5bef77a7e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.000157 1.000157)
 					(thickness 0.15)
 				)
@@ -26870,7 +26108,6 @@
 			(uuid "db596150-91d4-4f63-aafb-216b8fe281f3")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -26882,7 +26119,6 @@
 			(uuid "6345b5bf-fa63-4e52-be1c-6b2f4f39903a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 			)
@@ -26893,7 +26129,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2" "3" "4" "5" "6" "7" "8" "10" "9" "11")
 			)
 		)
@@ -27152,7 +26388,6 @@
 			(uuid "3d685dd6-5789-46e6-b4a5-6ec67730cf51")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -27166,7 +26401,6 @@
 			(uuid "e41aa408-9851-40da-a7c0-d6d79fc18844")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 				(justify mirror)
@@ -27179,7 +26413,6 @@
 			(uuid "91b2b655-10f0-41b6-afc2-7ab83fd2fd09")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 				(justify mirror)
@@ -27191,7 +26424,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -27245,7 +26478,6 @@
 			(uuid "3637df80-e605-4dae-9c8f-90ef5d9c51fe")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -27308,7 +26540,6 @@
 			(uuid "7fbb8501-3071-4c38-a575-93a5bc2ab5e6")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -27322,7 +26553,6 @@
 			(uuid "48ae6265-f1d1-4dfb-8f9b-bc5cfa0dd33c")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 				(justify mirror)
@@ -27335,7 +26565,6 @@
 			(uuid "cdbf121a-5ccd-4acf-ba42-037d7809f9b4")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 				(justify mirror)
@@ -27347,7 +26576,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -27401,7 +26630,6 @@
 			(uuid "bb659389-b455-4c09-83f0-fd8422f0013c")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -27464,7 +26692,6 @@
 			(uuid "274dcb77-bfc7-469a-be6f-69a8889cfec0")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -27478,7 +26705,6 @@
 			(uuid "5358bf84-1234-4cfa-a709-bad8c0d7237c")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 				(justify mirror)
@@ -27491,7 +26717,6 @@
 			(uuid "fd353e50-7d49-43c8-9862-3cfa5a37d037")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 				(justify mirror)
@@ -27503,7 +26728,7 @@
 		(sheetfile "picow_vga_sd_aud.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -27557,7 +26782,6 @@
 			(uuid "6f10a8f3-28b9-4af3-8d11-f2e326950a76")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -27620,7 +26844,6 @@
 			(uuid "9d0c7bfb-8bed-40d4-9086-505fe3246b54")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -27634,7 +26857,6 @@
 			(uuid "42450804-cd35-4a62-bbd1-5d349bee9ea6")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 				(justify mirror)
@@ -27647,7 +26869,6 @@
 			(uuid "87af7437-a673-4c6b-8046-72c021f0e841")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 				(justify mirror)
@@ -27661,7 +26882,6 @@
 			(uuid "0b19c592-96d8-46e3-af98-ade92178908f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -27676,7 +26896,6 @@
 			(uuid "a5b1ffb0-5502-4a39-9193-1188f121c8ae")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -27691,7 +26910,6 @@
 			(uuid "b7a3bbb9-e61c-4f82-b329-b4aaa38684e8")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -27706,7 +26924,6 @@
 			(uuid "9ec8416d-89c3-4743-9045-edfc119a1848")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -27721,7 +26938,6 @@
 			(uuid "0f1e796d-cf48-4868-b035-db23d883ef29")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -27736,7 +26952,6 @@
 			(uuid "d1826994-1857-42fa-9191-5df864437119")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -27751,7 +26966,6 @@
 			(uuid "8136b6b6-398f-44b8-8a0a-6c3fcf89ea2e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -27766,7 +26980,6 @@
 			(uuid "1ab21ccf-90b0-4f54-bebe-5159f01078a1")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -27781,7 +26994,6 @@
 			(uuid "8c180e32-320c-4479-b461-9d310e7c614b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -27796,7 +27008,6 @@
 			(uuid "0f34237d-4736-4983-9e8c-12ca6918633b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -27811,7 +27022,6 @@
 			(uuid "b35b3101-dcd4-41f7-85ed-0e11b9c9ed9d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -27826,7 +27036,6 @@
 			(uuid "21c0eb1c-3128-4e2d-949d-4d9b06995f33")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -27841,7 +27050,6 @@
 			(uuid "a8d70a24-81a3-4807-bed8-86b6fffc3d72")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -27856,7 +27064,6 @@
 			(uuid "92c68263-fb47-4225-977a-11fb7a2dd313")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -27871,7 +27078,6 @@
 			(uuid "b13f008c-40e6-4f1b-8ef4-7053893cb47f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -27886,7 +27092,6 @@
 			(uuid "9d0e8291-01fe-443e-b9b8-f315d9f61899")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -27899,7 +27104,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -27953,7 +27158,6 @@
 			(uuid "02b7c8b1-88d9-4f81-b3ce-1a4148ffba0c")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -28016,7 +27220,6 @@
 			(uuid "52e910af-16c5-43fe-91ac-31147d8bddbb")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28030,7 +27233,6 @@
 			(uuid "42689bdf-7092-471a-9f9a-2b2ec09ba126")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 				(justify mirror)
@@ -28043,7 +27245,6 @@
 			(uuid "a0c89970-de22-4f18-b224-01e875e85c99")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 				(justify mirror)
@@ -28057,7 +27258,6 @@
 			(uuid "39083c84-5700-41ce-826c-a1b1d2e703de")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28072,7 +27272,6 @@
 			(uuid "28d282f1-1cbd-41f2-83de-60703abe40cc")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28087,7 +27286,6 @@
 			(uuid "046002dc-211e-43cc-9028-df06572df282")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28102,7 +27300,6 @@
 			(uuid "38faf884-0c1c-4d99-8f0d-68691b64d043")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28117,7 +27314,6 @@
 			(uuid "6fe09621-859a-431d-8155-f912a0393a27")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28132,7 +27328,6 @@
 			(uuid "492a3588-c545-4add-8a11-82fbfed30ec3")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28147,7 +27342,6 @@
 			(uuid "d1eb1796-5fb0-42eb-ad18-1921b9275b27")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28162,7 +27356,6 @@
 			(uuid "f1ec8973-f904-4a53-9947-3c951316dc9e")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28177,7 +27370,6 @@
 			(uuid "c77288a3-aee6-4e06-89e7-801fa82a26d1")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28192,7 +27384,6 @@
 			(uuid "fa1dec04-548d-4656-a591-84211ebf07fd")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28207,7 +27398,6 @@
 			(uuid "a8d7225d-2ad0-459e-a721-84cc6b1bcddb")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28222,7 +27412,6 @@
 			(uuid "cebb42f2-f9e6-4eb2-8817-56a8a549da13")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28237,7 +27426,6 @@
 			(uuid "232185b1-c442-47f7-aaab-be91b34d0e9f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28252,7 +27440,6 @@
 			(uuid "d0a7d663-122f-4949-b56f-b75b1a3184d5")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28267,7 +27454,6 @@
 			(uuid "d614a759-2302-4b6d-ab61-b28b4927ad4b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28282,7 +27468,6 @@
 			(uuid "4e123531-fb31-4328-a90e-bcbf29c38bc5")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28295,7 +27480,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -28349,7 +27534,6 @@
 			(uuid "71484141-ee05-4b21-8cea-10a701f8e3cb")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -28412,7 +27596,6 @@
 			(uuid "2abba222-459a-49d5-9d68-1263e7321921")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28426,7 +27609,6 @@
 			(uuid "9a3f9578-dd01-46f9-859e-c81927537e02")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 				(justify mirror)
@@ -28439,7 +27621,6 @@
 			(uuid "934165fa-59f0-4d32-9029-12fbdd31c726")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 				(justify mirror)
@@ -28453,7 +27634,6 @@
 			(uuid "5ad8455e-ed6c-4590-a56a-77944aa661fc")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28468,7 +27648,6 @@
 			(uuid "0f8feb62-70aa-4cbf-a927-a2ce3be546ed")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28483,7 +27662,6 @@
 			(uuid "73eddaaf-d53f-45ed-9c42-572ea2f6576b")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28498,7 +27676,6 @@
 			(uuid "02db6c6f-034b-4b2f-a5e1-49ed34335f34")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28513,7 +27690,6 @@
 			(uuid "8ebd8a28-d456-480a-99ba-11cd298606c0")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28528,7 +27704,6 @@
 			(uuid "a8ea8d08-09bf-49df-8122-829dfe21aeb0")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28543,7 +27718,6 @@
 			(uuid "c86be089-c3bc-4191-9344-57421ab6fe7a")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28558,7 +27732,6 @@
 			(uuid "e4c0fd99-5748-4c2a-b924-40b4b405663f")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28573,7 +27746,6 @@
 			(uuid "97032cb3-ed35-4d83-990b-a06c1a16a2de")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28588,7 +27760,6 @@
 			(uuid "e3ed8dda-6434-49cd-a187-169f05b721d1")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28603,7 +27774,6 @@
 			(uuid "8ae9a9db-06af-435b-99af-5ec4c457dea9")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28618,7 +27788,6 @@
 			(uuid "570f6493-455f-40ab-8207-db13cbab0be6")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28633,7 +27802,6 @@
 			(uuid "2cd55d74-5056-4911-b9db-379982a9605d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28648,7 +27816,6 @@
 			(uuid "b094cd8f-eefc-4812-a0af-6767fa10c246")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28663,7 +27830,6 @@
 			(uuid "47a3248e-5608-4fd2-886e-629b751ba36d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28678,7 +27844,6 @@
 			(uuid "563bf806-ca56-4771-a90b-7c05a9f95850")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28691,7 +27856,7 @@
 		(sheetfile "pico.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "1" "2")
 			)
 		)
@@ -28745,7 +27910,6 @@
 			(uuid "e0adf8b6-de7d-4d9b-b07d-ccbc70bfbf8c")
 			(effects
 				(font
-				(face "Arial")
 					(size 0.5 0.5)
 					(thickness 0.08)
 				)
@@ -28808,7 +27972,6 @@
 			(uuid "8a423c98-762b-417d-b050-fc449fdfdcd7")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -28822,7 +27985,6 @@
 			(uuid "edd3d0d0-7157-47fc-b425-42af820e9048")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 				(justify mirror)
@@ -28835,7 +27997,6 @@
 			(uuid "c76e1c72-36b3-409d-af04-63bbbb694bfb")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 				(justify mirror)
@@ -28847,7 +28008,7 @@
 		(sheetfile "logic_convert.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "10" "2" "3" "4" "5" "6" "7" "8" "9" "1" "11" "20" "19" "18" "17"
 					"16" "15" "14" "13" "12"
 				)
@@ -29025,7 +28186,6 @@
 			(uuid "83bdbc25-57ef-4d96-bd8b-ad9ebd6e2857")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -29270,7 +28430,6 @@
 			(uuid "6bad8362-3fed-453f-a955-faeeab0c43ef")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -29284,7 +28443,6 @@
 			(uuid "f2272218-2653-41b4-985b-46aa39e5f8f0")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 				(justify mirror)
@@ -29297,7 +28455,6 @@
 			(uuid "d831538d-e42b-446c-abeb-fcd84afb62d6")
 			(effects
 				(font
-				(face "Arial")
 					(size 1.27 1.27)
 				)
 				(justify mirror)
@@ -29309,7 +28466,7 @@
 		(sheetfile "logic_convert.kicad_sch")
 		(units
 			(unit
-				(face "Arial")
+				(name "A")
 				(pins "10" "2" "3" "4" "5" "6" "7" "8" "9" "1" "11" "20" "19" "18" "17"
 					"16" "15" "14" "13" "12"
 				)
@@ -29487,7 +28644,6 @@
 			(uuid "bd6e50ea-1d8c-4dc0-a462-5b12b42514ef")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -29827,7 +28983,6 @@
 		(uuid "00000000-0000-0000-0000-00005f64579b")
 		(effects
 			(font
-				(face "Arial")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -29840,7 +28995,6 @@
 		(uuid "1cff4ff3-16a9-4316-a6e1-e99eca1db9ac")
 		(effects
 			(font
-				(face "Arial")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -29852,7 +29006,6 @@
 		(uuid "1e067118-09be-4d4b-ab64-c4ccf664bf0f")
 		(effects
 			(font
-				(face "Arial")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -29864,7 +29017,6 @@
 		(uuid "a2380ec6-e50e-4aeb-8950-3f967765e8de")
 		(effects
 			(font
-				(face "Arial")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -29876,7 +29028,6 @@
 		(uuid "7194b243-77f6-416d-80da-7cec302725a4")
 		(effects
 			(font
-				(face "Arial")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -29888,7 +29039,6 @@
 		(uuid "04f19ca5-8318-406f-b427-e50090fce8e4")
 		(effects
 			(font
-				(face "Arial")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -29900,7 +29050,6 @@
 		(uuid "dc979ab6-8d77-4c97-8ccd-852314329437")
 		(effects
 			(font
-				(face "Arial")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -29912,7 +29061,6 @@
 		(uuid "e9faccb9-ab57-4c72-b7ec-f70b4b22605a")
 		(effects
 			(font
-				(face "Arial")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -29924,7 +29072,6 @@
 		(uuid "24cb8dc2-6f96-4a4a-9e70-2461fb189b49")
 		(effects
 			(font
-				(face "Arial")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -30028,7 +29175,6 @@
 		(uuid "fee07f50-873b-4f8d-85b1-ceef4324e9bb")
 		(effects
 			(font
-				(face "Arial")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -30064,7 +29210,6 @@
 			(uuid "00000000-0000-0000-0000-00005f64825d")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -30101,7 +29246,6 @@
 			(uuid "00000000-0000-0000-0000-00005f648280")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -30138,7 +29282,6 @@
 			(uuid "1c6309c8-6c32-483e-8a36-e42c1fe38935")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -30176,7 +29319,6 @@
 			(uuid "386bc5e4-b9c6-46ef-82f9-3ae5b39915a6")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -30214,7 +29356,6 @@
 			(uuid "65d5b3eb-f7c6-4422-b808-86de8f514d41")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -30251,7 +29392,6 @@
 			(uuid "ab9b2218-9fa8-4a02-84bf-d61f55b92881")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
@@ -30288,7 +29428,6 @@
 			(uuid "ffbcc30e-4c2d-490e-a7c0-ff24967ceb60")
 			(effects
 				(font
-				(face "Arial")
 					(size 1 1)
 					(thickness 0.15)
 				)
