@@ -182,6 +182,184 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:L"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "L"
+				(at -1.27 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "L"
+				(at 1.905 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Inductor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "inductor choke coil reactor magnetic"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Choke_* *Coil* Inductor_* L_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "L_0_1"
+				(arc
+					(start 0 2.54)
+					(mid 0.6323 1.905)
+					(end 0 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 1.27)
+					(mid 0.6323 0.635)
+					(end 0 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 0)
+					(mid 0.6323 -0.635)
+					(end 0 -1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -1.27)
+					(mid 0.6323 -1.905)
+					(end 0 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "L_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "RPI - Power:GND"
 			(power global)
 			(pin_numbers
@@ -6324,6 +6502,12 @@
 		(uuid "1dc4fd08-9b52-4ba0-95dd-02c88d1f9704")
 	)
 	(junction
+		(at 66.04 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "205715cf-b4cc-49ca-88ad-d9588c3153eb")
+	)
+	(junction
 		(at 52.07 242.57)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6375,7 +6559,7 @@
 		(at 55.88 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "44de6746-f543-4ee4-9f87-f1fd6096db4b")
+		(uuid "4788a261-bf68-4ac2-b1d4-78a6f6ec1212")
 	)
 	(junction
 		(at 397.51 173.99)
@@ -6406,12 +6590,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "56031cb9-d980-47a7-a16b-7d96cf913e0c")
-	)
-	(junction
-		(at 66.04 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "574f0d85-e77f-4d40-886a-dfde4289c454")
 	)
 	(junction
 		(at 307.34 62.23)
@@ -6848,6 +7026,16 @@
 			(type default)
 		)
 		(uuid "0b888321-0197-4168-ad1c-91050bb16592")
+	)
+	(wire
+		(pts
+			(xy 57.15 55.88) (xy 55.88 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b8af686-ec0e-4f20-81c2-0411bb981d39")
 	)
 	(wire
 		(pts
@@ -8341,16 +8529,6 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 55.88) (xy 66.04 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e3a71f6-9479-4412-af92-60c80e511359")
-	)
-	(wire
-		(pts
 			(xy 242.57 48.26) (xy 254 48.26)
 		)
 		(stroke
@@ -8818,6 +8996,16 @@
 			(type default)
 		)
 		(uuid "b0649602-3892-4dd6-9192-c5989ee529c6")
+	)
+	(wire
+		(pts
+			(xy 64.77 55.88) (xy 66.04 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b06e779a-bc66-4ad0-aa96-c133dccddd97")
 	)
 	(wire
 		(pts
@@ -12617,7 +12805,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RaspberryPI PicoW:generic_capc2012x125"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 105.41 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -13634,7 +13822,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 254 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -15212,7 +15400,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 59.69 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -15911,6 +16099,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:L")
+		(at 60.96 55.88 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "75acdad6-0634-458e-9f06-c7e2b8be12fa")
+		(property "Reference" "L1"
+			(at 60.96 50.8 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100mH"
+			(at 60.96 53.34 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
+			(at 60.96 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 60.96 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Inductor"
+			(at 60.96 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "18d8d96a-4d0b-43ff-b53a-814bffb04c77")
+		)
+		(pin "2"
+			(uuid "bd828dad-4c0a-4128-839e-4cdbc0dfabc5")
+		)
+		(instances
+			(project "picow_vga_sd_aud"
+				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f/356ef146-de37-4728-841c-0ab71def169b"
+					(reference "L1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "RPI_DB:Capacitors | MLCC | M2012/RP-01GYSK-AVBE41")
 		(at 359.41 204.47 0)
 		(unit 1)
@@ -16289,7 +16557,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 273.05 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -16705,7 +16973,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 125.73 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -17435,7 +17703,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 91.44 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -19516,7 +19784,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 242.57 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -20751,7 +21019,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 59.69 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -21085,7 +21353,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 341.63 54.61 0)
 			(hide yes)
 			(show_name no)
