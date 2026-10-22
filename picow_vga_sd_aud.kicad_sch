@@ -2332,7 +2332,18 @@
 					(font
 						(size 1.27 1.27)
 					)
+						(property "LCSC" "C84256"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
+			)
+		)
+)
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
@@ -11763,7 +11774,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C25108"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 311.15 29.972 90)
@@ -11841,7 +11863,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C11702"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 311.15 35.052 90)
@@ -11919,7 +11952,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C25829"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 311.15 40.132 90)
@@ -12309,7 +12353,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C11702"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 283.718 45.72 90)
@@ -12387,7 +12442,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C25108"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 311.15 66.802 90)
@@ -12465,7 +12531,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C11702"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 311.15 71.882 90)
@@ -12543,7 +12620,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C25829"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 311.15 76.962 90)
@@ -12855,7 +12943,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C11702"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 283.718 82.55 90)
@@ -12933,7 +13032,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C25108"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 311.15 103.632 90)
@@ -13011,7 +13121,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C11702"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 311.15 108.712 90)
@@ -13089,7 +13210,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C25829"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 311.15 113.792 90)
@@ -13479,7 +13611,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C11702"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 283.718 119.38 90)
@@ -13801,7 +13944,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C25091"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 139.7 230.632 90)
@@ -13959,7 +14113,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C25076"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 163.068 238.76 90)
@@ -14504,7 +14669,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C25091"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 139.7 252.222 90)
@@ -14662,7 +14838,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C25076"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 163.068 260.35 90)
@@ -15055,7 +15242,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C25118"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 124.46 134.112 90)
@@ -15133,7 +15331,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C25118"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 124.46 139.192 90)
@@ -15900,7 +16109,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C25744"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 335.788 144.78 90)
@@ -15978,7 +16198,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C25744"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 328.168 144.78 90)
@@ -18433,7 +18664,18 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+						(property "LCSC" "C84256"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+(justify right)
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
@@ -18600,7 +18842,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C11702"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 156.21 92.202 90)
@@ -19483,7 +19736,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C11702"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 173.482 87.63 90)
@@ -19561,7 +19825,18 @@
 				(font
 					(size 1.27 1.27)
 				)
+					(property "LCSC" "C11702"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
+		)
+)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 166.37 92.202 90)
