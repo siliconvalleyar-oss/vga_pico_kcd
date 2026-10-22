@@ -5,9 +5,9 @@
 	(uuid "7e7c068a-a341-4358-ab45-53bb7a793d6f")
 	(paper "A3")
 	(title_block
-		(title "RPI-PWVSA    VGA, SD Card & Audio Demo Board for Pico W")
+		(title "VGA, SD Card")
 		(date "2022-01-20")
-		(rev "REV2")
+		(rev "REV1")
 		(company "Raspberry Pi Ltd")
 		(comment 1 "(c) 2022 Raspberry Pi Ltd")
 	)
@@ -1385,6 +1385,425 @@
 						)
 					)
 					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Connector:Mini-DIN-6"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Mini-DIN-6"
+				(at 0 -6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "http://service.powerdynamics.com/ec/Catalog17/Section%2011.pdf"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "6-pin Mini-DIN connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "Mini-DIN"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "MINI?DIN*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Mini-DIN-6_0_1"
+				(polyline
+					(pts
+						(xy -4.318 -2.54) (xy -3.048 -2.54) (xy -3.048 -4.064)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 0) (xy -5.08 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -3.302 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 2.54) (xy -5.08 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -2.032 2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -2.032 -2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 -3.048) (xy -2.032 -3.556) (xy -5.08 -3.556) (xy -5.08 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 5.08) (xy -1.016 4.064) (xy 1.016 4.064) (xy 1.016 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -0.762 2.54)
+					(end 0.762 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(arc
+					(start 3.048 -4.064)
+					(mid 0 -5.08)
+					(end -3.048 -4.064)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.016 5.08)
+					(mid 4.6646 2.1356)
+					(end 4.318 -2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -4.318 -2.54)
+					(mid -4.6241 2.1181)
+					(end -1.016 5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 -2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.032 -3.048) (xy 2.032 -3.556) (xy 5.08 -3.556) (xy 5.08 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.286 2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.794 2.54) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 3.302 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.318 -2.54) (xy 3.048 -2.54) (xy 3.048 -4.064)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 3.81 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Mini-DIN-6_1_1"
+				(pin passive line
+					(at 7.62 -2.54 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -2.54 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 2.54 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 2.54 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4302,6 +4721,191 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Reference_Voltage:TL431DBZ"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at -2.54 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TL431DBZ"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+				(at 0 -4.826 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+				)
+			)
+			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl431.pdf"
+				(at 1.778 -9.144 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+				)
+			)
+			(property "Description" "Shunt Regulator, SOT-23"
+				(at 0 -7.112 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "diode device shunt regulator"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "SOT?23*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "TL431DBZ_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.762 -0.762) (xy -0.762 0.762) (xy 0.762 0) (xy -0.762 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 -0.762) (xy 0.762 -0.762) (xy 0.762 0.762) (xy 0.762 0.762)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TL431DBZ_1_1"
+				(pin passive line
+					(at 2.54 0 180)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 2.54 270)
+					(length 2.54)
+					(name "REF"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 0 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Regulator_Linear:TLV70033_SOT23-5"
 			(pin_names
 				(offset 0.254)
@@ -4796,6 +5400,145 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:+3.3VA"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "+3.3VA"
+				(at 0 3.556 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+3.3VA\""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "+3.3VA_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+3.3VA_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:+3V3"
 			(power global)
 			(pin_numbers
@@ -5042,6 +5785,121 @@
 								(size 1.27 1.27)
 							)
 						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:PWR_FLAG"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#FLG"
+				(at 0 1.905 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "PWR_FLAG"
+				(at 0 3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Special symbol for telling ERC where power comes from"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "flag power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_0"
+				(pin power_out line
+					(at 0 0 90)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
 					)
 				)
 			)
@@ -5637,6 +6495,12 @@
 		(uuid "4d74033d-8e57-493c-88c8-3a498d52e30a")
 	)
 	(junction
+		(at 160.02 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5412de22-bb3f-480a-8728-b48905637d8d")
+	)
+	(junction
 		(at 317.5 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5739,6 +6603,12 @@
 		(uuid "b213f021-1a63-46c5-adbc-2b9ab0b5658d")
 	)
 	(junction
+		(at 168.91 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c06b814e-4ab3-4f5f-8d79-d4ad4eff9096")
+	)
+	(junction
 		(at 154.94 243.84)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5829,8 +6699,8 @@
 		(uuid "fd544c61-50e8-43f6-9c7d-d662c58eed92")
 	)
 	(no_connect
-		(at 91.44 102.87)
-		(uuid "1a4b7aa9-5905-4233-bfbc-bc7b9345184c")
+		(at 224.79 69.85)
+		(uuid "321845c4-1bdf-4ed3-89df-7eea1f7455f4")
 	)
 	(no_connect
 		(at 91.44 97.79)
@@ -5855,6 +6725,10 @@
 	(no_connect
 		(at 373.38 90.17)
 		(uuid "a93da457-a261-4a8a-92cf-b2b33bf2aef6")
+	)
+	(no_connect
+		(at 224.79 74.93)
+		(uuid "b77e534e-b861-4d58-b4c3-c3a6584c03bf")
 	)
 	(no_connect
 		(at 345.44 182.88)
@@ -6086,6 +6960,16 @@
 	)
 	(wire
 		(pts
+			(xy 175.26 81.28) (xy 175.26 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "125996ef-6caa-4414-addc-b7ad5013d6ce")
+	)
+	(wire
+		(pts
 			(xy 314.96 125.73) (xy 317.5 125.73)
 		)
 		(stroke
@@ -6123,6 +7007,16 @@
 			(type default)
 		)
 		(uuid "157f742a-4c46-4e0e-b59e-b508b6f8106c")
+	)
+	(wire
+		(pts
+			(xy 193.04 39.37) (xy 199.39 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16150847-c26c-4609-9424-790c232a328f")
 	)
 	(wire
 		(pts
@@ -6266,6 +7160,16 @@
 	)
 	(wire
 		(pts
+			(xy 242.57 81.28) (xy 247.65 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f87d736-b710-483e-b5a4-eb0b18c9bb68")
+	)
+	(wire
+		(pts
 			(xy 161.29 264.16) (xy 161.29 265.43)
 		)
 		(stroke
@@ -6353,6 +7257,16 @@
 			(type default)
 		)
 		(uuid "25e1f798-cca9-4d3c-8dd6-65f3b5c2c832")
+	)
+	(wire
+		(pts
+			(xy 160.02 107.95) (xy 160.02 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25f1f6b1-f576-4b6c-b2c7-11afe75ac1ca")
 	)
 	(wire
 		(pts
@@ -6603,6 +7517,16 @@
 			(type default)
 		)
 		(uuid "37062f8a-3efd-4fb0-b336-bb39b84fccd9")
+	)
+	(wire
+		(pts
+			(xy 247.65 74.93) (xy 240.03 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3937e1fc-d1b8-4f6f-bdf9-cadfe3398777")
 	)
 	(wire
 		(pts
@@ -6906,6 +7830,16 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 34.29) (xy 166.37 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "567a55bf-642a-4e02-a6c7-518ef75904cb")
+	)
+	(wire
+		(pts
 			(xy 195.58 254) (xy 176.53 254)
 		)
 		(stroke
@@ -7056,16 +7990,6 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 39.37) (xy 199.39 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "61957b84-6ef6-4214-baf8-994c93b825d7")
-	)
-	(wire
-		(pts
 			(xy 334.01 148.59) (xy 334.01 180.34)
 		)
 		(stroke
@@ -7166,6 +8090,16 @@
 	)
 	(wire
 		(pts
+			(xy 251.46 72.39) (xy 251.46 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71ddc834-1e03-4235-afb5-93286a101c52")
+	)
+	(wire
+		(pts
 			(xy 358.14 69.85) (xy 347.98 69.85)
 		)
 		(stroke
@@ -7203,6 +8137,16 @@
 			(type default)
 		)
 		(uuid "7c869610-15b4-4810-bb0c-a34db7a4f9d6")
+	)
+	(wire
+		(pts
+			(xy 240.03 69.85) (xy 256.54 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d8d4f2e-f172-40b4-bf74-8d7ff0b56403")
 	)
 	(wire
 		(pts
@@ -7546,6 +8490,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 93.98) (xy 162.56 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98d0d5d0-fc35-45f6-bc6a-a28d6d44c469")
+	)
+	(wire
+		(pts
 			(xy 307.34 125.73) (xy 281.94 125.73)
 		)
 		(stroke
@@ -7586,6 +8540,16 @@
 	)
 	(wire
 		(pts
+			(xy 91.44 102.87) (xy 97.79 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c099c04-5b2a-4172-95c5-ed42589c22f8")
+	)
+	(wire
+		(pts
 			(xy 285.75 165.1) (xy 345.44 165.1)
 		)
 		(stroke
@@ -7603,6 +8567,16 @@
 			(type default)
 		)
 		(uuid "9df6a8e8-9cb7-4b25-9fab-358e765afa1d")
+	)
+	(wire
+		(pts
+			(xy 170.18 93.98) (xy 172.72 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e3639ed-ec08-44ed-983e-5779be0183fd")
 	)
 	(wire
 		(pts
@@ -7646,7 +8620,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 35.56) (xy 199.39 39.37)
+			(xy 199.39 31.75) (xy 199.39 39.37)
 		)
 		(stroke
 			(width 0)
@@ -7703,6 +8677,16 @@
 			(type default)
 		)
 		(uuid "a54f2c6e-e96e-477d-9066-5e3c0953d0db")
+	)
+	(wire
+		(pts
+			(xy 166.37 39.37) (xy 168.91 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a56caa56-17d0-48e6-ac3e-a677ddd85973")
 	)
 	(wire
 		(pts
@@ -7873,6 +8857,16 @@
 			(type default)
 		)
 		(uuid "b17c6209-2716-496e-a85f-8216d02fb115")
+	)
+	(wire
+		(pts
+			(xy 214.63 72.39) (xy 224.79 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b21bbee1-720f-4129-946b-046a784b7c11")
 	)
 	(wire
 		(pts
@@ -8206,6 +9200,16 @@
 	)
 	(wire
 		(pts
+			(xy 240.03 72.39) (xy 251.46 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d010fd44-c359-4a62-b9f6-9d69ab69128a")
+	)
+	(wire
+		(pts
 			(xy 314.96 36.83) (xy 317.5 36.83)
 		)
 		(stroke
@@ -8253,6 +9257,16 @@
 			(type default)
 		)
 		(uuid "d2926dca-4c6c-4c3b-b837-86df5f735f08")
+	)
+	(wire
+		(pts
+			(xy 175.26 104.14) (xy 175.26 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4bb54c1-4e94-40ba-baf1-aa7ac82571d9")
 	)
 	(wire
 		(pts
@@ -8436,6 +9450,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 93.98) (xy 152.4 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0994f9f-c583-4c02-9517-db4fc417130d")
+	)
+	(wire
+		(pts
 			(xy 134.62 115.57) (xy 134.62 116.84)
 		)
 		(stroke
@@ -8583,6 +9607,16 @@
 			(type default)
 		)
 		(uuid "e98fad24-76e1-411a-8611-6d0bda2fb435")
+	)
+	(wire
+		(pts
+			(xy 247.65 81.28) (xy 247.65 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea2c26f1-5527-4882-b814-eb9d3919b2bb")
 	)
 	(wire
 		(pts
@@ -8816,6 +9850,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 97.79) (xy 160.02 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd7cccd0-1e2d-471c-8452-a6264efb2697")
+	)
+	(wire
+		(pts
 			(xy 104.14 154.94) (xy 101.6 154.94)
 		)
 		(stroke
@@ -8883,6 +9927,16 @@
 			(justify left bottom)
 		)
 		(uuid "048ef4f5-0a7b-4aeb-a3f0-1e6732be1a2e")
+	)
+	(label "VSYS"
+		(at 214.63 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "069d5a27-6106-4303-8940-567162c6e9a1")
 	)
 	(label "GPIO28"
 		(at 157.48 204.47 0)
@@ -8963,6 +10017,16 @@
 			(justify left bottom)
 		)
 		(uuid "1652c565-3e93-44c8-b78f-c65ea72cc3ec")
+	)
+	(label "GPIO27"
+		(at 256.54 69.85 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "18de63dd-916a-4ec6-b596-bd4c09d5b5ae")
 	)
 	(label "GPIO20"
 		(at 107.95 125.73 180)
@@ -9574,6 +10638,16 @@
 		)
 		(uuid "997078ff-1455-49e8-bbd3-8ba325801720")
 	)
+	(label "GPIO29"
+		(at 97.79 102.87 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9d32c67b-8442-4ddf-8a0e-3a00a614a0d8")
+	)
 	(label "RUN"
 		(at 101.6 154.94 180)
 		(effects
@@ -9654,6 +10728,16 @@
 		)
 		(uuid "ae52dfd0-1969-4947-856f-3c8cba497c0d")
 	)
+	(label "GPIO26"
+		(at 242.57 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "af00f707-fd7a-4518-b307-d4ddc31da243")
+	)
 	(label "GPIO7"
 		(at 39.37 113.03 0)
 		(effects
@@ -9664,6 +10748,16 @@
 		)
 		(uuid "b6489024-1bee-4d80-a383-cc2d6f09379e")
 	)
+	(label "GPIO29"
+		(at 143.51 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b6644016-057b-48fe-8f71-ba7112e44db7")
+	)
 	(label "GPIO15"
 		(at 39.37 138.43 0)
 		(effects
@@ -9673,6 +10767,16 @@
 			(justify left bottom)
 		)
 		(uuid "b9088068-e55b-41bc-875f-e73bc0f4fb80")
+	)
+	(label "PS2_DATA"
+		(at 240.03 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b924e005-b7b0-47bc-92b9-8c14bf80c1f5")
 	)
 	(label "GPIO20"
 		(at 195.58 124.46 0)
@@ -10074,6 +11178,16 @@
 		)
 		(uuid "f386424e-453c-4a6f-91c2-2231b7b8f1d3")
 	)
+	(label "PS2_CLK"
+		(at 240.03 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f512838e-15e8-451c-8847-518e66d24155")
+	)
 	(label "GPIO13"
 		(at 35.56 208.28 180)
 		(effects
@@ -10200,9 +11314,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ef5c72b")
 		(property "Reference" "U2"
@@ -10401,9 +11515,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ef60886")
 		(property "Reference" "J3"
@@ -13137,9 +14251,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005eff6023")
 		(property "Reference" "R9"
@@ -14763,9 +15877,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f27d875")
 		(property "Reference" "R24"
@@ -14841,9 +15955,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f27d87b")
 		(property "Reference" "R23"
@@ -16556,6 +17670,163 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 251.46 82.55 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "17cca675-2add-42f5-8765-b3ad15b8d80f")
+		(property "Reference" "#PWR0148"
+			(at 251.46 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 251.333 86.9442 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 251.46 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 251.46 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 251.46 82.55 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b29a3f79-008c-4d05-9b78-b0de3b83604b")
+		)
+		(instances
+			(project "picow_vga_sd_aud"
+				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f"
+					(reference "#PWR0148")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 160.02 101.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(uuid "198d288d-738b-4635-bc7d-320f179506d4")
+		(property "Reference" "C27"
+			(at 162.941 100.4316 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1u"
+			(at 162.941 102.743 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 160.9852 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 160.02 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 160.02 101.6 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "862ed1d7-6104-42ee-8699-f244b7492180")
+		)
+		(pin "2"
+			(uuid "d1cf469a-3336-4291-aae5-108bbacc59bf")
+		)
+		(instances
+			(project "picow_vga_sd_aud"
+				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f"
+					(reference "C27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Display_Graphic:ER_OLEDM0.91_1x-I2C")
 		(at 222.25 186.69 0)
 		(unit 1)
@@ -16611,7 +17882,7 @@
 				)
 			)
 		)
-		(property "Description" "SSD1306 OLED module, 0.91 inch, 128x32, I2C"
+		(property "Description" "SSD1306 OLED module, 0.91 inch, 128x64, I2C"
 			(at 248.92 203.454 0)
 			(hide yes)
 			(show_name no)
@@ -16644,8 +17915,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 199.39 35.56 0)
+		(lib_id "power:+3.3VA")
+		(at 121.92 234.95 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16653,9 +17924,10 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "1e8bbb4c-5136-478f-9cef-21e4d2983c10")
-		(property "Reference" "#PWR0113"
-			(at 199.39 39.37 0)
+		(fields_autoplaced yes)
+		(uuid "1d44fac5-5c4f-410f-b6c4-c01872b0eb76")
+		(property "Reference" "#PWR021"
+			(at 121.92 238.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16665,8 +17937,8 @@
 				)
 			)
 		)
-		(property "Value" "+3V3"
-			(at 199.771 31.1658 0)
+		(property "Value" "+3.3VA"
+			(at 121.92 229.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16676,7 +17948,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 199.39 35.56 0)
+			(at 121.92 234.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16687,7 +17959,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 199.39 35.56 0)
+			(at 121.92 234.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16697,8 +17969,9 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 199.39 35.56 0)
+		(property "Description" "Power symbol creates a global label with name \"+3.3VA\""
+			(at 121.92 234.95 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16708,12 +17981,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "e41832a7-980d-4020-bbdc-835694bd5f5a")
+			(uuid "595b2a29-a983-4081-8aa3-0ce00e184968")
 		)
 		(instances
 			(project "picow_vga_sd_aud"
 				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f"
-					(reference "#PWR0113")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -16897,6 +18170,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 166.37 34.29 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3d2cfab9-2429-43c5-aa34-c09414cbe82a")
+		(property "Reference" "#FLG03"
+			(at 166.37 32.385 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 166.37 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 166.37 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 166.37 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 166.37 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "90c36c42-8c32-40af-bd7b-dc436f75324f")
+		)
+		(instances
+			(project "picow_vga_sd_aud"
+				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f"
+					(reference "#FLG03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "RPI - Power:PWR_NET")
 		(at 189.23 172.72 0)
 		(unit 1)
@@ -16968,6 +18319,84 @@
 			(project "picow_vga_sd_aud"
 				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f"
 					(reference "#PWR052")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3VA")
+		(at 199.39 31.75 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "43652b44-677c-47f9-a959-8f9e12346e8f")
+		(property "Reference" "#PWR022"
+			(at 199.39 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3VA"
+			(at 199.39 26.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 199.39 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3VA\""
+			(at 199.39 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6adeb527-562d-41e0-b5e3-ba20ba043d23")
+		)
+		(instances
+			(project "picow_vga_sd_aud"
+				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f"
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -17143,6 +18572,247 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 156.21 93.98 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(uuid "515ee6d9-de67-499b-bdf8-2567907fdb9c")
+		(property "Reference" "R46"
+			(at 152.4 91.44 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 158.75 91.44 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 156.21 92.202 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.21 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 156.21 93.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0a6ca3ba-de62-4ed1-96ff-a4838d8fb5c7")
+		)
+		(pin "2"
+			(uuid "911536c5-d053-4fc8-865f-8751b1552e05")
+		)
+		(instances
+			(project "picow_vga_sd_aud"
+				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f"
+					(reference "R46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Reference_Voltage:TL431DBZ")
+		(at 175.26 93.98 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5844fcf8-cb50-44a0-aa1b-722a302fbc6b")
+		(property "Reference" "U11"
+			(at 177.8 92.7099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TL431DBZ"
+			(at 177.8 95.2499 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 180.086 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl431.pdf"
+			(at 184.404 92.202 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Description" "Shunt Regulator, SOT-23"
+			(at 182.372 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "9c0d34ba-e8bd-4e1d-bc50-74814793d4b8")
+		)
+		(pin "2"
+			(uuid "57b1c895-68a3-4e8b-b3ec-856f37498e31")
+		)
+		(pin "1"
+			(uuid "ff59fe4f-4f5c-41a8-9e83-c46bf1717274")
+		)
+		(instances
+			(project "picow_vga_sd_aud"
+				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f"
+					(reference "U11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 175.26 81.28 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "613f43fe-8944-4501-a393-28ee3e9a6563")
+		(property "Reference" "#PWR0147"
+			(at 175.26 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 175.641 76.8858 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.26 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 175.26 81.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0b10e102-bcae-4ab0-becd-37c591b790c0")
+		)
+		(instances
+			(project "picow_vga_sd_aud"
+				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f"
+					(reference "#PWR0147")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "RPI - Power:PWR_NET")
 		(at 199.39 172.72 0)
 		(unit 1)
@@ -17220,8 +18890,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 346.71 262.89 0)
+		(lib_id "RPI - Power:GND")
+		(at 160.02 107.95 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17229,10 +18899,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "706ff606-24b5-4fcf-8feb-10764516e8c4")
-		(property "Reference" "#PWR0100"
-			(at 346.71 266.7 0)
+		(uuid "75d98c3a-c07d-40bb-a7d5-7ef40b23bffa")
+		(property "Reference" "#PWR057"
+			(at 160.02 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17242,10 +18911,10 @@
 				)
 			)
 		)
-		(property "Value" "+3V3"
-			(at 346.71 257.81 0)
+		(property "Value" "GND"
+			(at 160.02 111.887 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17253,7 +18922,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 346.71 262.89 0)
+			(at 160.02 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17264,7 +18933,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 346.71 262.89 0)
+			(at 160.02 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17275,7 +18944,8 @@
 			)
 		)
 		(property "Description" ""
-			(at 346.71 262.89 0)
+			(at 160.02 107.95 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17285,12 +18955,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "afe13448-c15c-4a8d-a2ee-20d16c56347c")
+			(uuid "54c60009-933c-4f96-b144-2ba53c9b69a4")
 		)
 		(instances
 			(project "picow_vga_sd_aud"
 				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f"
-					(reference "#PWR0100")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -17785,19 +19455,18 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 121.92 234.95 0)
+		(lib_id "Device:R")
+		(at 175.26 87.63 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
-		(uuid "9254e3ec-5f61-40be-82b0-7670de45739b")
-		(property "Reference" "#PWR0114"
-			(at 121.92 238.76 0)
-			(hide yes)
+		(uuid "88467dce-5f86-4976-a36d-c97c4bc4660e")
+		(property "Reference" "R48"
+			(at 172.72 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17806,8 +19475,8 @@
 				)
 			)
 		)
-		(property "Value" "+3V3"
-			(at 122.301 230.5558 0)
+		(property "Value" "1k"
+			(at 172.72 85.09 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17816,8 +19485,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 121.92 234.95 0)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 173.482 87.63 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17828,7 +19497,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 234.95 0)
+			(at 175.26 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17839,7 +19508,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 121.92 234.95 0)
+			(at 175.26 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17849,12 +19518,93 @@
 			)
 		)
 		(pin "1"
-			(uuid "e18db064-3c2b-4e39-ac08-ec559e5d45cb")
+			(uuid "76e4bcb4-f16b-4807-b475-8c290f16ce0b")
+		)
+		(pin "2"
+			(uuid "1236e020-1bc8-4428-b942-eb04003c1b63")
 		)
 		(instances
 			(project "picow_vga_sd_aud"
 				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f"
-					(reference "#PWR0114")
+					(reference "R48")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 166.37 93.98 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(uuid "91b068f9-9df6-45d0-96d4-e439bd44fd87")
+		(property "Reference" "R47"
+			(at 162.56 91.44 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 168.91 91.44 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 166.37 92.202 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 166.37 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 166.37 93.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e35374c5-d473-44a1-9297-a70a09bee593")
+		)
+		(pin "2"
+			(uuid "595f5064-1152-47e6-b782-2c47d52c1c29")
+		)
+		(instances
+			(project "picow_vga_sd_aud"
+				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f"
+					(reference "R47")
 					(unit 1)
 				)
 			)
@@ -18326,6 +20076,83 @@
 		)
 	)
 	(symbol
+		(lib_id "RPI - Power:GND")
+		(at 175.26 104.14 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "cea2b65d-e532-4fa9-885f-547d9121ba49")
+		(property "Reference" "#PWR056"
+			(at 175.26 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.26 108.077 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.26 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 175.26 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "408bf90b-6b66-4ebe-83cd-60b233420b2b")
+		)
+		(instances
+			(project "picow_vga_sd_aud"
+				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f"
+					(reference "#PWR056")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 321.31 238.76 180)
 		(unit 1)
@@ -18474,6 +20301,98 @@
 			(project "picow_vga_sd_aud"
 				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f"
 					(reference "#PWR0139")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Mini-DIN-6")
+		(at 232.41 72.39 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e1d09d70-5710-424b-bc64-742a128cb612")
+		(property "Reference" "J9"
+			(at 232.4277 62.23 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Mini-DIN-6"
+			(at 232.4277 64.77 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "kiC:TE_5749180-1"
+			(at 232.41 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://service.powerdynamics.com/ec/Catalog17/Section%2011.pdf"
+			(at 232.41 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "6-pin Mini-DIN connector"
+			(at 232.41 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "5"
+			(uuid "09a5f98b-1b5a-4c00-bb3c-c1febbf93be9")
+		)
+		(pin "4"
+			(uuid "d747b6b7-eea9-44f3-9ecb-e6547775f7c6")
+		)
+		(pin "2"
+			(uuid "f07ed98c-f892-43a4-b577-3d7cf585e422")
+		)
+		(pin "6"
+			(uuid "b99b93e3-0a79-4e34-b5ba-4167b7d7a528")
+		)
+		(pin "1"
+			(uuid "1de3ccae-989a-44cf-ae5f-c5c3bbebb3c1")
+		)
+		(pin "3"
+			(uuid "ce4e11d9-0533-40f0-bba3-02a9cab0bc37")
+		)
+		(instances
+			(project "picow_vga_sd_aud"
+				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f"
+					(reference "J9")
 					(unit 1)
 				)
 			)

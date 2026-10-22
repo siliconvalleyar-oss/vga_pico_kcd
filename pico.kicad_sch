@@ -6393,6 +6393,121 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:PWR_FLAG"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#FLG"
+				(at 0 1.905 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "PWR_FLAG"
+				(at 0 3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Special symbol for telling ERC where power comes from"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "flag power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_0"
+				(pin power_out line
+					(at 0 0 90)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(text "Flash"
 		(exclude_from_sim no)
@@ -6485,12 +6600,6 @@
 		(uuid "2068ba9d-de5f-4459-a7af-4e34f8255ec1")
 	)
 	(junction
-		(at 95.25 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "25669e98-7ad5-4c8b-b857-b80d5755dcf9")
-	)
-	(junction
 		(at 71.12 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6509,22 +6618,10 @@
 		(uuid "3caf554e-e0e5-4eb9-a47e-7798b9dfbca7")
 	)
 	(junction
-		(at 105.41 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3d2cc5c1-24a4-4b1a-9906-d54118fc7904")
-	)
-	(junction
 		(at 119.38 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4158919c-98a4-407b-99dd-0fbc255d439a")
-	)
-	(junction
-		(at 55.88 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4788a261-bf68-4ac2-b1d4-78a6f6ec1212")
 	)
 	(junction
 		(at 254 48.26)
@@ -6575,6 +6672,12 @@
 		(uuid "74b5db36-ee98-49fe-882e-5a61cc8db35e")
 	)
 	(junction
+		(at 69.85 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "80765718-c63b-46b9-9f63-b8d4c080f742")
+	)
+	(junction
 		(at 35.56 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6597,6 +6700,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9667360c-4ad3-4f03-9434-1c2ad69405f4")
+	)
+	(junction
+		(at 105.41 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a1dcb0ec-cae1-4cc8-9d92-39bdfae8a13a")
 	)
 	(junction
 		(at 242.57 62.23)
@@ -6641,6 +6750,12 @@
 		(uuid "d25a834a-308d-4187-9e1e-7be7a8cb02fe")
 	)
 	(junction
+		(at 55.88 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e27e35f9-b105-46af-b9d0-05e9d101d78e")
+	)
+	(junction
 		(at 284.48 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6661,6 +6776,10 @@
 	(no_connect
 		(at 44.45 63.5)
 		(uuid "c1894c4b-eac4-49f4-a94f-471f94d0035e")
+	)
+	(no_connect
+		(at 92.71 54.61)
+		(uuid "d84a4f9a-c437-44fc-a018-8d0b800e5973")
 	)
 	(wire
 		(pts
@@ -7061,16 +7180,6 @@
 			(type default)
 		)
 		(uuid "30b022fa-ee6c-4202-a172-7f10cc6a81a7")
-	)
-	(wire
-		(pts
-			(xy 105.41 54.61) (xy 105.41 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "334baf43-53b4-4fb3-a3c2-5a32603f8dbd")
 	)
 	(wire
 		(pts
@@ -7564,7 +7673,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 57.15) (xy 95.25 57.15)
+			(xy 92.71 57.15) (xy 105.41 57.15)
 		)
 		(stroke
 			(width 0)
@@ -7631,16 +7740,6 @@
 			(type default)
 		)
 		(uuid "8185e570-c241-4e19-840d-7464aa845632")
-	)
-	(wire
-		(pts
-			(xy 95.25 57.15) (xy 95.25 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "82f5a4c8-50e5-4a78-973a-8b59beb1867f")
 	)
 	(wire
 		(pts
@@ -7754,6 +7853,16 @@
 	)
 	(wire
 		(pts
+			(xy 105.41 57.15) (xy 105.41 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b912915-45bc-4d0b-84ed-3b436045ca65")
+	)
+	(wire
+		(pts
 			(xy 359.41 198.12) (xy 359.41 201.93)
 		)
 		(stroke
@@ -7794,6 +7903,16 @@
 	)
 	(wire
 		(pts
+			(xy 69.85 55.88) (xy 74.93 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92bb8744-81b0-4583-a824-4a5fe6e3bd08")
+	)
+	(wire
+		(pts
 			(xy 273.05 48.26) (xy 284.48 48.26)
 		)
 		(stroke
@@ -7821,16 +7940,6 @@
 			(type default)
 		)
 		(uuid "996bd9cc-cfa4-48a1-98f3-896b7be42f2a")
-	)
-	(wire
-		(pts
-			(xy 95.25 54.61) (xy 105.41 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9aab58b3-be36-45b0-b0fc-eca361e5a646")
 	)
 	(wire
 		(pts
@@ -7924,7 +8033,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 53.34) (xy 105.41 54.61)
+			(xy 105.41 53.34) (xy 105.41 57.15)
 		)
 		(stroke
 			(width 0)
@@ -8234,7 +8343,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 54.61) (xy 55.88 55.88)
+			(xy 55.88 48.26) (xy 55.88 55.88)
 		)
 		(stroke
 			(width 0)
@@ -8354,7 +8463,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 55.88) (xy 74.93 55.88)
+			(xy 66.04 55.88) (xy 69.85 55.88)
 		)
 		(stroke
 			(width 0)
@@ -8371,16 +8480,6 @@
 			(type default)
 		)
 		(uuid "d8d060fd-ca9b-49c4-a33b-4b2e844e3410")
-	)
-	(wire
-		(pts
-			(xy 92.71 54.61) (xy 95.25 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d94ac95b-efc3-4e61-a7ee-93f2f25d9cb6")
 	)
 	(wire
 		(pts
@@ -10284,7 +10383,7 @@
 	)
 	(symbol
 		(lib_id "RPI - Power:PWR_NET")
-		(at 55.88 54.61 0)
+		(at 55.88 48.26 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10294,7 +10393,7 @@
 		(dnp no)
 		(uuid "1a578b11-04ad-4a8b-8f69-5906f6138837")
 		(property "Reference" "#PWR03"
-			(at 55.88 58.42 0)
+			(at 55.88 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10305,7 +10404,7 @@
 			)
 		)
 		(property "Value" "VBUS"
-			(at 56.261 50.2158 0)
+			(at 56.261 43.8658 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10315,7 +10414,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 55.88 54.61 0)
+			(at 55.88 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10326,7 +10425,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 54.61 0)
+			(at 55.88 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10337,7 +10436,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 55.88 54.61 0)
+			(at 55.88 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10431,6 +10530,84 @@
 			(project "picow_vga_sd_aud"
 				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f/356ef146-de37-4728-841c-0ab71def169b"
 					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 69.85 55.88 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1ebda1a9-318d-474e-b0d8-01649743288b")
+		(property "Reference" "#FLG01"
+			(at 69.85 53.975 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 69.85 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 69.85 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 69.85 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 69.85 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4862009f-fde7-425b-a7ab-db1d589b61d1")
+		)
+		(instances
+			(project "picow_vga_sd_aud"
+				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f/356ef146-de37-4728-841c-0ab71def169b"
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
@@ -13114,9 +13291,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "592f8328-269c-4c8f-842d-c514af1fb8d1")
 		(property "Reference" "C18"
@@ -14286,7 +14463,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RaspberryPI PicoW:generic_capc2012x125"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 359.41 204.47 0)
 			(hide yes)
 			(show_name no)
@@ -15279,9 +15456,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "8813d48a-b88e-4897-b916-c37a62d5c24c")
 		(property "Reference" "U5"
@@ -16414,7 +16591,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RaspberryPI PicoW:generic_capc2012x125"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 66.04 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -17400,9 +17577,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "b1cb28b0-3829-457a-a48d-82a04e0dad4d")
 		(property "Reference" "R41"
@@ -18936,9 +19113,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "d4278095-2329-4c34-9787-7d3f9f362d70")
 		(property "Reference" "J5"
@@ -19346,9 +19523,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "db91fbe5-ec80-4115-a854-f8da9f38d9ba")
 		(property "Reference" "R25"

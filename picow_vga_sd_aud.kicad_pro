@@ -306,7 +306,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "REV2"
+      "sch_revision": "REV1"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -858,7 +858,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "/mnt/disk/kicad/pico2w_vga/gerbers_vga/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -998,7 +998,7 @@
         "uuid": "7e7c068a-a341-4358-ab45-53bb7a793d6f"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#FLG1-4,#PWR21-22,#PWR58-59",
     "variants": []
   },
   "sheets": [

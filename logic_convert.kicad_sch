@@ -1708,6 +1708,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 93.98) (xy 85.09 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c1e69c5-db4d-4026-aecf-1222b7e19672")
+	)
+	(wire
+		(pts
 			(xy 158.75 99.06) (xy 163.83 99.06)
 		)
 		(stroke
@@ -1745,6 +1755,16 @@
 			(type default)
 		)
 		(uuid "16e60b51-5d0f-4271-a200-d76727b6e890")
+	)
+	(wire
+		(pts
+			(xy 106.68 52.07) (xy 106.68 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cd628d0-d722-4601-a225-44f2c4f5e568")
 	)
 	(wire
 		(pts
@@ -1818,6 +1838,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 60.96) (xy 110.49 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58d21c7f-945e-402a-8442-91d01408aca7")
+	)
+	(wire
+		(pts
 			(xy 160.02 73.66) (xy 163.83 73.66)
 		)
 		(stroke
@@ -1858,16 +1888,6 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 93.98) (xy 85.09 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "63ea1fb0-3a0b-4fe3-95a6-da8f688739d2")
-	)
-	(wire
-		(pts
 			(xy 153.67 53.34) (xy 158.75 53.34)
 		)
 		(stroke
@@ -1895,16 +1915,6 @@
 			(type default)
 		)
 		(uuid "776a8e67-071c-482b-b57f-3276b68c6ca2")
-	)
-	(wire
-		(pts
-			(xy 106.68 60.96) (xy 110.49 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "83215b4e-fd07-4327-a991-3d1c5e4253e1")
 	)
 	(wire
 		(pts
@@ -1968,6 +1978,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 86.36) (xy 73.66 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b61bc49f-756f-4e72-85ce-77a6a97cc643")
+	)
+	(wire
+		(pts
 			(xy 160.02 63.5) (xy 163.83 63.5)
 		)
 		(stroke
@@ -2025,6 +2045,16 @@
 			(type default)
 		)
 		(uuid "d6ae019c-5952-4c50-a5ab-c2e51747687f")
+	)
+	(wire
+		(pts
+			(xy 123.19 46.99) (xy 123.19 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef233d10-b2ba-4e0c-ba94-4dc5f4653ec3")
 	)
 	(wire
 		(pts
@@ -2175,16 +2205,6 @@
 			(justify left bottom)
 		)
 		(uuid "63cd1462-b340-46aa-98fc-7fd47d1141c8")
-	)
-	(label "OE"
-		(at 106.68 60.96 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "667f55fd-5883-4640-bf20-db19c0e9a99c")
 	)
 	(label "B_1"
 		(at 134.62 63.5 0)
@@ -2386,16 +2406,6 @@
 		)
 		(uuid "f2e5d94f-eadd-433f-90f6-999b212e51bc")
 	)
-	(label "OE"
-		(at 81.28 93.98 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f35ad9e1-6594-4e7d-b71f-adb339fbed5f")
-	)
 	(hierarchical_label "A_3"
 		(shape input)
 		(at 110.49 68.58 180)
@@ -2574,7 +2584,7 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 123.19 53.34 0)
+		(at 123.19 46.99 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2584,7 +2594,7 @@
 		(dnp no)
 		(uuid "11bc6214-46d0-4caa-ae20-2142d1d6f505")
 		(property "Reference" "#PWR047"
-			(at 123.19 57.15 0)
+			(at 123.19 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2595,7 +2605,7 @@
 			)
 		)
 		(property "Value" "VBUS"
-			(at 123.571 48.9458 0)
+			(at 123.571 42.5958 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2605,7 +2615,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 123.19 53.34 0)
+			(at 123.19 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2616,7 +2626,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 123.19 53.34 0)
+			(at 123.19 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2627,7 +2637,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 123.19 53.34 0)
+			(at 123.19 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2654,9 +2664,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11c37193-1dfc-4bba-9427-7e397a6769d2")
@@ -2790,9 +2800,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14461555-73ff-481f-b77b-c95c40ad774e")
@@ -2992,6 +3002,82 @@
 			(project "picow_vga_sd_aud"
 				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f/03584bcb-a08e-4c13-bef8-3efe9e900789"
 					(reference "#PWR0142")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VBUS")
+		(at 73.66 86.36 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "620f2971-eb1c-4630-b7e8-db7bc220df58")
+		(property "Reference" "#PWR059"
+			(at 73.66 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "VBUS"
+			(at 74.041 81.9658 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 73.66 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 73.66 86.36 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b0a50f17-9841-4a86-b271-0286608a37ce")
+		)
+		(instances
+			(project "picow_vga_sd_aud"
+				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f/03584bcb-a08e-4c13-bef8-3efe9e900789"
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -3223,6 +3309,82 @@
 			(project "picow_vga_sd_aud"
 				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f/03584bcb-a08e-4c13-bef8-3efe9e900789"
 					(reference "#PWR0140")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VBUS")
+		(at 106.68 52.07 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b3172f6e-2146-4785-92c3-67ca5f3cd9b6")
+		(property "Reference" "#PWR058"
+			(at 106.68 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "VBUS"
+			(at 107.061 47.6758 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 106.68 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 52.07 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d164a309-b386-48c3-a579-597bf11cc580")
+		)
+		(instances
+			(project "picow_vga_sd_aud"
+				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f/03584bcb-a08e-4c13-bef8-3efe9e900789"
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -3464,9 +3626,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc421179-af50-4b10-9291-6f9dfb70020b")
