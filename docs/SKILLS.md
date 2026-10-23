@@ -195,3 +195,6 @@ Error: Expecting at, descr, locked... Got 'footprint'
 9. ✅ Added `+3.3VA` pattern to power3V3 net class
 10. ✅ Cleaned up unused files and directories
 11. ✅ All changes committed and pushed to GitHub
+## KiCad LCSC Import
+
+See `.kilo/skills/kicad-lcsc-import.md` for details on importing LCSC part numbers from CSV to KiCad schematics.
