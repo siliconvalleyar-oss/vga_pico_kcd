@@ -933,12 +933,186 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "capacitance",
+          "name": "capacitance",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "capacity",
+          "name": "capacity",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "current",
+          "name": "current",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "dielectric",
+          "name": "dielectric",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "esr",
+          "name": "esr",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "freq_stability",
+          "name": "freq_stability",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "frequency",
+          "name": "frequency",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "load_capacitance",
+          "name": "load_capacitance",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "manufacturer",
+          "name": "manufacturer",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "manufacturer_pn",
+          "name": "manufacturer_pn",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "material",
+          "name": "material",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "operating_temp_max",
+          "name": "operating_temp_max",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "operating_temp_min",
+          "name": "operating_temp_min",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "package",
+          "name": "package",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "packaging",
+          "name": "packaging",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "packaging_qty",
+          "name": "packaging_qty",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "part_uid",
+          "name": "part_uid",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "power",
+          "name": "power",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "resistance",
+          "name": "resistance",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "size",
+          "name": "size",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "temp_coefficient",
+          "name": "temp_coefficient",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "tolerance",
+          "name": "tolerance",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "voltage",
+          "name": "voltage",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "z_height_max",
+          "name": "z_height_max",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "z_height_nom",
+          "name": "z_height_nom",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": true
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -998,7 +1172,7 @@
         "uuid": "7e7c068a-a341-4358-ab45-53bb7a793d6f"
       }
     ],
-    "used_designators": "#FLG1-4,#PWR21-22,#PWR58-59",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
