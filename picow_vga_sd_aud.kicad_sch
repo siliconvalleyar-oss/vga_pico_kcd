@@ -2332,20 +2332,19 @@
 					(font
 						(size 1.27 1.27)
 					)
-						(property "LCSC" "C84256"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
 				)
 			)
-		)
-)
+			(property "LCSC" "C84256"
+				(at 0 0 0)
+				(hide yes)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
 			)
-			
 			(property "Footprint" ""
 				(at 0 0 0)
 				(show_name no)
