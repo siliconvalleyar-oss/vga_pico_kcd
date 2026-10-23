@@ -11863,7 +11863,9 @@
 				(font
 					(size 1.27 1.27)
 				)
-					(property "LCSC" "C11702"
+			)
+		)
+		(property "LCSC" "C11702"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -11874,9 +11876,6 @@
 				)
 			)
 		)
-)
-		)
-		
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 311.15 35.052 90)
 			(hide yes)
