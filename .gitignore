@@ -22,3 +22,5 @@ gerbers/
 # OS
 .DS_Store
 Thumbs.db
+
+picow_vga_sd_aud-backups/
