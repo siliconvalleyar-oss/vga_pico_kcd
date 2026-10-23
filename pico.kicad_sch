@@ -10212,6 +10212,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C2933393"
+			(at 233.68 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "46ba4943-62a4-4daf-a493-2eff217e8add")
 		)
@@ -10932,6 +10943,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C28233"
+			(at 273.05 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a46b5f0f-0902-4c9f-af4f-eb3e662e2ae2")
 		)
@@ -11211,7 +11233,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 105.41 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -11421,6 +11443,17 @@
 			)
 		)
 		(property "z_height_nom" "1.25mm"
+			(at 105.41 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C15850"
 			(at 105.41 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -11676,6 +11709,17 @@
 			)
 		)
 		(property "z_height_nom" "0.8mm"
+			(at 76.2 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 76.2 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -12103,6 +12147,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C28233"
+			(at 254 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6ebc0f2d-2b35-42bc-bb91-1be359a10bde")
 		)
@@ -12228,7 +12283,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 254 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -12427,6 +12482,17 @@
 			)
 		)
 		(property "z_height_nom" "0.5mm"
+			(at 254 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1779"
 			(at 254 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -12691,7 +12757,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -12861,6 +12927,17 @@
 			)
 		)
 		(property "z_height_nom" "0.9mm"
+			(at 205.74 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 205.74 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -13185,6 +13262,17 @@
 		)
 		(property "Description" ""
 			(at 48.26 161.29 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 48.26 161.29 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13527,6 +13615,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C28233"
+			(at 284.48 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "633383c5-f49a-40b6-906e-489052ef5867")
 		)
@@ -13851,6 +13950,17 @@
 			)
 		)
 		(property "z_height_nom" "0.5mm"
+			(at 59.69 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C107110 "
 			(at 59.69 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -14317,6 +14427,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 109.22 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "28149654-e39e-46e0-b4d3-d35ea6a756b5")
 		)
@@ -14372,7 +14493,7 @@
 				)
 			)
 		)
-		(property "Value" "100mH"
+		(property "Value" "100uH"
 			(at 60.96 53.34 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14382,7 +14503,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
+		(property "Footprint" "Inductor_SMD:L_1206_3216Metric"
 			(at 60.96 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -14406,6 +14527,17 @@
 		)
 		(property "Description" "Inductor"
 			(at 60.96 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C74489"
+			(at 60.96 55.88 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14683,6 +14815,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C15850"
+			(at 359.41 204.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "019d2f9b-8bad-483e-ae6b-06e6f511addf")
 		)
@@ -14809,7 +14952,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 273.05 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -15018,6 +15161,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C1779"
+			(at 273.05 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "94c97b28-5306-40f5-a734-b2636b0139b5")
 		)
@@ -15177,6 +15331,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 133.35 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a3b49f5a-b926-4210-b41e-d7b909894b4a")
 		)
@@ -15225,7 +15390,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 125.73 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -15424,6 +15589,17 @@
 			)
 		)
 		(property "z_height_nom" "0.5mm"
+			(at 125.73 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1525"
 			(at 125.73 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -15649,6 +15825,17 @@
 			)
 		)
 		(property "z_height_nom" "1.95mm"
+			(at 107.95 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 107.95 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -15890,6 +16077,17 @@
 			)
 		)
 		(property "z_height_nom" "1.8mm"
+			(at 83.82 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 83.82 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -16264,6 +16462,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C17513"
+			(at 91.44 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c9033993-a785-4230-a475-6187e9989eb0")
 		)
@@ -16543,6 +16752,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C2933393"
+			(at 233.68 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "022231bf-37dd-415a-a775-4c5ec2948ea9")
 		)
@@ -16801,6 +17021,17 @@
 			)
 		)
 		(property "z_height_nom" "1.25mm"
+			(at 66.04 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C15850"
 			(at 66.04 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -17299,6 +17530,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C28233"
+			(at 330.2 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b815bfc6-bd65-4708-892b-24a802a43e49")
 		)
@@ -17546,6 +17788,17 @@
 			)
 		)
 		(property "z_height_nom" "0.5mm"
+			(at 295.91 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C28233"
 			(at 295.91 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -17825,6 +18078,17 @@
 			)
 		)
 		(property "z_height_nom" "0.35mm"
+			(at 335.28 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17513"
 			(at 335.28 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -18268,6 +18532,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C17414"
+			(at 71.12 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2a357aa4-a917-4b21-875a-4219abb44786")
 		)
@@ -18393,7 +18668,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 242.57 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -18592,6 +18867,17 @@
 			)
 		)
 		(property "z_height_nom" "0.5mm"
+			(at 242.57 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1525"
 			(at 242.57 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -18936,6 +19222,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C28233"
+			(at 318.77 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0d0b6fb3-8874-4d47-9ae2-47700e7c5a02")
 		)
@@ -19260,6 +19557,17 @@
 			)
 		)
 		(property "z_height_nom" "8.38mm"
+			(at 33.02 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 33.02 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -19781,6 +20089,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 335.28 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "32b108ea-12bd-4577-92f0-ea1b29eec6a1")
 		)
@@ -20039,6 +20358,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C107110 "
+			(at 59.69 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2390f68f-6060-4e0f-ba9e-74bbe398ef0a")
 		)
@@ -20241,7 +20571,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 341.63 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -20440,6 +20770,17 @@
 			)
 		)
 		(property "z_height_nom" "0.5mm"
+			(at 341.63 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1525"
 			(at 341.63 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -20938,6 +21279,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C28233"
+			(at 307.34 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5db5897a-b4c7-4dc8-83c1-5d1b1f50704e")
 		)
@@ -21217,6 +21569,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C17673"
+			(at 55.88 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ce45ef41-29bb-4e99-a1a9-594e6389a5dd")
 		)
@@ -21409,6 +21772,17 @@
 			)
 		)
 		(property "z_height_nom" "2.85mm"
+			(at 30.48 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 30.48 60.96 0)
 			(hide yes)
 			(show_name no)
