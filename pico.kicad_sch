@@ -12757,7 +12757,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -12937,7 +12937,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C2040"
 			(at 205.74 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -13227,7 +13227,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_boot"
+		(property "Value" "SKRPACE010"
 			(at 52.0192 162.433 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13270,7 +13270,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C139797"
 			(at 48.26 161.29 90)
 			(hide yes)
 			(show_name no)
@@ -14240,7 +14240,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "W25Q128JVSIQ"
+		(property "Value" "W25Q64JVXGIM"
 			(at 101.346 199.644 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14427,7 +14427,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C6604688"
 			(at 109.22 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -15835,7 +15835,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C113767"
 			(at 107.95 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -15900,7 +15900,7 @@
 				)
 			)
 		)
-		(property "Value" "NCP1117ST33T3G"
+		(property "Value" "LM1117DT-3.3/NOPB"
 			(at 84.582 61.214 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16087,7 +16087,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C71127"
 			(at 83.82 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -21617,7 +21617,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10103594-0001LF"
+		(property "Value" "U-M-M5SS-W-2"
 			(at 28.702 67.31 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21628,7 +21628,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kiC:USB_Mini-B_Lumberg_2486_01_Horizontal"
+		(property "Footprint" "Connector_USB:USB_Mini-B_Lumberg_2486_01_Horizontal"
 			(at 30.48 52.705 0)
 			(hide yes)
 			(show_name no)
@@ -21782,7 +21782,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C91144"
 			(at 30.48 60.96 0)
 			(hide yes)
 			(show_name no)

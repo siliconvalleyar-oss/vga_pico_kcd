@@ -24,3 +24,6 @@ gerbers/
 Thumbs.db
 
 picow_vga_sd_aud-backups/
+tmp/
+
+production/

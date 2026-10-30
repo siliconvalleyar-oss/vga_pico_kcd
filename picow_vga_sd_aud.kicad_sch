@@ -2810,6 +2810,277 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "JLCImport:CK3_5-149T"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "CN"
+				(at 0 7.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CK3_5-149T"
+				(at 0 -7.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JLCImport:CK3_5-149T"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2008051235_JINJIA-CK3-5-149T_C718045.pdf"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "-25℃~+70℃ 3.5mm Headphone Jack 30V 500mA SMD Audio Connectors ROHS"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C718045"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "JINJIA"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer Part" "CK3.5-149T"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "AUDIO-TH_CK3.5-149T C718045 CK3.5-149T JINJIA"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "CK3_5-149T_0_1"
+				(rectangle
+					(start -10.16 2.54)
+					(end -7.62 -3.81)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 5.08) (xy -8.89 5.08) (xy -8.89 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy -5.842 2.54) (xy -6.604 1.27) (xy -7.366 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy -2.54 -2.54) (xy -2.54 -5.08) (xy -2.794 -4.572)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 0) (xy -3.302 0) (xy -4.064 -1.27) (xy -4.826 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 -5.08) (xy -3.556 -5.08) (xy -4.064 -4.064) (xy -4.572 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 5.08 180)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 2.54 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 -5.08 180)
+					(length 5.08)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 -2.54 180)
+					(length 5.08)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Mechanical:MountingHole"
 			(pin_names
 				(offset 1.016)
@@ -7140,6 +7411,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 165.1) (xy 199.39 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ef00d90-f107-4b72-8291-fa13c8cb6df2")
+	)
+	(wire
+		(pts
 			(xy 39.37 138.43) (xy 55.88 138.43)
 		)
 		(stroke
@@ -8667,6 +8948,16 @@
 			(type default)
 		)
 		(uuid "a44c3f15-a9e1-4bd6-add5-124618ac315a")
+	)
+	(wire
+		(pts
+			(xy 189.23 166.37) (xy 189.23 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a489f345-b25a-4c37-8254-58fe0b473850")
 	)
 	(wire
 		(pts
@@ -11541,7 +11832,7 @@
 				)
 			)
 		)
-		(property "Value" "Micro_SD_Card"
+		(property "Value" "TF-001B"
 			(at 373.38 172.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11551,7 +11842,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kiC:3M_2908-05WB-MG"
+		(property "Footprint" "JLCImport:TF-001B"
 			(at 397.51 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -11583,7 +11874,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C91144"
+		(property "LCSC" "C125617"
 			(at 368.3 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -12234,7 +12525,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SKRPACE010"
 			(at 285.6992 36.703 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12267,7 +12558,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch"
 			(at 281.94 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12277,7 +12568,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C139797"
 			(at 281.94 35.56 90)
 			(hide yes)
 			(show_name no)
@@ -12846,7 +13137,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SKRPACE010"
 			(at 285.6992 73.533 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12889,7 +13180,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C83916"
+		(property "LCSC" "C139797"
 			(at 281.94 72.39 90)
 			(hide yes)
 			(show_name no)
@@ -13547,7 +13838,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SKRPACE010"
 			(at 285.6992 110.363 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13580,7 +13871,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SKRPACE010"
 			(at 281.94 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13590,7 +13881,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C83916"
+		(property "LCSC" "C139797"
 			(at 281.94 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -15372,7 +15663,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "AudioJack3"
+		(property "Value" "PJ-320BSurface Mount"
 			(at 212.852 249.5296 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15405,7 +15696,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "200mA 3.5mm Headphone Jack 30V SMD Audio Connectors ROHS"
 			(at 205.74 248.92 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15415,7 +15706,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C18594"
 			(at 205.74 248.92 0)
 			(hide yes)
 			(show_name no)
@@ -16900,7 +17191,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C5366877"
+		(property "LCSC" "C11337"
 			(at 185.42 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -17940,8 +18231,9 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SKRPACE010"
 			(at 123.19 118.11 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17973,8 +18265,9 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 127 115.57 0)
+		(property "Description" "Tactile Switch"
+			(at 135.128 112.014 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17983,7 +18276,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C92584"
+		(property "LCSC" "C139797"
 			(at 127 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -18247,6 +18540,128 @@
 			(project "picow_vga_sd_aud"
 				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f"
 					(reference "#PWR053")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "JLCImport:CK3_5-149T")
+		(at 218.44 270.51 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board no)
+		(in_pos_files no)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "152f2df8-2506-4245-8f3a-80f714f25205")
+		(property "Reference" "CN1"
+			(at 215.9 260.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CK3_5-149T"
+			(at 215.9 262.89 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "JLCImport:CK3_5-149T"
+			(at 218.44 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2008051235_JINJIA-CK3-5-149T_C718045.pdf"
+			(at 218.44 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "-25℃~+70℃ 3.5mm Headphone Jack 30V 500mA SMD Audio Connectors ROHS"
+			(at 218.44 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C718045"
+			(at 218.44 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "JINJIA"
+			(at 218.44 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "CK3.5-149T"
+			(at 218.44 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5e10272e-413e-47ff-b7c6-b104b78e6cf4")
+		)
+		(pin "4"
+			(uuid "b8588557-4ad8-49aa-894b-87bdc9f3e065")
+		)
+		(pin "3"
+			(uuid "bbb56880-e26f-4a89-9569-9c52e2f057c9")
+		)
+		(pin "5"
+			(uuid "07b2c213-222d-467d-a8e3-ecfbb2c6817f")
+		)
+		(pin "2"
+			(uuid "be270856-8b83-473b-8eaa-b9c52c55d5dc")
+		)
+		(instances
+			(project "picow_vga_sd_aud"
+				(path "/7e7c068a-a341-4358-ab45-53bb7a793d6f"
+					(reference "CN1")
 					(unit 1)
 				)
 			)
@@ -18695,7 +19110,7 @@
 				)
 			)
 		)
-		(property "Value" "Micro_SD_Card"
+		(property "Value" "TF-001B"
 			(at 358.775 208.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18705,7 +19120,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:3M_2908-05WB-MG"
+		(property "Footprint" "JLCImport:TF-001B"
 			(at 387.35 217.17 0)
 			(hide yes)
 			(show_name no)
@@ -18865,7 +19280,7 @@
 	)
 	(symbol
 		(lib_id "RPI - Power:PWR_NET")
-		(at 189.23 172.72 0)
+		(at 189.23 166.37 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18875,7 +19290,7 @@
 		(dnp no)
 		(uuid "42703aa3-1f4f-4ab9-b553-40714436a588")
 		(property "Reference" "#PWR052"
-			(at 189.23 176.53 0)
+			(at 189.23 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18886,7 +19301,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 189.611 168.3258 0)
+			(at 189.611 161.9758 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18896,7 +19311,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 189.23 172.72 0)
+			(at 189.23 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18907,7 +19322,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 172.72 0)
+			(at 189.23 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18918,7 +19333,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 189.23 172.72 0)
+			(at 189.23 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19463,7 +19878,7 @@
 	)
 	(symbol
 		(lib_id "RPI - Power:PWR_NET")
-		(at 199.39 172.72 0)
+		(at 199.39 165.1 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19473,7 +19888,7 @@
 		(dnp no)
 		(uuid "63657ab2-fd3b-417c-8aef-d6bc3fbc70f4")
 		(property "Reference" "#PWR051"
-			(at 199.39 176.53 0)
+			(at 199.39 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19484,7 +19899,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 199.771 168.3258 0)
+			(at 199.771 160.7058 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19494,7 +19909,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 199.39 172.72 0)
+			(at 199.39 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19505,7 +19920,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 199.39 172.72 0)
+			(at 199.39 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19516,7 +19931,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 199.39 172.72 0)
+			(at 199.39 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

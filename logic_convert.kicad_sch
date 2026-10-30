@@ -1686,6 +1686,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "NOTES\ncorregir :\n\n\nU6,U10,H1,H2,H3,H4,J7"
+		(exclude_from_sim no)
+		(at 178.816 128.524 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "65f4d4bb-c343-464a-803e-66ab4d071e9d")
+	)
 	(wire
 		(pts
 			(xy 158.75 93.98) (xy 163.83 93.98)
