@@ -745,7 +745,53 @@
       "version": 5
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "/logic_convert/RA1": [
+        "buspic32"
+      ],
+      "/logic_convert/RB10": [
+        "buspic32"
+      ],
+      "/logic_convert/RB11": [
+        "buspic32"
+      ],
+      "/logic_convert/RB12": [
+        "buspic32"
+      ],
+      "/logic_convert/RB13": [
+        "buspic32"
+      ],
+      "/logic_convert/RB14": [
+        "buspic32"
+      ],
+      "/logic_convert/RB15": [
+        "buspic32"
+      ],
+      "/logic_convert/RB8": [
+        "buspic32"
+      ],
+      "/logic_convert/RB9": [
+        "buspic32"
+      ],
+      "/logic_convert/RD14": [
+        "buspic32"
+      ],
+      "/logic_convert/RD15": [
+        "buspic32"
+      ],
+      "/logic_convert/RF12": [
+        "buspic32"
+      ],
+      "/logic_convert/RF13": [
+        "buspic32"
+      ],
+      "/logic_convert/RF4": [
+        "buspic32"
+      ],
+      "/logic_convert/RF5": [
+        "buspic32"
+      ]
+    },
     "netclass_patterns": [
       {
         "netclass": "Power",
@@ -1172,7 +1218,7 @@
         "uuid": "7e7c068a-a341-4358-ab45-53bb7a793d6f"
       }
     ],
-    "used_designators": "CN1-2,SW6-7,Card1-2",
+    "used_designators": "L2-3,U8-9,U12-15,R49-67,JP1-2,JP21-22,J6,J11-14,J25,Y1-3,#PWR24,#PWR27,#PWR47-48,#PWR58-85,#PWR88-96,#PWR100,#PWR108,#PWR113,#FLG2,#FLG4-6,CN1-2,SW6-7,D6-10,C28-46,C53,Card1-2",
     "variants": []
   },
   "sheets": [
